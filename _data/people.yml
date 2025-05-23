@@ -5,6 +5,7 @@
   pi: yes 
   current: yes
   image: peep-bertin.png
+  url: https://scholar.google.com/citations?hl=fr&user=DdXVGyoAAAAJ
   tags:
     - genetic diversity
     - farming systems
@@ -13,12 +14,14 @@
     - vanilla
     - oca 
     - spelt
+    - alumni
 -
   name: Valentin Couvreur
   description: >
     tes
   pi: yes
   current: yes
+  url: https://scholar.google.com/citations?user=zPzIN4QAAAAJ&hl=fr
   image: peep-couvreur.jpg
   tags:
     - root
@@ -35,6 +38,7 @@
     tes
   pi: yes
   current: yes
+  url: https://www.uclouvain.be/fr/people/xavier.draye 
   image: peep-draye.jpg
   tags:
     - root
@@ -62,6 +66,7 @@
   pi: yes
   current: yes
   image: peep-lobet.jpg
+  url: https://www.guillaumelobet.be/
   tags:
     - root
     - phenotyping
@@ -71,6 +76,22 @@
     - field
     - agricultural practices
     - wheat
+
+-
+  name: Richard Lambert
+  description: >
+    tes
+  pi: yes
+  current: yes
+  image: peep-lambert.jpeg
+  url: https://www.uclouvain.be/fr/people/richard.lambert
+  tags:
+    - crops
+    - nitrogen
+    - pasture
+    - fertilisation
+
+
 
 -
   name: Lei Ding
@@ -114,17 +135,25 @@
   admintech: yes
   current: yes
   image: peep-dabgert.jpg
+  url: https://www.uclouvain.be/fr/people/thomas.dagbert
   tags:
-    - root
+    - greenhouse
+    - field
+    - plant physiology equipment
+    - phenotyping platform
 -
   name: Pierre Vanthorre
   description: >
     tes
   admintech: yes 
   current: yes
+  url: https://www.uclouvain.be/fr/people/pierre.vanthorre
   image: peep-vanthorre.png
   tags:
-    - root
+    - greenhouse
+    - botany
+    - field
+    - taxonomy
 -
   name: Christel Buyens
   description: >
@@ -132,8 +161,10 @@
   admintech: yes
   current: yes
   image: peep-buyens.png
+  url: https://www.uclouvain.be/fr/people/christel.buyens
   tags:
-    - root
+    - pollen
+    - molecular biology
 -
   name: Tom Kenda
   description: >
@@ -183,15 +214,7 @@
 
 
 
--
-  name: Richard Lambert
-  description: >
-    tes
-  pi: yes
-  current: yes
-  image: peep-lambert.jpeg
-  tags:
-    - root
+
 -
   name: Pascale Pattyn
   description: >
