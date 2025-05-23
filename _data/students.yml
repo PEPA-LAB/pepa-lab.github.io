@@ -6,7 +6,7 @@
     tes
   role: Doctoral researcher
   current: yes
-  image: peep-lengrand.png
+  image: peep-sinhouenon.png
   tags:
     - root
 -
@@ -15,34 +15,34 @@
     tes
   role: 
   current: yes
-  image: peep-lengrand.png
+  image: peep-ding.png
   tags:
     - root
 -
   name: Thomas Dagbert
   description: >
     tes
-  role: 
+  role: Tech
   current: yes
-  image: peep-lengrand.png
+  image: peep-dagbert.png
   tags:
     - root
 -
   name: Pierre Vanthorre
   description: >
     tes
-  role: 
+  role: Tech 
   current: yes
-  image: peep-lengrand.png
+  image: peep-vanthorre.png
   tags:
     - root
 -
   name: Christel Buyens
   description: >
     tes
-  role: 
+  role: Tech
   current: yes
-  image: peep-lengrand.png
+  image: peep-buyens.png
   tags:
     - root
 -
@@ -51,7 +51,7 @@
     tes
   role: Doctoral researcher
   current: yes
-  image: peep-lengrand.png
+  image: peep-kenda.png
   tags:
     - root
 -
@@ -60,16 +60,26 @@
     tes
   role: Doctoral researcher
   current: yes
-  image: peep-lengrand.png
+  image: peep-guyot.png
   tags:
     - root
+-
+  name: Anne-Laure Jacquemart
+  description: >
+    tes
+  role: PI
+  current: yes
+  image: peep-jacquemart.png
+  tags:
+    - root
+
 -
   name: Lena Jeannerod
   description: >
     tes
   role: Doctoral researcher
   current: yes
-  image: peep-lengrand.png
+  image: peep-Jeannerod.jpeg
   tags:
     - root
 -
@@ -78,7 +88,7 @@
     tes
   role: Doctoral researcher
   current: yes
-  image: peep-lengrand.png
+  image: peep-rothwell.png
   tags:
     - root
 -
@@ -87,7 +97,7 @@
     tes
   role: Doctoral researcher
   current: yes
-  image: peep-lengrand.png
+  image: peep-degand.jpg
   tags:
     - root
 -
@@ -96,7 +106,7 @@
     tes
   role: PI
   current: yes
-  image: peep-lengrand.png
+  image: peep-lobet.jpg
   tags:
     - root
 -
@@ -105,7 +115,7 @@
     tes
   role: PI
   current: yes
-  image: peep-lengrand.png
+  image: peep-couvreur.jpg
   tags:
     - root
 -
@@ -114,7 +124,7 @@
     tes
   role: PI 
   current: yes
-  image: peep-lengrand.png
+  image: peep-bertin.png
   tags:
     - root
 -
@@ -123,34 +133,34 @@
     tes
   role: PI
   current: yes
-  image: peep-lengrand.png
+  image: peep-draye.jpg
   tags:
     - root
 -
-  name: Richard Lamberd
+  name: Richard Lambert
   description: >
     tes
   role: PI
   current: yes
-  image: peep-lengrand.png
+  image: peep-lambert.jpeg
   tags:
     - root
 -
   name: Pascale Pattyn
   description: >
     tes
-  role: 
+  role: Admin
   current: yes
-  image: peep-lengrand.png
+  image: peep-pattyn.png
   tags:
     - root
 -
   name: Robin Watteyne
   description: >
     tes
-  role: 
+  role: Admin 
   current: yes
-  image: peep-lengrand.png
+  image: peep-watteyne.jpeg
   tags:
     - root
 -
@@ -159,7 +169,7 @@
     tes
   role: 
   current: yes
-  image: peep-lengrand.png
+  image: peep-detoffoli.jpeg
   tags:
     - root
 -
@@ -168,12 +178,12 @@
     tes
   role: Doctoral researcher and teaching assistant
   current: yes
-  image: peep-lengrand.png
+  image: peep-leveau.jpeg
   tags:
     - root
 
 -
-  name: Lisa Leveau
+  name: Lisa Delfosse
   description: >
     tes
   role: Teaching assistant
