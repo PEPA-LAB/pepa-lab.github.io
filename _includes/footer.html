@@ -9,32 +9,6 @@
 
       <div class="col-lg-8 col-md-10 mx-auto copyright">
 
-          <p class=" text-muted">Where to find me online : </p>
-
-            {% for profile in site.data.personal.profiles %}
-            <a style="font-size:2em; text-decoration: none" href="{{ profile.url }}" class="mr-2" data-toggle="tooltip" data-placement="bottom" title="{{ profile.network }}">
-              {% if profile.network == 'ORCID' %}
-                <b class="" data-fa-transform="shrink-6" data-fa-mask="fas fa-circle">iD</b>            
-              {% elsif profile.network == 'Google Scholar' %}
-                <i class="fab fa-google" data-fa-transform="shrink-6" data-fa-mask="fas fa-circle"></i> 
-              {% elsif profile.network == 'Science Open' %}
-                <b>SO</b>   
-              {% elsif profile.network == 'LinkedIn' %}
-                <i class="fab fa-linkedin"  data-fa-transform="shrink-6" data-fa-mask="fas fa-circle"></i> 
-              {% elsif profile.network == 'BlueSky' %}
-                <b class="fal fa-sun" data-fa-transform="shrink-6" data-fa-mask="fas fa-circle"></b>     
-              {% elsif profile.network == 'Github' %}
-                <i class="fab fa-github"  data-fa-transform="shrink-6" data-fa-mask="fas fa-circle"></i> 
-              {% elsif profile.network == 'ImpactStory' %}
-                <i class="fal fa-trophy-alt"  data-fa-transform="shrink-6" data-fa-mask="fas fa-circle"></i>               
-              {% elsif profile.network == 'Figshare' %}
-                <i class="fas fa-share-alt" data-fa-transform="shrink-6" data-fa-mask="fas fa-circle"></i>             
-              {% endif %}
-              
-              </a>
-              {% if forloop.last == false %}
-              {% endif %}
-            {% endfor %}
 
 
 

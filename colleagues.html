@@ -14,7 +14,7 @@ form: false
 
 <h3> Our PI's </h3>
 
-      {% for people in sorted_students %}
+      {% for people in site.data.people %}
         {% if people.pi%}
           <div class="clearfix mb-3">
             <!-- Add the image tag here with float-left class -->
@@ -63,7 +63,7 @@ form: false
 
 <h3> Our Researchers </h3>
 
-      {% for people in sorted_students %}
+      {% for people in site.data.people %}
   {% if people.current and people.role == 'researcher' %}
           <div class="clearfix mb-3">
             <!-- Add the image tag here with float-left class -->
