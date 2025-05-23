@@ -1,0 +1,24 @@
+title:              Guillaume Lobet
+email:              g.lobet@fz-juelich.de
+description:        My personal website
+author:             Guillaume Lobet
+baseurl:            /
+url:                https://guillaumelobet.github.io/
+
+# Social Profiles
+twitter_username:   guillaumelobet
+github_username:    guillaumelobet
+facebook_username:  /
+linkedin_username:  guillaumelobet
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site

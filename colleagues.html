@@ -1,0 +1,79 @@
+---
+layout: page
+title: I work with them
+background: '/img/bg-colleagues.jpg'
+form: false
+---
+
+  <div class="alert alert-info">
+    I have awesome colleagues in my team. Go check them out! Want to be part of our team? <a href="mailto:g.lobet@fz-juelich.de">Get in touch!</a>
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+
+<h3> Current lab members [FZJ & UCLouvain]</h3>
+<hr>
+
+
+      {% for people in site.data.students %}
+        {% if people.current %}
+          <h5 class="mb-1">{{ people.name }}</h5>
+
+          <p class="mb-1"><p>{{ people.description | markdownify }}</p>
+          <div class="float-right">
+            
+            <button type="button" class="btn btn-outline-info btn-sm mb-1">{{people.role}}</button>
+
+            {% if people.twitter %}
+              <a href="https://twitter.com//{{ people.twitter }}" class="btn btn-outline-primary btn-sm mb-1" target="_blank">
+                <i class="fab fa-twitter"></i> {{ people.twitter }}
+              </a>
+            {% endif %}
+            
+            {% if people.url %}
+              <a href="{{ people.url }}" class="btn btn-outline-primary btn-sm mb-1" target="_blank">
+                <i class="fal fa-external-link"></i> Website
+              </a>
+            {% endif %}
+
+          </div>
+        
+        <br>
+        <hr>            
+      {% endif %}
+
+      {% endfor %}
+
+<hr>
+<h3>Alumni</h3>
+<hr>
+
+      {% for people in site.data.students %}
+        {% if people.alumni %}
+          <h5 class="mb-1">{{ people.name }}</h5>
+
+          <p class="mb-1"><p>{{ people.description | markdownify }}</p>
+          <div class="float-right">
+            
+            <button type="button" class="btn btn-outline-info btn-sm mb-1">{{people.role}}</button>
+
+            {% if people.twitter %}
+              <a href="https://twitter.com//{{ people.twitter }}" class="btn btn-outline-primary btn-sm mb-1" target="_blank">
+                <i class="fab fa-twitter"></i> {{ people.twitter }}
+              </a>
+            {% endif %}
+            
+            {% if people.url %}
+              <a href="{{ people.url }}" class="btn btn-outline-primary btn-sm mb-1" target="_blank">
+                <i class="fal fa-external-link"></i> Website
+              </a>
+            {% endif %}
+
+          </div>
+        
+        <br>
+        <hr>
+        {% endif %}
+
+      {% endfor %}

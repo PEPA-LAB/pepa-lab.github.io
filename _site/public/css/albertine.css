@@ -1,0 +1,262 @@
+
+
+body {
+  -webkit-font-smoothing:antialiased;
+     -moz-font-smoothing:antialiased;
+          font-smoothing:antialiased;
+  -webkit-box-sizing:border-box;
+     -moz-box-sizing:border-box;
+          box-sizing:border-box;
+  font-family:'Roboto', 'Arial', sans-serif;
+  font-size:16px;
+  padding-top:100px;
+  background-color:#f7f7f7;
+}
+
+/*******************
+ * NAVIGATION
+ *******************/
+
+.menu li {
+  list-style: none;
+  display: block;
+}
+
+
+
+/*******************
+ * HEADER
+ *******************/
+header {
+  position:fixed;
+  z-index:100;
+  top:0;
+  left:0;
+  right:0;
+  padding:10px 0;
+  padding-bottom:5px;
+  /*background-color: #F2F2F2;¨*/
+  border-bottom: 3px solid #27517f;
+  background-color: #0081f8;  /*  4789CF #2D4972; #5294f7;*/
+  color:#fff;
+}
+
+header a:hover{
+  text-decoration: none;
+  font-weight: bold;
+}
+  header h1 {
+    margin:0;
+    line-height:24px;
+    font-weight:bold;
+    font-size:1.5em;
+    /*color:#4789CF;*/
+    color:#fff;
+    
+  }
+  header h2 {
+    margin:0;
+    line-height:24px;
+    font-size:18px;
+  }
+
+footer {
+  padding:48px 0 96px;
+  line-height:20px;
+  font-size:14px;
+}
+.img-circle{
+  border:2px solid #fff;/**#4789CF;*/
+}
+/*******************
+ * SECTION
+ *******************/
+section {
+  padding:18px 0;
+}
+  section h3 {
+    padding:0 0 8px;
+    line-height:40px;
+    font-weight:bold;
+    font-size:32px;
+    color:#ff5722;
+  }
+  section h4{
+  	font-size: 18px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-weight: bold;
+  }
+  section .lead {
+    font-size:24px;
+  }
+  section p {
+    margin-bottom:1em;
+  }
+  section p small {
+    opacity:0.5;
+  }
+  section a,
+  section a:hover {
+    color: #005b82; /**#609AD6;*/
+  }
+
+/*******************
+ * INTRO SCREEN
+ *******************/
+.intro-screen,
+.intro-screen header {
+  background-color: #005b82;  /* #2D4972; #5294f7;*/
+  color:#fff;
+  border-bottom: 3px solid white;
+}
+  .intro-screen h1,
+  .intro-screen h2,
+  .intro-screen h3 {
+    color:#fff;
+  }
+  .intro-screen a,
+  .intro-screen a:hover {
+    color: #F2C36F; /*#FBCA00;*/
+  }
+  
+  .intro-screen .img-circle{
+  border:2px solid white;
+}
+
+/*******************
+ * TRANSITIONS
+ *******************/
+body,
+header {
+  -webkit-transition:background-color .5s;
+     -moz-transition:background-color .5s;
+          transition:background-color .5s;
+}
+
+/*******************
+ * BLOG POST
+ *******************/
+
+h1 a{
+  color: white;
+}
+
+.blog-post{
+  margin-bottom: 50px;
+  margin-right: 0px;
+}
+
+.post-date{
+  font-size: 0.8em;
+  color: grey;
+}
+.post-title{
+  font-size: 2.5em;
+  font-weight: bold;
+}
+.post-excerpt{
+  padding-top: 20px;
+  font-size: 0.8;
+  padding-right: 50px;
+}
+
+.post{
+  font-size: 1.1em;
+}
+.archive{
+  font-size: 1.1em;
+}
+.archive h1{
+  margin-bottom: 30px;
+}
+
+.post h3{
+  padding-top: 20px;
+  font-weight: bold;
+  line-height: 1.5em;
+}
+
+.post h2{
+  font-size: 1.8em;
+  font-weight: bold;
+}
+
+.post .message{
+  padding-left: 20px;
+  border-left: solid 8px #005b82;
+  margin-bottom: 20px;
+  font-size: 0.9em;
+  color: grey;
+}
+
+.post .author{
+  color: grey;
+}
+
+.tags-col{
+  margin-top: 50px;
+  border-left: solid 3px #005b82;
+  padding-left: 20px
+}
+
+.tag-button{
+  margin-bottom: 10px;
+}
+
+li quote{
+  font-size: 1.1em;
+  font-family: 'Inconsolata';
+}
+
+
+.cd-top.cd-is-visible {
+  /* the button becomes visible */
+  visibility: visible;
+  opacity: 0.8;
+}
+.cd-top.cd-fade-out {
+  /* if the user keeps scrolling down, the button is out of focus and becomes less visible */
+  opacity: .5;
+}
+
+.cd-top {
+  z-index: 5000;
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+  position: fixed;
+  bottom: 150px;
+  right: 100px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  /* image replacement properties */
+  overflow: hidden;
+  text-indent: 100%;
+  white-space: nowrap;
+  background: rgb(39, 53, 57) url(../../img/cd-top-arrow.svg) no-repeat center 50%;
+  visibility: hidden;
+  opacity: 0;
+  -webkit-transition: opacity .3s 0s, visibility 0s .3s;
+  -moz-transition: opacity .3s 0s, visibility 0s .3s;
+  transition: opacity .3s 0s, visibility 0s .3s;
+  border-radius: 5px;
+
+}
+.cd-top.cd-is-visible, .cd-top.cd-fade-out, .no-touch .cd-top:hover {
+  -webkit-transition: opacity .3s 0s, visibility 0s 0s;
+  -moz-transition: opacity .3s 0s, visibility 0s 0s;
+  transition: opacity .3s 0s, visibility 0s 0s;
+}
+.cd-top.cd-is-visible {
+  /* the button becomes visible */
+  visibility: visible;
+  opacity: 0.8;
+}
+.cd-top.cd-fade-out {
+  /* if the user keeps scrolling down, the button is out of focus and becomes less visible */
+  opacity: .5;
+}
+.cd-top:hover {
+  opacity: 1;
+}
+
