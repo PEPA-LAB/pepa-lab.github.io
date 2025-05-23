@@ -1,12 +1,11 @@
-title:              Guillaume Lobet
-email:              g.lobet@fz-juelich.de
-description:        My personal website
+title:              PEPA Lab
+email:              guillaume.lobet@uclouvain.be
+description:        Our Lab website
 author:             Guillaume Lobet
 baseurl:            /
 url:                https://guillaumelobet.github.io/
 
 # Social Profiles
-twitter_username:   guillaumelobet
 github_username:    guillaumelobet
 facebook_username:  /
 linkedin_username:  guillaumelobet

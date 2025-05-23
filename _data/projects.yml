@@ -12,35 +12,33 @@
     - root
     - wheat
 
+
 -
-  name: DETECT, Regional Climate Change. Disentangling the Role of Land Use and Water Management
+  name: The Plant Water Pump
   description: >
-    While several continental regions on Earth are getting wetter, others are drying out not only in terms of precipitation but also measured by the increase or decrease in surface water, water stored in the soils, the plant root zone, and in groundwater. Observations, however, do not support a simple dry-gets-dryer and wet-gets-wetter logic and existing climate models fail to explain observed patterns of hydrological change sufficiently. This CRC aims to close this gap in understanding. To better comprehend the origin of these patterns, it is necessary to build a modelling framework that explains past observations as realistically as possible, accounts for potential drivers of change that may have been understudied in the past, and can predict future changes.
+    We all know that water flows downhill, or down a gradient of 'potentials'. These reflect the fact that water is drawn by gravity, suction and salts located behind membranes. The laws of physics tell us that it is impossible for water to flow along uphill gradients without consuming external energy. So, each time this phenomenon was observed in plants, scientists searched for active water pumping mechanisms, and hit a snag. Then, a novel micro-hydrological simulator showed that, in theory, neighbouring cells containing different salt concentrations could play the role of water pump. The ERC-funded ThePlantWaterPump project aims to validate this new theory, changing how we think of water transport in plants, and our understanding of droughts impact under changing climates.
+
+
+
+    The Plant Water Pump is financed by the European Research Concil under the Starting Grant scheme. 
   image: /img/crootbox_1.jpg
-  url: https://sfb1502.de/
+  url: http://www.drooght.science/
   tags:
     - water
-    - climate
-    - wheat
-    
--
-  name: CROP, Combining ROot contrasted Phenotypes for more resilient agro ecosystem
-  description: >
-    The CROP project aims at estimating the beneficial impact of combining contrasted root phenotypes within a single field. We will evaluate the benefit of the combination of water, carbon and nitrogen flow, microbial communities, and yield. To achieve this goal, we will use a set of complementary experimental and modelling tools.
-  image: /img/crootbox_1.jpg
-  url: https://www.crop-project.de/
-  tags:
     - root
-    - modelling
-    - wheat
-    
+    - anatomy
+
 -
-  name: PHENOROB. Robotics and Phenotyping for Sustainable Crop Production
+  name: PHENET, Tools and methods for extended plant PHENotyping and EnviroTyping services of European Research Infrastructures
   description: >
-    Food, feed, fiber, and fuel: Crop farming plays an essential role for the future of humanity and our planet. The environmental footprint of agriculture needs to be reduced: less input of chemicals like herbicides and fertilizer and other limited resources like water or energy. Simultaneously, the decline in arable land and climate change pose additional constraints like drought, heat, and other extreme weather events. Achieving sustainable crop production with limited resources is a task of immense proportions. In order to achieve this, the University of Bonn together with Forschungszentrum Jülich conducts research in the Cluster of Excellence “PhenoRob – Robotics and Phenotyping for Sustainable Crop Production” to develop methods and new technologies that observe, analyze, better understand and specifically treat plants. Our research focuses on improving the fundamental understanding of all relevant parameters like plant growth, soil, biodiversity, or atmosphere. PhenoRob, the only Cluster of Excellence in agriculture in Germany, aims at addressing these issues: Change crop production by optimizing breeding and farming management using new technologies.
+    Agroecosystems in Europe need an agroecological transition to ensure sustainable food production, resilience to climate change, biodiversity, and soil restoration. The EU-funded PHENET project will bring together the European Research Infrastructures on plant phenotyping (EMPHASIS), ecosystems experimentation (AnaEE), long-term observation (eLTER), and data management and bioinformatics (ELIXIR) to co-develop new tools and methods for the identification of future-proofed combinations of species, genotypes, and management practices. The project will deliver services enabling access to enlarged sources of in situ phenotypic and environmental data thanks to new AI-based multi-trait and multi sensor devices, unleashed access to high-resolution Earth observation data, FAIR data support, and a new generation of predictive modelling AI and digital twins solutions.
+
+
+    PHENET is financed by the European Research Concil under the Horizon Grant scheme. 
   image: /img/crootbox_1.jpg
-  url: https://www.phenorob.de/
+  url: https://www.phenet.eu/en
   tags:
     - phenotyping
-    - modeling
-    - agriculture
+    - crop
+    - wheat
+
