@@ -1,6 +1,17 @@
 
 
 -
+  name: Emeline Verstraeten
+  description: >
+    tes
+  researcher: yes
+  current: yes
+  image: peep-verstreaten.jpeg
+  url: https://www.linkedin.com/in/emeline-verstraeten-71763a199/
+  tags:
+    - root
+    - phenotyping
+-
   name: Brice Sinhouenon
   description: >
     tes
@@ -17,6 +28,7 @@
   researcher: yes
   current: yes
   image: peep-ding.png
+  url: https://www.linkedin.com/in/lei-ding-577481b9/
   tags:
     - root
     - hydraulics
@@ -27,7 +39,7 @@
     tes
   admintech: yes
   current: yes
-  image: peep-dagbert.png
+  image: peep-dagbert.jpg
   tags:
     - root
 -
@@ -154,9 +166,10 @@
     tes
   admintech: yes
   current: yes
-  image: peep-pattyn.png
+  image: peep-pattyn.jpeg
   tags:
-    - root
+    - admin
+    - secretary
 -
   name: Robin Watteyne
   description: >
@@ -165,7 +178,8 @@
   current: yes
   image: peep-watteyne.jpeg
   tags:
-    - root
+    - admin
+    - finances
 -
   name: Marc De Toffoli
   description: >
@@ -174,7 +188,9 @@
   current: yes
   image: peep-detoffoli.jpeg
   tags:
-    - root
+    - nitrogen
+    - water
+    - crops
 -
   name: Lola Leveau
   description: >
@@ -183,7 +199,9 @@
   current: yes
   image: peep-leveau.jpeg
   tags:
-    - root
+    - ecosystem services
+    - crops
+    - earthworms
 
 -
   name: Lisa Delfosse
@@ -193,12 +211,14 @@
   current: yes
   image: peep-delfosse.jpeg
   tags:
-    - root
+    - teaching
+    - evaluation
+    - botany
 
 -
   name: Salomé Lengrand (she/her)
   description: >
-    Renaud is intersted in cereal root development, with a current focus on spelt and wheat at the seedling stage. I also loves (I hope.. ) rhizotrons experiments. Renaud is now a PhD student in the lab of the Saoirse Tracy at the University Colleage in Dublin.
+    test
   researcher: yes
   current: yes
   image: peep-lengrand.jpeg
@@ -206,13 +226,14 @@
     - root
     - wheat
     - architecture
-    - phenotyping
+    - nitrogen
 -
   name: Renaud Bulpa  (he/him)
   description: >
     Renaud is intersted in cereal root development, with a current focus on spelt and wheat at the seedling stage. I also loves (I hope.. ) rhizotrons experiments. Renaud is now a PhD student in the lab of the Saoirse Tracy at the University Colleage in Dublin.
   researcher: yes
   current: yes
+  url: https://www.linkedin.com/in/renaud-bulpa-478735266/
   image: peep-bulpa.png
   tags:
     - root
@@ -237,10 +258,11 @@
   description: >
     Nicolas is a teaching assistant at the Bioengineering Faculty of the UCLouvain. His work focus on the understand of local food system dynamics, with a strong modelling approach
   researcher: yes
+  url: https://www.linkedin.com/in/nicolas-biot-a937a51b3/
   current: yes
   image: peep-biot.png
   tags:
-    - foodsystem
+    - food system
     - modelling    
     
 -
@@ -248,7 +270,7 @@
   description: >
     Adrien was a PhD student at the UCLouvain. He is deeply interest "in silico" plants and ways to grow a more suistanable  agriculture. Adrien now works as a post-doc researcher at Umeå Plant Science Centre and work on leaf epidermis. We were very sad (but also happy) to see him leave the nest. 
   image: /img/adrien.jpg
-  twitter: Heymans_Adrien
+  url: https://heymansadrien.github.io/
   researcher: yes
   image: peep-heymans.png
   current: yes
