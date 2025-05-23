@@ -39,7 +39,7 @@ intro:
   title: Welcome to our lab website ! 
   body: >
 
-    I try to understand how **plant** can better cope with changes in water availability during their growth cycle. To do so, I look at **roots**, their structure and their organisation . In a wider context, I want to help create **sustainable agrosystems** that are resilient to **drought** event and lack of water.   
+    We are the Plant Ecology, ecoPhysiology and sustainable Agriculture lab, from the Earth and Life Institute from the UCLouvain. We study how plant grow, how they are influenced by their environment and how people cultivate them. 
 
 footer: >
     Website created and maintained by myself with <span style="color: red;"><i class="fas fa-heart"></i></span> and <span style="color:#4f3130;"><i class="fas fa-coffee"></i></span>. Heavily relying on <a href="https://getbootstrap.com/">Bootstrap 4.0</a> and <a href="https://fontawesome.com">Font Awesome 5</a>. Also tacking advantage of the awesome badges from <a href="https://www.altmetric.com/">Altmetrics</a> and <a href="https://www.dimensions.ai/">Dimensions</a>. Hosted on <i class="fab fa-github"></i>. Source code available <a href="https://github.com/guillaumelobet/guillaumelobet.github.io">here</a>.
