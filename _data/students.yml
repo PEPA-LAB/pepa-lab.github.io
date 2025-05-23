@@ -4,7 +4,7 @@
   name: Brice Sinhouenon
   description: >
     tes
-  role: 
+  role: Doctoral researcher
   current: yes
   image: peep-lengrand.png
   tags:
@@ -49,7 +49,7 @@
   name: Tom Kenda
   description: >
     tes
-  role: 
+  role: Doctoral researcher
   current: yes
   image: peep-lengrand.png
   tags:
@@ -58,7 +58,7 @@
   name: Josephine Guyot
   description: >
     tes
-  role: 
+  role: Doctoral researcher
   current: yes
   image: peep-lengrand.png
   tags:
@@ -67,7 +67,7 @@
   name: Lena Jeannerod
   description: >
     tes
-  role: 
+  role: Doctoral researcher
   current: yes
   image: peep-lengrand.png
   tags:
@@ -76,7 +76,7 @@
   name: Monica Rothwell
   description: >
     tes
-  role: 
+  role: Doctoral researcher
   current: yes
   image: peep-lengrand.png
   tags:
@@ -85,7 +85,7 @@
   name: Théo Degand
   description: >
     tes
-  role: 
+  role: Doctoral researcher
   current: yes
   image: peep-lengrand.png
   tags:
@@ -94,7 +94,7 @@
   name: Guillaume Lobet
   description: >
     tes
-  role: 
+  role: PI
   current: yes
   image: peep-lengrand.png
   tags:
@@ -103,7 +103,7 @@
   name: Valentin Couvreur
   description: >
     tes
-  role: 
+  role: PI
   current: yes
   image: peep-lengrand.png
   tags:
@@ -112,7 +112,7 @@
   name: Pierre Bertin
   description: >
     tes
-  role: 
+  role: PI 
   current: yes
   image: peep-lengrand.png
   tags:
@@ -121,7 +121,7 @@
   name: Xavier Draye
   description: >
     tes
-  role: 
+  role: PI
   current: yes
   image: peep-lengrand.png
   tags:
@@ -130,7 +130,7 @@
   name: Richard Lamberd
   description: >
     tes
-  role: 
+  role: PI
   current: yes
   image: peep-lengrand.png
   tags:
@@ -166,16 +166,27 @@
   name: Lola Leveau
   description: >
     tes
-  role: 
+  role: Doctoral researcher and teaching assistant
   current: yes
   image: peep-lengrand.png
   tags:
     - root
+
+-
+  name: Lisa Leveau
+  description: >
+    tes
+  role: Teaching assistant
+  current: yes
+  image: peep-delfosse.jpeg
+  tags:
+    - root
+
 -
   name: Salomé Lengrand (she/her)
   description: >
     Renaud is intersted in cereal root development, with a current focus on spelt and wheat at the seedling stage. I also loves (I hope.. ) rhizotrons experiments. Renaud is now a PhD student in the lab of the Saoirse Tracy at the University Colleage in Dublin.
-  role: Research assistant
+  role: Postdoctoral researcher
   current: yes
   image: peep-lengrand.jpeg
   tags:
@@ -187,7 +198,7 @@
   name: Renaud Bulpa  (he/him)
   description: >
     Renaud is intersted in cereal root development, with a current focus on spelt and wheat at the seedling stage. I also loves (I hope.. ) rhizotrons experiments. Renaud is now a PhD student in the lab of the Saoirse Tracy at the University Colleage in Dublin.
-  role: Research assistant
+  role: Doctoral researcher
   current: yes
   image: peep-bulpa.png
   tags:
@@ -201,7 +212,7 @@
     Marco is working on better understing how tomato anatomies is linked to water uptake dynamics at the plant level. He is interested in exploring how natural variation in closely related wild species can help us develop more resilient tomato plants. 
   role: Doctoral researcher
   current: yes
-  image: peep-.png
+  image: peep-dagostino.png
   tags:
     - root
     - tomato
@@ -212,8 +223,9 @@
   name: Nicolas Biot (he/him)
   description: >
     Nicolas is a teaching assistant at the Bioengineering Faculty of the UCLouvain. His work focus on the understand of local food system dynamics, with a strong modelling approach
-  role: Doctoral researcher
+  role: Doctoral researcher and teaching assistant
   current: yes
+  image: peep-biot.png
   tags:
     - foodsystem
     - modelling    
@@ -225,6 +237,7 @@
   image: /img/adrien.jpg
   twitter: Heymans_Adrien
   role: Postdoctoral researcher
+  image: peep-heymans.png
   current: yes
   tags:
     - root
