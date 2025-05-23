@@ -1,4 +1,89 @@
+-
+  name: Pierre Bertin
+  description: >
+    tes
+  pi: yes 
+  current: yes
+  image: peep-bertin.png
+  tags:
+    - genetic diversity
+    - farming systems
+    - rice
+    - cocoa
+    - vanilla
+    - oca 
+    - spelt
+-
+  name: Valentin Couvreur
+  description: >
+    tes
+  pi: yes
+  current: yes
+  image: peep-couvreur.jpg
+  tags:
+    - root
+    - anatomy
+    - modelling
+    - hydraulics
+    - maize
+    - tomato
+    - trees
 
+-
+  name: Xavier Draye
+  description: >
+    tes
+  pi: yes
+  current: yes
+  image: peep-draye.jpg
+  tags:
+    - root
+    - phenotyping
+    - genetics
+    - robotics
+    - statistics
+
+-
+  name: Anne-Laure Jacquemart
+  description: >
+    tes
+  pi: yes
+  current: yes
+  image: peep-jacquemart.png
+  tags:
+    - plant
+    - pollinators
+    - interactions
+    - pollen
+-
+  name: Guillaume Lobet
+  description: >
+    tes
+  pi: yes
+  current: yes
+  image: peep-lobet.jpg
+  tags:
+    - root
+    - phenotyping
+    - architecture 
+    - anatomy
+    - modelling
+    - field
+    - agricultural practices
+    - wheat
+
+-
+  name: Lei Ding
+  description: >
+    tes
+  researcher: yes
+  current: yes
+  image: peep-ding.png
+  url: https://www.linkedin.com/in/lei-ding-577481b9/
+  tags:
+    - root
+    - hydraulics
+    - aquaporins
 
 -
   name: Emeline Verstraeten
@@ -21,18 +106,7 @@
   tags:
     - genetic diversity
     - cocoa
--
-  name: Lei Ding
-  description: >
-    tes
-  researcher: yes
-  current: yes
-  image: peep-ding.png
-  url: https://www.linkedin.com/in/lei-ding-577481b9/
-  tags:
-    - root
-    - hydraulics
-    - aquaporins
+
 -
   name: Thomas Dagbert
   description: >
@@ -78,15 +152,6 @@
   image: peep-guyot.png
   tags:
     - root
--
-  name: Anne-Laure Jacquemart
-  description: >
-    tes
-  pi: yes
-  current: yes
-  image: peep-jacquemart.png
-  tags:
-    - root
 
 -
   name: Lena Jeannerod
@@ -115,42 +180,9 @@
   image: peep-degand.jpg
   tags:
     - root
--
-  name: Guillaume Lobet
-  description: >
-    tes
-  pi: yes
-  current: yes
-  image: peep-lobet.jpg
-  tags:
-    - root
--
-  name: Valentin Couvreur
-  description: >
-    tes
-  pi: yes
-  current: yes
-  image: peep-couvreur.jpg
-  tags:
-    - root
--
-  name: Pierre Bertin
-  description: >
-    tes
-  pi: yes 
-  current: yes
-  image: peep-bertin.png
-  tags:
-    - root
--
-  name: Xavier Draye
-  description: >
-    tes
-  pi: yes
-  current: yes
-  image: peep-draye.jpg
-  tags:
-    - root
+
+
+
 -
   name: Richard Lambert
   description: >
