@@ -64,7 +64,55 @@ form: false
 <h3> Our Researchers </h3>
 
       {% for people in site.data.people %}
-  {% if people.current and people.role == 'researcher' %}
+        {% if people.researcher%}
+          <div class="clearfix mb-3">
+            <!-- Add the image tag here with float-left class -->
+            {% if people.image %}
+              <img src="/img/{{ people.image }}" alt="{{ people.name }}" class="float-left mr-3" style="max-width: 150px; border-radius: 5px;">
+            {% endif %}
+
+            <div class="overflow-hidden">
+              <h5 class="mb-1">{{ people.name }}</h5>
+              <!--p class="mb-1">{{ people.description | markdownify }}</p-->
+
+              <div class="float-left">
+                  {% if people.tags %}
+                        {% for tag in people.tags %}
+                        <button type="button" class="btn btn-outline-secondary btn-sm mt-1">
+                          <i class="fal fa-tag mr-1"></i>{{tag}}
+                        </button>
+                        {% endfor %}
+                  {% endif %} 
+
+                {% for role in people.role %}
+                  <button type="button" class="btn btn-outline-info btn-sm mb-1">{{people.role}}</button>
+                  <button type="button" class="btn btn-outline-info btn-sm mb-1">{{people.role}}</button>
+                {% endfor %}
+
+                {% if people.twitter %}
+                  <a href="https://twitter.com//{{ people.twitter }}" class="btn btn-outline-primary btn-sm mb-1" target="_blank">
+                    <i class="fab fa-twitter"></i> {{ people.twitter }}
+                  </a>
+                {% endif %}
+
+                {% if people.url %}
+                  <a href="{{ people.url }}" class="btn btn-outline-primary btn-sm mb-1" target="_blank">
+                    <i class="fal fa-external-link"></i> Website
+                  </a>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+          <hr>          
+      {% endif %}
+
+      {% endfor %}
+<hr>
+
+<h3> Our Techs and Admins </h3>
+
+      {% for people in site.data.people %}
+        {% if people.admintech%}
           <div class="clearfix mb-3">
             <!-- Add the image tag here with float-left class -->
             {% if people.image %}
