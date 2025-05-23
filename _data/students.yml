@@ -1,10 +1,194 @@
 
+
+-
+  name: Brice Sinhouenon
+  description: >
+    tes
+  role: 
+  current: yes
+  image: peep-lengrand.png
+  tags:
+    - root
+-
+  name: Lei Ding
+  description: >
+    tes
+  role: 
+  current: yes
+  image: peep-lengrand.png
+  tags:
+    - root
+-
+  name: Thomas Dagbert
+  description: >
+    tes
+  role: 
+  current: yes
+  image: peep-lengrand.png
+  tags:
+    - root
+-
+  name: Pierre Vanthorre
+  description: >
+    tes
+  role: 
+  current: yes
+  image: peep-lengrand.png
+  tags:
+    - root
+-
+  name: Christel Buyens
+  description: >
+    tes
+  role: 
+  current: yes
+  image: peep-lengrand.png
+  tags:
+    - root
+-
+  name: Tom Kenda
+  description: >
+    tes
+  role: 
+  current: yes
+  image: peep-lengrand.png
+  tags:
+    - root
+-
+  name: Josephine Guyot
+  description: >
+    tes
+  role: 
+  current: yes
+  image: peep-lengrand.png
+  tags:
+    - root
+-
+  name: Lena Jeannerod
+  description: >
+    tes
+  role: 
+  current: yes
+  image: peep-lengrand.png
+  tags:
+    - root
+-
+  name: Monica Rothwell
+  description: >
+    tes
+  role: 
+  current: yes
+  image: peep-lengrand.png
+  tags:
+    - root
+-
+  name: Théo Degand
+  description: >
+    tes
+  role: 
+  current: yes
+  image: peep-lengrand.png
+  tags:
+    - root
+-
+  name: Guillaume Lobet
+  description: >
+    tes
+  role: 
+  current: yes
+  image: peep-lengrand.png
+  tags:
+    - root
+-
+  name: Valentin Couvreur
+  description: >
+    tes
+  role: 
+  current: yes
+  image: peep-lengrand.png
+  tags:
+    - root
+-
+  name: Pierre Bertin
+  description: >
+    tes
+  role: 
+  current: yes
+  image: peep-lengrand.png
+  tags:
+    - root
+-
+  name: Xavier Draye
+  description: >
+    tes
+  role: 
+  current: yes
+  image: peep-lengrand.png
+  tags:
+    - root
+-
+  name: Richard Lamberd
+  description: >
+    tes
+  role: 
+  current: yes
+  image: peep-lengrand.png
+  tags:
+    - root
+-
+  name: Pascale Pattyn
+  description: >
+    tes
+  role: 
+  current: yes
+  image: peep-lengrand.png
+  tags:
+    - root
+-
+  name: Robin Watteyne
+  description: >
+    tes
+  role: 
+  current: yes
+  image: peep-lengrand.png
+  tags:
+    - root
+-
+  name: Marc De Toffoli
+  description: >
+    tes
+  role: 
+  current: yes
+  image: peep-lengrand.png
+  tags:
+    - root
+-
+  name: Lola Leveau
+  description: >
+    tes
+  role: 
+  current: yes
+  image: peep-lengrand.png
+  tags:
+    - root
+-
+  name: Salomé Lengrand (she/her)
+  description: >
+    Renaud is intersted in cereal root development, with a current focus on spelt and wheat at the seedling stage. I also loves (I hope.. ) rhizotrons experiments. Renaud is now a PhD student in the lab of the Saoirse Tracy at the University Colleage in Dublin.
+  role: Research assistant
+  current: yes
+  image: peep-lengrand.jpeg
+  tags:
+    - root
+    - wheat
+    - architecture
+    - phenotyping
 -
   name: Renaud Bulpa  (he/him)
   description: >
     Renaud is intersted in cereal root development, with a current focus on spelt and wheat at the seedling stage. I also loves (I hope.. ) rhizotrons experiments. Renaud is now a PhD student in the lab of the Saoirse Tracy at the University Colleage in Dublin.
   role: Research assistant
-  alumni: yes
+  current: yes
   image: peep-bulpa.png
   tags:
     - root
@@ -17,45 +201,11 @@
     Marco is working on better understing how tomato anatomies is linked to water uptake dynamics at the plant level. He is interested in exploring how natural variation in closely related wild species can help us develop more resilient tomato plants. 
   role: Doctoral researcher
   current: yes
+  image: peep-.png
   tags:
     - root
     - tomato
     - anatomy
-    - modelling
--
-  name: Hermann Prodjinoto (he/him)
-  description: >
-    Hermann is a plant physiologist with a special interest in toxicity resilience in Africa Rice. He is currently making a research stay in the lab to learn how to model such processes. Hermann is now a postdoc at the Hebrew University in Jerusalem. 
-  role: Post-doc researcher
-  url: https://www.researchgate.net/profile/Hermann-Prodjinoto-2
-  alumni: yes
-  tags:
-    - root
-    - rice
-    - salinity
-    - modelling
--
-  name: Juan Baca (he/him)
-  description: >
-    Juan is a plant physiologist with a special interest in improving the mechanistic understanding of grass responses to global change parameters. He works on the DETECT project in modelling the impacts of agricultural management on soil–plant–atmosphere interactions
-  role: Post-doc researcher
-  url: https://www.researchgate.net/profile/Juan-Baca-Cabrera
-  current: yes
-  tags:
-    - plant
-    - water
-    - modelling
--
-  name: Remy Schoppach (he/him)
-  description: >
-    Remy's work aims at understanding how environmental stresses affect plant physiology and identifying innovative traits that allow adapted crops/genotypes to improve their tolerance strategies and to maintain an economically viable yield under stress conditions. He defines himself as a plant physiologist who examines the bases of exceptional stress tolerance through the investigation of underlying physiological mechanisms. 
-  role: Post-doc researcher
-  twitter: RSchppch
-  url: https://schoppach.github.io/
-  alumni: yes
-  tags:
-    - root
-    - water
     - modelling
     
 -
@@ -68,82 +218,16 @@
     - foodsystem
     - modelling    
     
-    
--
-  name: Felix Bauer (he/him)
-  description: >
-    Felix work on the PhenoRob project, trying to understand how phosphorus affect the plant growth and functionning, using (of course) functional plant models. He is also a avid plant phenotyper and enthousiatic pipeline developper. 
-  role: Doctoral researcher
-  twitter: felix__bauer
-  current: yes
-  tags:
-    - root
-    - water
-    - modelling
-    
--
-  name: Mona Giraud (she/her)
-  description: >
-    Mona is a PhD student working on a BMBF-funded project entitled "Rhizo4Bio (Phase 1): CROP - Combination of Complementary Root Phenotypes for More Resistant Agroecosystems". She is very enthousiastic about the modelling of wheat whole plant growth, water and carbon fluxes within the plant, and root-soil interactions.
-  image: /img/xiaoran.png
-  role: Doctoral researcher
-  current : yes
-  tags:
-    - root
-    - shoot
-    - modelling
-
-
--
-  name: Thomas Feron (he/him)
-  description: >
-    Thomas worked within the framework of the PhenoRob project. His research is at the intersection of plant modelling, phenotyping an machine learning. Thomas is now a Computer Vision Engineer at Colruyt Group Smart Technics. 
-  image: /img/xiaoran.png
-  twitter: _ThomasFeron_
-  role: Doctoral researcher
-  alumni: yes
-  tags:
-    - root
-    - shoot
-    - modelling
-    - machine learning
-    
--
-  name: Xiaoran Zhou (he/him)
-  description: >
-    Xiaoran is a PhD student at the Forschungszentrum Jülich. His previous experiences are based on studying his major, Viticulture and Enology, with modeling and web applications. His interest is to develop a mechanistic plant model (CPlantBox)that traces carbon and water movement in maize by explicit coupling of xylem and phloem fluxes.
-  image: /img/xiaoran.png
-  twitter: zxrzxr
-  role: Doctoral researcher
-  current : yes
-  tags:
-    - root
-    - shoot
-    - modelling
 -
   name: Adrien Heymans (he/him)
   description: >
     Adrien was a PhD student at the UCLouvain. He is deeply interest "in silico" plants and ways to grow a more suistanable  agriculture. Adrien now works as a post-doc researcher at Umeå Plant Science Centre and work on leaf epidermis. We were very sad (but also happy) to see him leave the nest. 
   image: /img/adrien.jpg
   twitter: Heymans_Adrien
-  role: Doctoral researcher
-  alumni: yes
+  role: Postdoctoral researcher
+  current: yes
   tags:
     - root
     - water
     - modelling   
     - phenotyping
-
--
-  name: Clément Saint-Cast (he/him)
-  description: >
-    Clément is a post-doc working on quantifying the influence of root anatomical traits on water dynamics in tomato roots. He loves models, databases and ontologies! Clément is now permanent research at the INRAE in Bordeaux, working on FSPM and grape vines. 
-  image: /img/xiaoran.png
-  role: Post-doc researcher
-  url: https://scholar.google.com/citations?user=YZvgsJgAAAAJ&hl=en
-  twitter: clement_cast
-  alumni: yes
-  tags:
-    - root
-    - shoot
-    - modelling
