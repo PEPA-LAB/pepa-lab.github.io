@@ -6,14 +6,11 @@ form: false
 ---
 
   <div class="alert alert-info">
-    I have awesome colleagues in my team. Go check them out! Want to be part of our team? <a href="mailto:g.lobet@fz-juelich.de">Get in touch!</a>
+    Meet our awesome lab members. We love studying, growing, cooking and eating food (well, plants, mainly)
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
       <span aria-hidden="true">&times;</span>
     </button>
   </div>
-
-<h3> The PI's</h3>
-<hr>
 
   {% assign sorted_students = site.data.students | sort: 'role' %}
 
@@ -29,8 +26,22 @@ form: false
             <div class="overflow-hidden">
               <h5 class="mb-1">{{ people.name }}</h5>
               <p class="mb-1">{{ people.description | markdownify }}</p>
-              <div class="float-right">
-                <button type="button" class="btn btn-outline-info btn-sm mb-1">{{people.role}}</button>
+
+
+
+              <div class="float-left">
+                  {% if people.tags %}
+                        {% for tag in people.tags %}
+                        <button type="button" class="btn btn-outline-secondary btn-sm mt-1">
+                          <i class="fal fa-tag mr-1"></i>{{tag}}
+                        </button>
+                        {% endfor %}
+                  {% endif %} 
+                
+                {% for role in people.role %}
+                  <button type="button" class="btn btn-outline-info btn-sm mb-1">{{people.role}}</button>
+                  <button type="button" class="btn btn-outline-info btn-sm mb-1">{{people.role}}</button>
+                {% endfor %}
 
                 {% if people.twitter %}
                   <a href="https://twitter.com//{{ people.twitter }}" class="btn btn-outline-primary btn-sm mb-1" target="_blank">
@@ -51,40 +62,3 @@ form: false
 
       {% endfor %}
 <hr>
-
-<h3> The PI's</h3>
-<hr>
-      {% for people in site.data.students %}
-        {% if people.current %}
-          <div class="clearfix mb-3">
-            <!-- Add the image tag here with float-left class -->
-            {% if people.image %}
-              <img src="/img/{{ people.image }}" alt="{{ people.name }}" class="float-left mr-3" style="max-width: 150px; border-radius: 5px;">
-            {% endif %}
-
-            <div class="overflow-hidden">
-              <h5 class="mb-1">{{ people.name }}</h5>
-              <p class="mb-1">{{ people.description | markdownify }}</p>
-              <div class="float-right">
-                <button type="button" class="btn btn-outline-info btn-sm mb-1">{{people.role}}</button>
-
-                {% if people.twitter %}
-                  <a href="https://twitter.com//{{ people.twitter }}" class="btn btn-outline-primary btn-sm mb-1" target="_blank">
-                    <i class="fab fa-twitter"></i> {{ people.twitter }}
-                  </a>
-                {% endif %}
-
-                {% if people.url %}
-                  <a href="{{ people.url }}" class="btn btn-outline-primary btn-sm mb-1" target="_blank">
-                    <i class="fal fa-external-link"></i> Website
-                  </a>
-                {% endif %}
-              </div>
-            </div>
-          </div>
-          <hr>          
-      {% endif %}
-
-      {% endfor %}
-<hr>
-

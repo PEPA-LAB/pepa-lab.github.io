@@ -13,7 +13,7 @@
   name: Lei Ding
   description: >
     tes
-  role: 
+  role: Postdoctoral researcher
   current: yes
   image: peep-ding.png
   tags:
@@ -176,7 +176,9 @@
   name: Lola Leveau
   description: >
     tes
-  role: Doctoral researcher and teaching assistant
+  role: 
+    - Doctoral researcher
+    - Teaching assistant
   current: yes
   image: peep-leveau.jpeg
   tags:
@@ -233,7 +235,9 @@
   name: Nicolas Biot (he/him)
   description: >
     Nicolas is a teaching assistant at the Bioengineering Faculty of the UCLouvain. His work focus on the understand of local food system dynamics, with a strong modelling approach
-  role: Doctoral researcher and teaching assistant
+  role: 
+    - Doctoral researcher
+    - Teaching assistant
   current: yes
   image: peep-biot.png
   tags:
