@@ -35,58 +35,11 @@ websites:
         name: FLOR-ID
         url: http://www.flor-id.org
 
-profiles:
-  - 
-    network: ORCID
-    username:
-    url: https://orcid.org/0000-0002-5883-4572 
-  - 
-    network: ImpactStory
-    username:
-    url: https://impactstory.org/u/0000-0002-5883-4572    
-  - 
-    network: Google Scholar
-    username:
-    url: http://scholar.google.com/citations?user=XHIe6wsAAAAJ&hl=en
-  -
-    network: Mastodon
-    username: guillaume@scholar.social
-    url: https://scholar.social/@guillaume
-  -
-    network: BlueSky
-    username: guillaumelobet.bsky.social
-    url: https://bsky.app/profile/guillaumelobet.bsky.social
-  -
-    network: Github
-    username: guillaumelobet
-    url: http://github.com/guillaumelobet/   
-  -
-    network: Figshare
-    username: 
-    url: http://figshare.com/authors/Guillaume_Lobet/98389       
-  -
-    network: Publons
-    username: 
-    url: http://publons.com/author/207362/guillaume-lobet
-
 intro:
-  title: Hi, I am Guillaume (he/him) and this is my research website!
+  title: Welcome to our lab website ! 
   body: >
 
-    I try to understand how **plant** can better cope with changes in water availability during their growth cycle. To do so, I look at **roots**, their structure and their organisation . In a wider context, I want to help create **sustainable agrosystems** that are resilient to **drought** event and lack of water.  
-
-    
-    Plants' complexity calls for integrative research strategies such as combining innovative plant phenotyping pipelines with powerful data analysis and modeling tools. Combining **computational tools** with the latest biological knowledge opens new horizons for plant research.
-
-
-    I believe in **Open Science**, the importance of science communication and good bread. 
-
-
-    I am an Associate Professor at the [UCLouvain](http://www.uclouvain.be/eli).
-
-    
-    I recently move from Twitter to <a rel="me" href="https://bsky.app/profile/guillaumelobet.bsky.social">BlueSky</a>. 
- 
+    I try to understand how **plant** can better cope with changes in water availability during their growth cycle. To do so, I look at **roots**, their structure and their organisation . In a wider context, I want to help create **sustainable agrosystems** that are resilient to **drought** event and lack of water.   
 
 footer: >
     Website created and maintained by myself with <span style="color: red;"><i class="fas fa-heart"></i></span> and <span style="color:#4f3130;"><i class="fas fa-coffee"></i></span>. Heavily relying on <a href="https://getbootstrap.com/">Bootstrap 4.0</a> and <a href="https://fontawesome.com">Font Awesome 5</a>. Also tacking advantage of the awesome badges from <a href="https://www.altmetric.com/">Altmetrics</a> and <a href="https://www.dimensions.ai/">Dimensions</a>. Hosted on <i class="fab fa-github"></i>. Source code available <a href="https://github.com/guillaumelobet/guillaumelobet.github.io">here</a>.

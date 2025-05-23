@@ -15,7 +15,7 @@ form: false
 <h3> Our PI's </h3>
 
       {% for people in sorted_students %}
-        {% if people.current and people.role == 'PI' %}
+        {% if people.pi%}
           <div class="clearfix mb-3">
             <!-- Add the image tag here with float-left class -->
             {% if people.image %}

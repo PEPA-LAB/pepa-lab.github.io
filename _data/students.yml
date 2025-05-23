@@ -4,7 +4,7 @@
   name: Brice Sinhouenon
   description: >
     tes
-  role: "researcher"
+  researcher: yes
   current: yes
   image: peep-sinhouenon.png
   tags:
@@ -14,7 +14,7 @@
   name: Lei Ding
   description: >
     tes
-  role: "researcher"
+  researcher: yes
   current: yes
   image: peep-ding.png
   tags:
@@ -25,7 +25,7 @@
   name: Thomas Dagbert
   description: >
     tes
-  role: "AdminTech"
+  admintech: yes
   current: yes
   image: peep-dagbert.png
   tags:
@@ -34,7 +34,7 @@
   name: Pierre Vanthorre
   description: >
     tes
-  role: "AdminTech" 
+  admintech: yes 
   current: yes
   image: peep-vanthorre.png
   tags:
@@ -43,7 +43,7 @@
   name: Christel Buyens
   description: >
     tes
-  role: "AdminTech"
+  admintech: yes
   current: yes
   image: peep-buyens.png
   tags:
@@ -52,7 +52,7 @@
   name: Tom Kenda
   description: >
     tes
-  role: "researcher"
+  researcher: yes
   current: yes
   image: peep-kenda.png
   tags:
@@ -61,7 +61,7 @@
   name: Josephine Guyot
   description: >
     tes
-  role: "researcher"
+  researcher: yes
   current: yes
   image: peep-guyot.png
   tags:
@@ -70,7 +70,7 @@
   name: Anne-Laure Jacquemart
   description: >
     tes
-  role: "PI"
+  pi: yes
   current: yes
   image: peep-jacquemart.png
   tags:
@@ -80,7 +80,7 @@
   name: Lena Jeannerod
   description: >
     tes
-  role: "researcher"
+  researcher: yes
   current: yes
   image: peep-Jeannerod.jpeg
   tags:
@@ -89,7 +89,7 @@
   name: Monica Rothwell
   description: >
     tes
-  role: "researcher"
+  researcher: yes
   current: yes
   image: peep-rothwell.png
   tags:
@@ -98,7 +98,7 @@
   name: Théo Degand
   description: >
     tes
-  role: "researcher"
+  researcher: yes
   current: yes
   image: peep-degand.jpg
   tags:
@@ -107,7 +107,7 @@
   name: Guillaume Lobet
   description: >
     tes
-  role: "PI"
+  pi: yes
   current: yes
   image: peep-lobet.jpg
   tags:
@@ -116,7 +116,7 @@
   name: Valentin Couvreur
   description: >
     tes
-  role: "PI"
+  pi: yes
   current: yes
   image: peep-couvreur.jpg
   tags:
@@ -125,7 +125,7 @@
   name: Pierre Bertin
   description: >
     tes
-  role: "PI" 
+  pi: yes 
   current: yes
   image: peep-bertin.png
   tags:
@@ -134,7 +134,7 @@
   name: Xavier Draye
   description: >
     tes
-  role: "PI"
+  pi: yes
   current: yes
   image: peep-draye.jpg
   tags:
@@ -143,7 +143,7 @@
   name: Richard Lambert
   description: >
     tes
-  role: "PI"
+  pi: yes
   current: yes
   image: peep-lambert.jpeg
   tags:
@@ -152,7 +152,7 @@
   name: Pascale Pattyn
   description: >
     tes
-  role: "AdminTech"
+  admintech: yes
   current: yes
   image: peep-pattyn.png
   tags:
@@ -161,7 +161,7 @@
   name: Robin Watteyne
   description: >
     tes
-  role: "AdminTech"
+  admintech: yes
   current: yes
   image: peep-watteyne.jpeg
   tags:
@@ -170,7 +170,7 @@
   name: Marc De Toffoli
   description: >
     tes
-  role: "researcher"
+  researcher: yes
   current: yes
   image: peep-detoffoli.jpeg
   tags:
@@ -179,7 +179,7 @@
   name: Lola Leveau
   description: >
     tes
-  role: "researcher"
+  researcher: yes
   current: yes
   image: peep-leveau.jpeg
   tags:
@@ -189,7 +189,7 @@
   name: Lisa Delfosse
   description: >
     tes
-  role: "researcher"
+  researcher: yes
   current: yes
   image: peep-delfosse.jpeg
   tags:
@@ -199,7 +199,7 @@
   name: Salomé Lengrand (she/her)
   description: >
     Renaud is intersted in cereal root development, with a current focus on spelt and wheat at the seedling stage. I also loves (I hope.. ) rhizotrons experiments. Renaud is now a PhD student in the lab of the Saoirse Tracy at the University Colleage in Dublin.
-  role: "researcher"
+  researcher: yes
   current: yes
   image: peep-lengrand.jpeg
   tags:
@@ -211,7 +211,7 @@
   name: Renaud Bulpa  (he/him)
   description: >
     Renaud is intersted in cereal root development, with a current focus on spelt and wheat at the seedling stage. I also loves (I hope.. ) rhizotrons experiments. Renaud is now a PhD student in the lab of the Saoirse Tracy at the University Colleage in Dublin.
-  role: "researcher"
+  researcher: yes
   current: yes
   image: peep-bulpa.png
   tags:
@@ -223,7 +223,7 @@
   name: Marco D'Agostino  (he/him)
   description: >
     Marco is working on better understing how tomato anatomies is linked to water uptake dynamics at the plant level. He is interested in exploring how natural variation in closely related wild species can help us develop more resilient tomato plants. 
-  role: "researcher"
+  researcher: yes
   current: yes
   image: peep-dagostino.png
   tags:
@@ -236,7 +236,7 @@
   name: Nicolas Biot (he/him)
   description: >
     Nicolas is a teaching assistant at the Bioengineering Faculty of the UCLouvain. His work focus on the understand of local food system dynamics, with a strong modelling approach
-  role: "researcher"
+  researcher: yes
   current: yes
   image: peep-biot.png
   tags:
@@ -249,7 +249,7 @@
     Adrien was a PhD student at the UCLouvain. He is deeply interest "in silico" plants and ways to grow a more suistanable  agriculture. Adrien now works as a post-doc researcher at Umeå Plant Science Centre and work on leaf epidermis. We were very sad (but also happy) to see him leave the nest. 
   image: /img/adrien.jpg
   twitter: Heymans_Adrien
-  role: "researcher"
+  researcher: yes
   image: peep-heymans.png
   current: yes
   tags:
