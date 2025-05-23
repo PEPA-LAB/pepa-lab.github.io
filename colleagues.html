@@ -25,7 +25,7 @@ form: false
 
             <div class="overflow-hidden">
               <h5 class="mb-1">{{ people.name }}</h5>
-              <p class="mb-1">{{ people.description | markdownify }}</p>
+              <!--p class="mb-1">{{ people.description | markdownify }}</p-->
 
 
 
@@ -37,7 +37,7 @@ form: false
                         </button>
                         {% endfor %}
                   {% endif %} 
-                
+
                 {% for role in people.role %}
                   <button type="button" class="btn btn-outline-info btn-sm mb-1">{{people.role}}</button>
                   <button type="button" class="btn btn-outline-info btn-sm mb-1">{{people.role}}</button>
