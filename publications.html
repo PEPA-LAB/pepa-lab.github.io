@@ -4,7 +4,6 @@ title: Publications
 background: '/img/bg-flowers.png'
 form: false
 ---
-
 <!-- Count the publications -->
 {% assign journal_count = site.data.publications | where: "type", "journal" | size %}
 
@@ -18,7 +17,7 @@ form: false
       {% assign current_year = publication.year %}
     {% endif %}
 
-    <small>{{ forloop.index }}</small> | <strong class="mb-1">{{ publication.title }}</strong>
+    <small>{{ journal_count | minus: forloop.index0 }}</small> | <strong class="mb-1">{{ publication.title }}</strong>
     {% if publication.open %}<span style="color: green;"><i class="far fa-lock-open"></i></span>{% endif %}
     {% if publication.preprint %}<span style="color: green;"><i class="far fa-cog fa-spin"></i></span>{% endif %}
     <br>
