@@ -93,40 +93,7 @@
 
 
 
--
-  name: Lei Ding
-  description: >
-    tes
-  researcher: yes
-  current: yes
-  image: peep-ding.png
-  url: https://www.linkedin.com/in/lei-ding-577481b9/
-  tags:
-    - root
-    - hydraulics
-    - aquaporins
 
--
-  name: Emeline Verstraeten
-  description: >
-    tes
-  researcher: yes
-  current: yes
-  image: peep-verstraeten.jpeg
-  url: https://www.linkedin.com/in/emeline-verstraeten-71763a199/
-  tags:
-    - root
-    - phenotyping
--
-  name: Brice Sinhouenon
-  description: >
-    tes
-  researcher: yes
-  current: yes
-  image: peep-sinhouenon.png
-  tags:
-    - genetic diversity
-    - cocoa
 
 -
   name: Thomas Dagbert
@@ -165,55 +132,6 @@
   tags:
     - pollen
     - molecular biology
--
-  name: Tom Kenda
-  description: >
-    tes
-  researcher: yes
-  current: yes
-  image: peep-kenda.png
-  tags:
-    - root
--
-  name: Josephine Guyot
-  description: >
-    tes
-  researcher: yes
-  current: yes
-  image: peep-guyot.png
-  tags:
-    - root
-
--
-  name: Lena Jeannerod
-  description: >
-    tes
-  researcher: yes
-  current: yes
-  image: peep-Jeannerod.jpeg
-  tags:
-    - root
--
-  name: Monica Rothwell
-  description: >
-    tes
-  researcher: yes
-  current: yes
-  image: peep-rothwell.png
-  tags:
-    - root
--
-  name: Théo Degand
-  description: >
-    tes
-  researcher: yes
-  current: yes
-  image: peep-degand.jpg
-  tags:
-    - root
-
-
-
 
 -
   name: Pascale Pattyn
@@ -235,6 +153,159 @@
   tags:
     - admin
     - finances
+
+
+
+
+
+-
+  name: Lei Ding
+  description: >
+    tes
+  researcher: yes
+  current: yes
+  image: peep-ding.jpg
+  url: https://www.linkedin.com/in/lei-ding-577481b9/
+  postdoc : yes
+  tags:
+    - root
+    - hydraulics
+    - aquaporins  
+
+-
+  name: Lucia Nevescanin Moreno 
+  description: >
+    test
+  researcher: yes
+  postdoc : yes
+  current: yes
+  image: peep-nevescanin.jpg
+  tags:
+    - root
+    - wheat
+    - architecture
+    - phenotyping  
+
+-
+  name: Adrien Heymans (he/him)
+  description: >
+    Adrien was a PhD student at the UCLouvain. He is deeply interest "in silico" plants and ways to grow a more suistanable  agriculture. Adrien now works as a post-doc researcher at Umeå Plant Science Centre and work on leaf epidermis. We were very sad (but also happy) to see him leave the nest. 
+  image: /img/adrien.jpg
+  url: https://heymansadrien.github.io/
+  researcher: yes
+  postdoc: yes
+  image: peep-heymans.png
+  current: yes
+  tags:
+    - root
+    - water
+    - modelling   
+    - phenotyping
+
+-
+  name: Salomé Lengrand (she/her)
+  description: >
+    test
+  researcher: yes
+  current: yes
+  image: peep-lengrand.jpeg
+  tags:
+    - root
+    - wheat
+    - architecture
+    - nitrogen
+
+
+
+
+
+
+-
+  name: Emeline Verstraeten
+  description: >
+    tes
+  researcher: yes
+  current: yes
+  image: peep-verstraeten.jpeg
+  url: https://www.linkedin.com/in/emeline-verstraeten-71763a199/
+  tags:
+    - root
+    - phenotyping
+-
+  name: Brice Sinhouenon
+  description: >
+    tes
+  researcher: yes
+  phd: yes
+  current: yes
+  image: peep-sinhouenon.png
+  tags:
+    - genetic diversity
+    - cocoa
+
+-
+  name: Tom Kenda
+  description: >
+    tes
+  researcher: yes
+  current: yes
+  phd: yes
+  image: peep-kenda.png
+  tags:
+    - remote sensing
+    - sentinel
+    - yield
+-
+  name: Josephine Guyot
+  description: >
+    tes
+  researcher: yes
+  current: yes
+  phd: yes
+  image: peep-guyot.png
+  tags:
+    - root
+    - nitrogen
+    - maize
+
+-
+  name: Lena Jeannerod
+  description: >
+    tes
+  researcher: yes
+  current: yes
+  phd: yes
+  image: peep-Jeannerod.jpeg
+  tags:
+    - bee
+    - pollinators
+    - pollen
+-
+  name: Monica Rothwell
+  description: >
+    tes
+  researcher: yes
+  current: yes
+  phd: yes
+  image: peep-rothwell.png
+  tags:
+    - root
+    - hydraulics
+    - trees
+-
+  name: Théo Degand
+  description: >
+    tes
+  researcher: yes
+  phd: yes
+  current: yes
+  image: peep-degand.jpg
+  tags:
+    - root
+    - hydraulics
+    - tomato
+    - maize
+
 -
   name: Marc De Toffoli
   description: >
@@ -251,6 +322,8 @@
   description: >
     tes
   researcher: yes
+  phd: yes
+  teaching: yes
   current: yes
   image: peep-leveau.jpeg
   tags:
@@ -264,30 +337,21 @@
     tes
   researcher: yes
   current: yes
+  teaching: yes 
   image: peep-delfosse.jpeg
   tags:
     - teaching
     - evaluation
     - botany
 
--
-  name: Salomé Lengrand (she/her)
-  description: >
-    test
-  researcher: yes
-  current: yes
-  image: peep-lengrand.jpeg
-  tags:
-    - root
-    - wheat
-    - architecture
-    - nitrogen
+
 -
   name: Renaud Bulpa  (he/him)
   description: >
     Renaud is intersted in cereal root development, with a current focus on spelt and wheat at the seedling stage. I also loves (I hope.. ) rhizotrons experiments. Renaud is now a PhD student in the lab of the Saoirse Tracy at the University Colleage in Dublin.
   researcher: yes
   current: yes
+  phd: yes  
   url: https://www.linkedin.com/in/renaud-bulpa-478735266/
   image: peep-bulpa.png
   tags:
@@ -301,6 +365,7 @@
     Marco is working on better understing how tomato anatomies is linked to water uptake dynamics at the plant level. He is interested in exploring how natural variation in closely related wild species can help us develop more resilient tomato plants. 
   researcher: yes
   current: yes
+  phd: yes  
   image: peep-dagostino.png
   tags:
     - root
@@ -313,6 +378,8 @@
   description: >
     Nicolas is a teaching assistant at the Bioengineering Faculty of the UCLouvain. His work focus on the understand of local food system dynamics, with a strong modelling approach
   researcher: yes
+  phd: yes
+  teaching: yes
   url: https://www.linkedin.com/in/nicolas-biot-a937a51b3/
   current: yes
   image: peep-biot.png
@@ -320,17 +387,7 @@
     - food system
     - modelling    
     
--
-  name: Adrien Heymans (he/him)
-  description: >
-    Adrien was a PhD student at the UCLouvain. He is deeply interest "in silico" plants and ways to grow a more suistanable  agriculture. Adrien now works as a post-doc researcher at Umeå Plant Science Centre and work on leaf epidermis. We were very sad (but also happy) to see him leave the nest. 
-  image: /img/adrien.jpg
-  url: https://heymansadrien.github.io/
-  researcher: yes
-  image: peep-heymans.png
-  current: yes
-  tags:
-    - root
-    - water
-    - modelling   
-    - phenotyping
+
+
+
+

@@ -76,7 +76,7 @@ form: false
   {% endif %}
 {% endfor %}
 
-<h3> Our {{ counterResearcher }}Researchers </h3>
+<h3> Our {{ counterResearcher }} Researchers </h3>
 
       {% for people in site.data.people %}
         {% if people.researcher%}
@@ -99,10 +99,15 @@ form: false
                         {% endfor %}
                   {% endif %} 
 
-                {% for role in people.role %}
-                  <button type="button" class="btn btn-outline-info btn-sm mb-1">{{people.role}}</button>
-                  <button type="button" class="btn btn-outline-info btn-sm mb-1">{{people.role}}</button>
-                {% endfor %}
+                {% if people.phd %}
+                  <button type="button" class="btn btn-outline-success btn-sm mt-1"><i class="fal fa-recycle mr-1"></i>phd student</button>
+                {% endif %} 
+                {% if people.postdoc %}
+                  <button type="button" class="btn btn-outline-success btn-sm mt-1"><i class="fal fa-recycle mr-1"></i>postdoc</button>
+                {% endif %} 
+                {% if people.teaching %}
+                  <button type="button" class="btn btn-outline-success btn-sm mt-1"><i class="fal fa-recycle mr-1"></i>teaching assistant</button>
+                {% endif %} 
 
                 {% if people.twitter %}
                   <a href="https://twitter.com//{{ people.twitter }}" class="btn btn-outline-primary btn-sm mb-1" target="_blank">
@@ -126,7 +131,7 @@ form: false
 
 {% assign counterAdmin = 0 %}
 {% for people in site.data.people %}
-  {% if people.researcher%}
+  {% if people.admintech%}
       {% assign counterAdmin = counterAdmin | plus: 1 %}              
   {% endif %}
 {% endfor %}
