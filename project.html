@@ -17,6 +17,10 @@ form: false
       <h4 class="mb-1">{{ project.name }}</h4>
       <p class="mb-1"><p>{{ project.description | markdownify }}</p>
       
+      {% if project.image %}
+        <img src="{{ project.image }}" alt="{{ project.name }}" class="img-fluid mb-2">
+      {% endif %}
+      
       {% if project.tags %}
         {% for tag in project.tags %}
         <button type="button" class="btn btn-outline-secondary btn-sm mt-1">

@@ -5,8 +5,8 @@
 
 
     DROOGHT is financed by the European Research Concil under the Consolidator Grant scheme. 
-  image: /img/crootbox_1.jpg
-  url: http://www.drooght.science/
+  image: /img/prj-drooght.png
+  url: https://drooght.github.io/
   tags:
     - water
     - root
@@ -21,8 +21,8 @@
 
 
     The Plant Water Pump is financed by the European Research Concil under the Starting Grant scheme. 
-  image: /img/crootbox_1.jpg
-  url: http://www.drooght.science/
+  image: /img/prj-waterpump.jpg
+  url: https://cordis.europa.eu/project/id/101043083/fr
   tags:
     - water
     - root
@@ -35,7 +35,7 @@
 
 
     PHENET is financed by the European Research Concil under the Horizon Grant scheme. 
-  image: /img/crootbox_1.jpg
+  image: /img/prj-phenet.png
   url: https://www.phenet.eu/en
   tags:
     - phenotyping
