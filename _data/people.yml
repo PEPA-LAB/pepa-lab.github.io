@@ -121,6 +121,7 @@
     - botany
     - field
     - taxonomy
+    - weeds
 -
   name: Christel Buyens
   description: >
@@ -185,6 +186,7 @@
     - wheat
     - architecture
     - phenotyping  
+    - cake
 
 -
   name: Adrien Heymans (he/him)
@@ -233,6 +235,7 @@
     - plant
     - phenotyping
     - modelling
+    - memes
 
 -
   name: Marc De Toffoli
@@ -379,6 +382,7 @@
     - tomato
     - anatomy
     - modelling
+    - socks
     
 -
   name: Nicolas Biot (he/him)
@@ -392,7 +396,8 @@
   image: peep-biot.png
   tags:
     - food system
-    - modelling    
+    - participatory research
+    - market gardenning  
     
 
 

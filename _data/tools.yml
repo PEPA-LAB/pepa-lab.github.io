@@ -1,19 +1,32 @@
 -
+  name: RootPhair
+  description: > 
+    In the RootPhair aeroponics platform, roots growing unimpeded can be accessed non-invasively. With backlight illumination, sharp images are produced on 1000 plants with a 2-hr time resolution. The short displacement of roots in one time lapse makes it possible to track the progression of root tips during more than two weeks.   image: /img/crootbox_1.jpg
+  url: https://www.uclouvain.be/en/research-institutes/eli/elia/rootphair
+  image: /img/tool-rootphair.png
+  tags:
+    - phenotyping 
+    - root
+    - architecture
+    - aeroponics
+
+-
   name: Root Hydraulic Database
   description: > 
     We compiled an online database that corresponds to a systematic review of scientific articles in which root hydraulic properties were determined empirically. The relevant data presented in the publications was digitilized manually and can be easily accesed thorugh this application.
-  image: /img/crootbox_1.jpg
+  image: /img/tool-root-hydraulic.png
   url: https://roothydraulic-properties.shinyapps.io/database/
   tags:
     - database 
     - root
     - hydraulics
 
+
 -
   name: GRANAR
   description: >
     GRANAR is a generator of complete root cross-section network in R. Upon a small set of anatomical features the GRANAR model is able to reconstruct a generic root cell network for mono and dicotyledon. Among the few parameters you can modify, there is the aerenchyma proportion, the number and size of the xylem vessels, but also the number of cell layers and the mean size of each cell type.
-  image: /img/crootbox_1.jpg
+  image: /img/tool-granar.png
   url: https://granar.github.io/
   tags:
     - model
@@ -25,7 +38,7 @@
   name: CRootBox / CPlantBox
   description: >
     The focus of CRootBox is the simulation of different types of root architecture, and to provide a generic interface for coupling with soil/environmental models, e.g., in order to determine the impact of specific root architectures on function. CRootBox is currently being extended into a full plant model CPlantBox
-  image: /img/crootbox_1.jpg
+  image: /img/tool-crootbox.png
   url: https://plant-root-soil-interactions-modelling.github.io/CRootBox/
   tags:
     - model
@@ -38,7 +51,7 @@
     The Quantitative Plant website is an online, manually curated, database referencing more than 180 plant image analysis software solutions, 30 plant image datasets and 100 plant computational models. 
     The website presents each ressource in a uniform and concise manner enabling users to identify the available solutions for their experimental needs. 
     The website also enables user feedback, evaluations and new software submissions. The aim of such a toolbox is to help users to find solutions, and to provide developers a way to exchange and communicate about their work.
-  image: /img/pia.jpg
+  image: /img/tool-quantitative.png
   url: http://www.quantitative-plant.org  
   tags:
     - database
@@ -50,7 +63,7 @@
     SmartRoot is a semi-automated image analysis software which streamlines the quantification of root growth and architecture for complex root systems. 
     The software combines a vectorial representation of root objects with a powerful tracing algorithm which accommodates to a wide range of image source and quality. 
     The software supports a sampling-based analysis of root system images, in which detailed information is collected on a limited number of roots selected by the user according to specific research requirements. 
-  image: /img/smartroot.jpg
+  image: /img/tool-smartroot.png
   url: https://smartroot.github.io/
   tags:
     - image analysis
@@ -61,29 +74,9 @@
   name: Root System Markup Language | RSML
   description: >
     Together with researchers from INRIA, CPIB, Juelich, Vienna and Louvain, we created the Root System Markup Language (RSML) that has been designed to alleviate two major bottlenecks: (i) to enable portability of root architecture data between different software tools in an easy and interoperable manner allowing seamless collaborative work, and (ii) to provide a standard format upon which to base central repositories which will soon arise following the expanding worldwide root phenotyping effort. 
-  image: /img/rsml.jpg
+  image: /img/tool-rsml.png
   url: http://rootsystemml.github.io/
   tags:
     - file format
     - root
 
--
-  name: Plant Illustrations
-  description: >
-    The aim of this figshare profile is to collect, in one place, illustrations and pictures of plants, roots, shoots, inflorescences, ... All of the illustrations are made by researchers, for researchers. The ultimate goal is to be a resource for the plant science community.
-  image: /img/plant_illustrations.jpg
-  url: https://figshare.com/authors/Plant_Illustrations/3773596
-  tags:
-    - database
-    - root
-    - shoot
-    - flowering
--
-  name: Flowering Interactive Database - FLOR-ID
-  description: >
-    The transition to flowering is an essential step of the plant life cycle that is tightly controlled by both endogenous and environmental cues. Its regulation is extremely complex and involves hundreds of genes that are part of highly interconnected pathways. We are currently building a new web-based interactive resource organized around a curated database of the flowering time genes, FLOR-ID. This project is a collaboration with [Fred Bouché](http://www.fredericbouche.com/). Article about the database [here (in french)](http://le15ejour.ulg.ac.be/jcms/c_49741/fr/genetique-de-la-floraison) and [here (Flowering Highlights)](http://floweringhighlights.org/2016/01/21/flowering-highlights-a-database-for-all-things-flowering-by-frank-wellmer/).
-  image: /img/flowering_net.jpg
-  url: http://www.phytosystems.ulg.ac.be/florid
-  tags:
-    - database
-    - flowering
