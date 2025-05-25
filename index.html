@@ -4,6 +4,12 @@ title: Welcome !
 background: '/img/bg-field-4.png'
 ---
 
+{% assign counterPeople = 0 %}
+{% for people in site.data.people %}
+    {% assign counterPeople = counterPeople | plus: 1 %}              
+{% endfor %}
+
+
 {{ site.data.personal.intro.title | markdownify }}
 
 {{ site.data.personal.intro.body | markdownify }}

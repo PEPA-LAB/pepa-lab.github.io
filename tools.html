@@ -14,7 +14,6 @@ form: false
     {% for tool in site.data.tools %}
 
       <h4 class="mb-1">{{ tool.name }}</h4>
-      <p class="mb-1"><p>{{ tool.description | markdownify }}</p>
       
       {% if tool.tags %}
         {% for tag in tool.tags %}
@@ -23,6 +22,14 @@ form: false
         </button>
         {% endfor %}
       {% endif %} 
+
+      <p class="mb-1"><p>{{ tool.description | markdownify }}</p>
+      
+      {% if tool.image %}
+        <img src="{{ tool.image }}" alt="{{ tool.name }}" class="img-fluid mb-2" style="border-radius: 5px;">
+      {% endif %}
+
+
       {% if tool.url %}
       <div class="float-right">
         <a href="{{ tool.url }}" class="btn btn-outline-primary btn-sm" target="_blank">
@@ -31,6 +38,7 @@ form: false
       </div>
       {% endif %}
       <br>
+      
       <hr>
     {% endfor %}
 

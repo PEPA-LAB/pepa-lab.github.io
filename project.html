@@ -15,11 +15,6 @@ form: false
     {% for project in site.data.projects %}
 
       <h4 class="mb-1">{{ project.name }}</h4>
-      <p class="mb-1"><p>{{ project.description | markdownify }}</p>
-      
-      {% if project.image %}
-        <img src="{{ project.image }}" alt="{{ project.name }}" class="img-fluid mb-2" style="border-radius: 5px;">
-      {% endif %}
 
       {% if project.tags %}
         {% for tag in project.tags %}
@@ -28,6 +23,13 @@ form: false
         </button>
         {% endfor %}
       {% endif %} 
+
+      <p class="mb-1"><p>{{ project.description | markdownify }}</p>
+      
+      {% if project.image %}
+        <img src="{{ project.image }}" alt="{{ project.name }}" class="img-fluid mb-2" style="border-radius: 5px;">
+      {% endif %}
+
       {% if project.url %}
       <div class="float-right">
         <a href="{{ project.url }}" class="btn btn-outline-primary btn-sm" target="_blank">
