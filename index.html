@@ -8,10 +8,10 @@ background: '/img/bg-field-4.png'
 
 {{ site.data.personal.intro.body | markdownify }}
 
+<br>
+<hr>
 
 <h4>Last publications from the lab</h4>
-
-
 
 {% for publication in site.data.publications limit:3 %}
 
@@ -26,13 +26,6 @@ background: '/img/bg-field-4.png'
 
   	<small>{{ publication.year }}</small> | <small>{{ publication.authors }}</small>
   	<br>
-
-
-  	<div>
-    	<h3>{{ project.name }}</h3>
-    	<p>{{ project.description }}</p>
-    	<p><small>Date: {{ project.date | date: "%B %d, %Y" }}</small></p>
-  	</div>
 
 	 <div class="float-right">
 	  {% if publication.doi %}
