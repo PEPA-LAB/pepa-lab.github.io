@@ -91,7 +91,23 @@
     - pasture
     - fertilisation
 
-
+-
+  name: Pierre Bertin
+  description: >
+    tes
+  pi: yes 
+  current: yes
+  alumni: yes
+  image: peep-bertin.png
+  url: https://scholar.google.com/citations?hl=fr&user=DdXVGyoAAAAJ
+  tags:
+    - genetic diversity
+    - farming systems
+    - rice
+    - cocoa
+    - vanilla
+    - oca 
+    - spelt
 
 
 
@@ -207,6 +223,7 @@
   description: >
     test
   researcher: yes
+  postdoc: yes
   current: yes
   image: peep-lengrand.jpeg
   tags:

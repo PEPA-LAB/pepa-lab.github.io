@@ -8,3 +8,52 @@ background: '/img/bg-field-4.png'
 
 {{ site.data.personal.intro.body | markdownify }}
 
+
+<h4>Last publications from the lab</h4>
+
+
+
+{% for publication in site.data.publications limit:3 %}
+
+	<small>{{ counter3 }}</small> | <strong class="mb-1">{{ publication.title }}</strong>
+ 	{% if publication.open %}
+    	<span style="color: green;"><i class="far fa-lock-open"></i></span>
+  	{% endif %}
+  	{% if publication.preprint %}
+    	 <span style="color: green;"><i class="far fa-cog fa-spin"></i></span>
+  	{% endif %}                       
+  	<br>
+
+  	<small>{{ publication.year }}</small> | <small>{{ publication.authors }}</small>
+  	<br>
+
+
+  	<div>
+    	<h3>{{ project.name }}</h3>
+    	<p>{{ project.description }}</p>
+    	<p><small>Date: {{ project.date | date: "%B %d, %Y" }}</small></p>
+  	</div>
+
+	 <div class="float-right">
+	  {% if publication.doi %}
+	      <a class="btn btn-outline-secondary btn-sm mb-1" href="http://dx.doi.org/{{ publication.doi }}" target="_blank" >
+	        <i class="fal fa-link"></i>
+	      </a>
+	  {% elsif publication.url %}
+	      <a class="btn btn-outline-secondary btn-sm mb-1" href="{{ publication.url }}" target="_blank">
+	        <i class="fal fa-link"></i>
+	      </a>
+	  {% endif %}
+
+	  {% if publication.pdf %}
+	      <a class="btn btn-outline-secondary btn-sm mb-1" href="{{ publication.pdf }}" target="_blank">
+	        <i class="fal fa-file-alt"></i>
+	      </a>
+	  {% endif %}
+	  
+	</div>
+	<br>
+	 <hr>
+
+{% endfor %}
+
