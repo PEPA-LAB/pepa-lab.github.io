@@ -27,7 +27,7 @@ form: false
       <p class="mb-1"><p>{{ project.description | markdownify }}</p>
       
       {% if project.image %}
-        <img src="{{ project.image }}" alt="{{ project.name }}" class="img-fluid mb-2" style="border-radius: 5px;">
+        <img src="{{ project.image }}" alt="{{ project.name }}" class="img-fluid mb-2" style="border-radius: 5px; border: 1px solid black;">
       {% endif %}
 
       {% if project.url %}
