@@ -12,8 +12,9 @@ form: false
     </button>
   </div>
 
+
 {% assign counterPI = 0 %}
-{% people in site.data.people %}
+{% for people in site.data.people %}
     {% if people.pi%}
         {% assign counterPI = counterPI | plus: 1 %}              
     {% endif %}
@@ -69,7 +70,7 @@ form: false
 
 
 {% assign counterResearcher = 0 %}
-{% people in site.data.people %}
+{% for people in site.data.people %}
   {% if people.researcher%}
       {% assign counterResearcher = counterResearcher | plus: 1 %}              
   {% endif %}
@@ -123,7 +124,14 @@ form: false
       {% endfor %}
 <hr>
 
-<h3> Our Techs and Admins </h3>
+{% assign counterAdmin = 0 %}
+{% for people in site.data.people %}
+  {% if people.researcher%}
+      {% assign counterAdmin = counterAdmin | plus: 1 %}              
+  {% endif %}
+{% endfor %}
+
+<h3> Our {{counterAdmin}} Techs and Admins </h3>
 
       {% for people in site.data.people %}
         {% if people.admintech%}
