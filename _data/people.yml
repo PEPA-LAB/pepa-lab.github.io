@@ -1,20 +1,4 @@
--
-  name: Pierre Bertin
-  description: >
-    tes
-  pi: yes 
-  current: yes
-  image: peep-bertin.png
-  url: https://scholar.google.com/citations?hl=fr&user=DdXVGyoAAAAJ
-  tags:
-    - genetic diversity
-    - farming systems
-    - rice
-    - cocoa
-    - vanilla
-    - oca 
-    - spelt
-    - alumni
+
 -
   name: Valentin Couvreur
   description: >
@@ -246,8 +230,25 @@
   image: peep-verstraeten.jpeg
   url: https://www.linkedin.com/in/emeline-verstraeten-71763a199/
   tags:
-    - root
+    - plant
     - phenotyping
+    - modelling
+
+-
+  name: Marc De Toffoli
+  description: >
+    tes
+  researcher: yes
+  current: yes
+  image: peep-detoffoli.jpeg
+  tags:
+    - nitrogen
+    - water
+    - crops
+
+
+
+
 -
   name: Brice Sinhouenon
   description: >
@@ -323,17 +324,6 @@
     - tomato
     - maize
 
--
-  name: Marc De Toffoli
-  description: >
-    tes
-  researcher: yes
-  current: yes
-  image: peep-detoffoli.jpeg
-  tags:
-    - nitrogen
-    - water
-    - crops
 -
   name: Lola Leveau
   description: >

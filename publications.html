@@ -1,19 +1,10 @@
 ---
 layout: page
 title: Publications
-background: '/img/bg-publications.jpg'
+background: '/img/bg-flowers.png'
 form: false
 ---
 
-	
-
-          <div class="alert alert-info">
-            I do not believe that journal names convey information regarding the quality of my published work, so I left it blank. I did include other usefull informations.<br> 
-            <small><span style="color: green;"><i class="far fa-cog fa-spin"></i></span> = preprint</small>
-            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-              <span aria-hidden="true">&times;</span>
-            </button>
-          </div>
 
 
 <!- Count the publications ->
@@ -26,6 +17,8 @@ form: false
               {% endcase %}
           {% endfor %}
           {% assign counter3 = counter | minus :1 %}
+
+
 
             {% assign counter = 1 %}
             {% for publication in site.data.publications %}
