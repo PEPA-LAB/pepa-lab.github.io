@@ -18,8 +18,11 @@ form: false
 <!-- Count the publications -->
 {% assign journal_count = site.data.publications | where: "type", "journal" | size %}
 
+{% assign sorted_publications = site.data.publications | where: "type", "journal" | sort: "year" %}
+
+
 {% assign current_year = nil %}
-{% for publication in site.data.publications %}
+{% for publication in sorted_publications %}
   {% if publication.type == 'journal' %}
     {% if current_year != publication.year %}
       {% unless forloop.first %}</div>{% endunless %}

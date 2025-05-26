@@ -1,3 +1,781 @@
+- year: 2024
+  authors: Yang, Nana ; Rongione, Charles ; Jacquemart, Anne-Laure ; Draye, Xavier
+    ; De Vleeschouwer, Christophe
+  title: On the Importance of Diversity When Training Deep Learning Segmentation Models
+    with Error-Prone Pseudo-Labels
+  pages: Vol. 14, no.12, p. 5156 (2024)
+  doi: 10.3390/app14125156
+  journal: Applied Sciences
+  type: journal
+- year: 2023
+  authors: Phan, Nhung Thi Hong ; Draye, Xavier ; Pham, Cuong Van ; Bertin, Pierre
+  title: Identification of quantitative trait loci controlling nitrogen use efficiency-related
+    traits in rice at the seedling stage under salt condition by genome-wide association
+    study
+  pages: Vol. 14, p. 16 (2023)
+  doi: 10.3389/fpls.2023.1197271
+  journal: Frontiers in Plant Science
+  type: journal
+- year: 2022
+  authors: Saint Cast, Clément ; Lobet, Guillaume ; Cabrera-Bosquet, Llorenç ; Couvreur,
+    Valentin ; Pradal, Christophe ; Tardieu, François ; Draye, Xavier
+  title: Connecting plant phenotyping and modelling communities: lessons from science
+    mapping and operational perspectives
+  pages: Vol. 4, no.1, p. 13 (2022)
+  doi: 10.1093/insilicoplants/diac005
+  journal: in silico Plants
+  type: journal
+- year: 2022
+  authors: Mehra, Poonam ; Pandey, Bipin K. ; Melebari, Dalia ; Banda, Jason ; Leftley,
+    Nicola ; Couvreur, Valentin ; Rowe, James ; Anfang, Moran ; De Gernier, Hugues
+    ; Morris, Emily ; Sturrock, Craig J. ; Mooney, Sacha J. ; Swarup, Ranjan ; Faulkner,
+    Christine ; Beeckman, Tom ; Bhalerao, Rishikesh P. ; Shani, Eilon ; Jones, Alexander
+    M. ; Dodd, Ian C. ; Sharp, Robert E. ; Sadanandom, Ari ; Draye, Xavier ; Bennett,
+    Malcolm J.
+  title: Hydraulic flux–responsive hormone redistribution determines root branching
+  pages: Vol. 378, no.6621, p. 762-768 (2022)
+  doi: 10.1126/science.add3771
+  journal: Science
+  type: journal
+- year: 2022
+  authors: Welcker, Claude ; Spencer, Nadir Abusamra ; Turc, Olivier ; Granato, Italo
+    ; Chapuis, Romain ; Madur, Delphine ; Beauchene, Katia ; Gouesnard, Brigitte ;
+    Draye, Xavier ; Palaffre, Carine ; Lorgeou, Josiane ; Melkior, Stephane ; Guillaume,
+    Colin ; Tardieu, François
+  title: Physiological adaptive traits are a potential allele reservoir for maize
+    genetic progress under challenging conditions
+  pages: Vol. 13, no. 1, p. 13 (2022)
+  doi: 10.1038/s41467-022-30872-w
+  journal: Nature Communications
+  type: journal
+- year: 2021
+  authors: Couvreur, Valentin ; Heymans, Adrien ; Lobet, Guillaume ; Draye, Xavier
+  title: Evidence for a multicellular symplasmic water pumping mechanism across vascular
+    plant roots
+  pages: -2021
+  doi: 10.1101/2021.04.19.439789
+  journal: BioRxiv
+  type: journal
+- year: 2021
+  authors: Barczi, Jean-François ; Beroueg, Amira ; Buck-Sorlin, Gerhard ; Couvreur,
+    Valentin ; Danjon, Frédéric ; Delory, Benjamin M. ; Doussan, Claude ; De Swaef,
+    Tom ; Draye, Xavier ; Drouet, Jean-Louis ; Dupuy, Lionel ; Garre, Sarah ; Gérard,
+    Frédéric ; Heymans, Adrien ; Hinsinger, Philippe ; Javaux, Mathieu ; Koch, Axelle
+    ; Landl, Magdalena ; Lecompte, François ; Leitner, Daniel ; Lobet, Guillaume ;
+    Lynch, Jonathan ; Martre, Pierre ; Meredieu, Céline ; Meunier, Felicien ; Mollier,
+    Alain ; Muller, Bertrand ; Nguyen, Christophe ; Picon-Cochard, Catherine ; Postma,
+    Johannes A. ; Pradal, Christophe ; Rees, Frédéric ; Richard-Molard, Céline ; Roose,
+    Tiina ; Saint Cast, Clément ; Schnepf, Andrea ; Thaler, Philippe ; Vanderborght,
+    Jan ; Wu, Lianhai ; Zhou, Xiaoran
+  title: Loïc Pagès, founding scientist in root ecology and modelling
+  pages: Vol. 3, no.2 (2021)
+  doi: 10.1093/insilicoplants/diab035
+  journal: in silico Plants
+  type: journal
+- year: 2021
+  authors: Pascut, Flavius C. ; Couvreur, Valentin ; Dietrich, Daniela ; Leftley,
+    Nicky ; Reyt, Guilhem ; Boursiac, Yann ; Calvo-Polanco, Monica ; Casimiro, Ilda
+    ; Maurel, Christophe ; Salt, David E. ; Draye, Xavier ; Wells, Darren M. ; Bennett,
+    Malcolm J. ; Webb, Kevin F.
+  title: Non-invasive hydrodynamic imaging in plant roots at cellular resolution
+  pages: Vol. 12, no.1, p. 7 (2021)
+  doi: 10.1038/s41467-021-24913-z
+  journal: Nature Communications
+  type: journal
+- year: 2020
+  authors: Ding, Lei ; Milhiet, Thomas ; Couvreur, Valentin ; Nelissen, Hilde ; Meziane,
+    Adel ; Parent, Boris ; Aesaert, Stijn ; Van Lijsebettens, Mieke ; Inzé, Dirk ;
+    Tardieu, François ; Draye, Xavier ; Chaumont, François
+  title: Modification of the expression of the aquaporin ZmPIP2;5 affects water relations
+    and plant growth
+  pages: Vol. 182, no.4, p. 2154-2165 (2020)
+  doi: 10.1104/pp.19.01183
+  journal: Plant Physiology
+  type: journal
+- year: 2019
+  authors: Muller, Bertrand ; Guédon, Yann ; Passot, Sixtine ; Lobet, Guillaume ;
+    Nacry, Philippe ; Pagès, Loïc ; Wissuwa, Matthias ; Draye, Xavier
+  title: Lateral Roots: Random Diversity in Adversity
+  pages: Vol. 24, no. 9, p. 810-825 (2019)
+  doi: 10.1016/j.tplants.2019.05.011
+  journal: Trends in Plant Science
+  type: journal
+- year: 2019
+  authors: Meunier, Félicien ; Heymans, Adrien ; Draye, Xavier ; Couvreur, Valentin
+    ; Javaux, Mathieu ; Lobet, Guillaume
+  title: MARSHAL, a novel tool for virtual phenotyping of maize root system hydraulic
+    architectures
+  pages: Vol. 1, no.1, p. 1 (2019)
+  doi: 10.1093/insilicoplants/diz012
+  journal: in silico Plants
+  type: journal
+- year: 2018
+  authors: Passot, Sixtine ; Couvreur, Valentin ; Meunier, Félicien ; Draye, Xavier
+    ; Javaux, Mathieu ; Leitner, Danier ; Pagès, Loïc ; Schnepf, Andrea ; Vanderborgth,
+    Jan ; Lobet, Guillaume
+  title: Connecting the dots between computational tools to analyse soil-root water
+    relations
+  pages: Vol. 1, no. 1, p. 1 (2018)
+  doi: 10.1101/312918
+  journal: biorXiv
+  type: journal
+- year: 2018
+  authors: Passot, Sixtine ; Couvreur, Valentin ; Meunier, Félicien ; Draye, Xavier
+    ; Javaux, Mathieu ; Leitner, Daniel ; Pagès, Loïc ; Schnepf, Andrea ; Vanderborght,
+    Jan ; Lobet, Guillaume
+  title: Connecting the dots between computational tools to analyse soil-root water
+    relations
+  pages: Vol. 1, no.1, p. 1 (2018)
+  doi: 10.1093/jxb/ery361
+  journal: Journal of Experimental Botany
+  type: journal
+- year: 2018
+  authors: Couvreur, Valentin ; Faget, Marc ; Lobet, Guillaume ; Javaux, Mathieu ;
+    Chaumont, François ; Draye, Xavier
+  title: Going with the Flow: Multiscale Insights into the Composite Nature of Water
+    Transport in Roots
+  pages: Vol. 178, no. 4, p. 1689-1703 (2018)
+  doi: 10.1104/pp.18.01006
+  journal: Plant Physiology
+  type: journal
+- year: 2018
+  authors: Orman-Ligeza, Beata ; Morris, Emily C. ; Parizot, Boris ; Lavigne,Tristan
+    ; Babé, Aurélie ; Ligeza, Alexsander ; Chaumont, François ; Batoko, Henri ; Draye,
+    Xavier
+  title: The Xerobranching Response Represses Lateral Root Formation When Roots Are
+    Not in Contact with Water
+  pages: Vol. 28, p. 1-9 (2018)
+  doi: 10.1016/j.cub.2018.07.074
+  journal: Current biolog
+  type: journal
+- year: 2017
+  authors: Meunier, Félicien ; Draye, Xavier ; Vanderborght, Jan ; Javaux, Mathieu
+    ; Couvreur, Valentin
+  title: A hybrid analytical-numerical method for solving water flow equations in
+    root hydraulic architectures
+  pages: Vol. 52, p. 648-663 (2017)
+  doi: 10.1016/j.apm.2017.08.011
+  journal: Applied Mathematical Modelling
+  type: journal
+- year: 2017
+  authors: Wang, Baohua ; Zhuang,Zhimin ; Zhang, Zhengsheng ; Draye, Xavier ; Shuang,
+    Lan-Shuan
+  title: Advanced Backcross QTL Analysis of Fiber Strength and Fineness in a Cross
+    between Gossypium hirsutum and G. mustelinum
+  pages: Vol. 8, no.1848, p. 10 p. (2017)
+  doi: 10.3389/fpls.2017.01848
+  journal: Frontiers in Plant Science
+  type: journal
+- year: 2017
+  authors: Couvreur, Valentin ; Faget, Marc ; Lobet, Guillaume ; Chaumont, François
+    ; Javaux, Mathieu ; Draye, Xavier
+  title: Novel multiscale insights into the composite nature of water transport in
+    roots
+  pages: Vol. 1, no. 1, p. 1 (2017)
+  doi: 10.1101/147314
+  journal: biorxiv
+  type: journal
+- year: 2017
+  authors: Wang, Baohua ; Draye, Xavier ; Zhuang, Zhimin ; Zhang, Zhengsheng ; Liu,
+    Min ; Lubbers, Edward L. ; Jones, Don ; May, O. Lloyd ; Paterson, Andrew H. ;
+    Chee, Peng W.
+  title: QTL analysis of cotton fiber length in advanced backcross populations derived
+    from a cross between Gossypium hirsutum and G. mustelinum
+  pages: Vol. 130, no. 6, p. 1297-1308 (2017)
+  doi: 10.1007/s00122-017-2889-1
+  journal: Theoretical and Applied Genetics
+  type: journal
+- year: 2017
+  authors: Tardieu, Francois ; Draye, Xavier ; Javaux, Mathieu
+  title: Root Water Uptake and Ideotypes of the Root System: Whole-Plant Controls
+    Matter
+  pages: Vol. 16, no. 9 (2017) (2017)
+  doi: 10.2136/vzj2017.05.0107
+  journal: Vadose Zone Journal
+  type: journal
+- year: 2017
+  authors: Chandnani, Rahul ; Wang, Baohua ; Draye, Xavier ; Rainville, Lisa K. ;
+    Auckland, Susan ; Zhuang, Zhimin ; Lubbers, Edward L. ; May, O. Lloyd ; Chee,
+    Peng W. ; Paterson, Andrew H.
+  title: Segregation distortion and genome-wide digenic interactions affect transmission
+    of introgressed chromatin from wild cotton species
+  pages: Vol. 130, no. 10, p. 2219-2230 (2017)
+  doi: 10.1007/s00122-017-2952-y
+  journal: Theoretical and Applied Genetics
+  type: journal
+- year: 2017
+  authors: Meunier, Félicien ; Couvreur, Valentin ; Draye, Xavier ; Vanderborght,
+    J. ; Javaux, Mathieu
+  title: Towards quantitative root hydraulic phenotyping: novel mathematical functions
+    to calculate plant-scale hydraulic parameters from root system functional and
+    structural traits
+  pages: Vol. 75, p. 1133-1170 (2017)
+  doi: 10.1007/s00285-017-1111-z
+  journal: Journal of Mathematical Biology
+  type: journal
+- year: 2017
+  authors: Meunier, Félicien ; Couvreur, Valentin ; Draye, Xavier ; Zarebanadkouki,
+    Mohsen ; Vanderborght, Jan ; Javaux, Mathieu
+  title: Water movement through plant roots – exact solutions of the water flow equation
+    in roots with linear or exponential piecewise hydraulic properties
+  pages: Vol. 21, p. 6519-6540 (2017)
+  doi: 10.5194/hess-21-6519-2017
+  journal: Hydrology and Earth System Sciences
+  type: journal
+- year: 2016
+  authors: Wang, B. ; Draye, Xavier ; Zhang, Z. ; Zhuang, Z. ; Lloyd May, O. ; Paterson,
+    A.H. ; Chee, P.W.
+  title: Advanced backcross quantitative trait locus analysis of fiber elongation
+    in a cross between Gossypium hirsutum and G. mustelinum
+  pages: Vol. 56, no.4, p. 1760-1768 (2016)
+  doi: 10.2135/cropsci2015.12.0753
+  journal: Crop Science : a journal serving the international community of crop scientists
+  type: journal
+- year: 2016
+  authors: Kalogiros, D.I. ; Adu, M.O. ; White, P.J. ; Broadley, M.R. ; Draye, Xavier
+    ; Ptashnyk, M. ; Bengough, A.G. ; Dupuy, L.X.
+  title: Analysis of root growth from a phenotyping data set using a density-based
+    model
+  pages: Vol. 67, no.4, p. 1045-1058 (2016)
+  doi: 10.1093/jxb/erv573
+  journal: Journal of Experimental Botany
+  type: journal
+- year: 2016
+  authors: Lequeue, Gauthier ; Draye, Xavier ; Baeten, Vincent
+  title: Determination by near infrared microscopy of the nitrogen and carbon content
+    of tomato (Solanum lycopersicum L.) leaf powder
+  pages: Vol. 6, no.33183, p. 9 p. (2016)
+  doi: 10.1038/srep33183
+  journal: Scientific Reports
+  type: journal
+- year: 2016
+  authors: Raulier, Pierre ; Maudoux, O. ; Notté, C. ; Draye, Xavier ; Bertin, Pierre
+  title: Exploration of genetic diversity within Cichorium endivia and Cichorium intybus
+    with focus on the gene pool of industrial chicory
+  pages: Vol. 63, no. 2, p. 243-259 (2016)
+  doi: 10.1007/s10722-015-0244-4
+  journal: Genetic Resources and Crop Evolution : an international journal
+  type: journal
+- year: 2016
+  authors: Millet, E.J. ; Welcker, C. ; Kruijer, W. ; Negro, S. ; Coupel-Ledru, A.
+    ; Nicolas, S.D. ; Laborde, J. ; Bauland, C. ; Praud, S. ; Ranc, N. ; Presterl,
+    T. ; Tuberosa, R. ; Bedo, Z. ; Draye, Xavier ; Usadel, B. ; Charcosset, A. ; Van
+    Eeuwijk, F. ; Tardieu, F.
+  title: Genome-wide analysis of yield in Europe: Allelic effects vary with drought
+    and heat scenarios
+  pages: Vol. 172, no.2, p. 749-764 (2016)
+  doi: 10.1104/pp.16.00621
+  journal: Plant Physiology
+  type: journal
+- year: 2016
+  authors: Ryan, Annette C. ; Dodd, Ian ; Rothwell, Shane A. ; Tardieu, François ;
+    Draye, Xavier ; Davies, William J.
+  title: Gravimetric phenotyping of whole plant transpiration responses to atmospheric
+    vapour pressure deficit identifies genotypic variation in water use efficiency
+  pages: , p. 30 p. (2016)
+  doi: 10.1016/j.plantsci.2016.05.018
+  journal: Plant Science
+  type: journal
+- year: 2016
+  authors: Faux, Anne-Michelle ; Draye, Xavier ; Flamand, Marie-Christine ; Occre,
+    Adrien ; Bertin, Pierre
+  title: Identification of QTLs for sex expression in dioecious and monoecious hemp
+    (Cannabis sativa L.)
+  pages: Vol. 209, p. 357-376 (2016)
+  doi: 10.1007/s10681-016-1641-2
+  journal: Euphytica : international journal on plant breeding
+  type: journal
+- year: 2016
+  authors: Orman-Ligeza, Beata ; Parizot, Boris ; De rijcke, Riet ; Fernandez, Ana
+    ; Himschoot, Ellie ; Van Breusegem, Franck ; Beeckman, Tom ; Bennett, Malcom J.
+    ; Perilleux, Claire ; Draye, Xavier
+  title: RBOH-mediated ROS production facilitates lateral root emergence in Arabidopsis
+  pages: Vol. 143, p. 3328-3339 (2016)
+  doi: 10.1242/dev.136465
+  journal: Development (Cambridge)
+  type: journal
+- year: 2015
+  authors: Dufey, Inès ; Mathieu, Anne-Sophie ; Draye, Xavier ; Lutts, Stanley ; Bertin,
+    Pierre
+  title: Construction of an integrated map through comparative studies allows the
+    identification of candidate regions for resistance to ferrous iron toxicity in
+    rice
+  pages: -2015
+  doi: 10.1007/s10681-014-1255-5
+  journal: Euphytica : international journal on plant breeding
+  type: journal
+- year: 2015
+  authors: Jerbi, Taha ; Wuyts, Nathalie ; Cane, Maria Angela ; Faux, Philippe-François
+    ; Draye, Xavier
+  title: High resolution imaging of maize (Zea maize) leaf temperature in the field:
+    the key role of the regions of interest
+  pages: , p. 7 p. (2015)
+  doi: 10.1071/FP15024
+  journal: Functional Plant Biology
+  type: journal
+- year: 2015
+  authors: Dauchot, Nicolas ; Raulier, Pierre ; Maudoux, Olivier ; Notté, Christine
+    ; Draye, Xavier ; Van Cutsem, Pierre
+  title: Loss of function of 1-FEH IIb has more impact on post-harvest inulin degradation
+    in Cichorium intybus than copy number variation of its close paralog 1-FEH IIa
+  pages: , p. 13 p. (2015)
+  doi: 10.3389/fpls.2015.00455
+  journal: Frontiers in Plant Science
+  type: journal
+- year: 2015
+  authors: Dufey, Inès ; Draye, Xavier ; Lutts, Stanley ; Lorieux, M. ; Martinez,
+    C. ; Bertin, Pierre
+  title: Novel QTLs in an interspecific backcross Oryza sativa × Oryza glaberrima
+    for resistance to iron toxicity in rice
+  pages: Vol. 204, no. 3, p. 609-625 (2015)
+  doi: 10.1007/s10681-014-1342-7
+  journal: Euphytica : international journal on plant breeding
+  type: journal
+- year: 2015
+  authors: Lobet, Guillaume ; Pound, Mickael P. ; Diener, Julien ; Pradal, Christophe
+    ; Godin, Christophe ; Draye, Xavier ; Javaux, Mathieu ; Leitner, Daniel ; Meunier,
+    Félicien ; Nacry, Philippe ; Pridmore, Tony P. ; Schnepf, Andrea
+  title: Root System Markup Language: toward a unified root architecture description
+    language
+  pages: , p. 25 p (2015)
+  doi: 10.1104/pp.114.253625
+  journal: Plant Physiology
+  type: journal
+- year: 2014
+  authors: Couvreur, Valentin ; Vanderborght, Jan ; Draye, Xavier ; Javaux, Mathieu
+  title: Dynamic aspects of soil water availability for isohydric plants: Focus on
+    root hydraulic resistances
+  pages: Vol. 50, no. 11, p. 8891-8906 (18.11.2014)
+  doi: 10.1002/2014WR015608
+  journal: Water Resources Research
+  type: journal
+- year: 2014
+  authors: Muys, Hélène ; Thienpont, Claire-Noëlle ; Dauchot, Nicolas ; Maudoux, Olivier
+    ; Draye, Xavier ; Van Cutsem, Pierre
+  title: Integration of AFLPs, SSRs and SNPs markers into a new genetic map of industrial
+    chicory (Cichorium intybus L. var. sativum)
+  pages: Vol. 133, no.1, p. 130-137 (2014)
+  doi: 10.1111/pbr.12113
+  journal: Plant Breeding (Print)
+  type: journal
+- year: 2014
+  authors: Shatil-Cohen, Arava ; Sibony, Hadas ; Draye, Xavier ; Chaumont, François
+    ; Moran, Nava ; Moshelion, Menachem
+  title: Measuring the osmotic water permeability coefficient (Pf) of spherical cells:
+    isolated plant protoplasts as an example
+  pages: no.92, p. 1-13 (10/08/2014)
+  doi: 10.3791/51652
+  journal: Journal of Visualized Experiments
+  type: journal
+- year: 2014
+  authors: Dauchot, Nicolas ; Raulier, Pierre ; maudoux, Olivier ; Notté, Christine
+    ; Bertin, Pierre ; Draye, Xavier ; Van Cutsem, Pierre
+  title: Mutations in chicory FEH genes are statistically associated with enhanced
+    resistance to post-harvest inulin depolymerization
+  pages: Vol. 127, no. 1, p. 125-135 (2014)
+  doi: 10.1007/s00122-013-2206-6
+  journal: Theoretical and Applied Genetics : international journal of plant breeding
+    research
+  type: journal
+- year: 2014
+  authors: Lobet, Guillaume ; Couvreur, Valentin ; Meunier, Félicien ; Javaux, Mathieu
+    ; Draye, Xavier
+  title: Plant Water Uptake in Drying Soils
+  pages: Vol. 164, p. 1619-1627 (April 2014)
+  doi: 10.1104/pp.113.233486
+  journal: Plant Physiology
+  type: journal
+- year: 2014
+  authors: Manzano, Concepción ; Pallero-Baena, Mercedes ; Casimiro, Ilda ; De Rybel,
+    Bert ; Orman-Ligeza, Beata ; Van Isterdael, Gert ; Beeckman, Tom ; Draye, Xavier
+    ; Casero, Pedro ; del Pozo, Juan C.
+  title: The emerging role of reactive oxygen species signaling during lateral root
+    development
+  pages: Vol. 165, no.3, p. 1105-1119 (2014)
+  doi: 10.​1104/​pp.​114.​238873
+  journal: Plant Physiology
+  type: journal
+- year: 2013
+  authors: Lobet, Guillaume ; Pagès, Loïc ; Draye, Xavier
+  title: A modeling approach to determine the importance of dynamicregulation of plant
+    hydraulic conductivities on the water uptakedynamics in the soil-plant-atmosphere
+    system
+  pages: Vol. 290, p. 65-75 (2014)
+  doi: 10.1016/j.ecolmodel.2013.11.025
+  journal: Ecological Modelling
+  type: journal
+- year: 2013
+  authors: Lobet, Guillaume ; Draye, Xavier ; Périlleux, Claire
+  title: An online database for plant image analysis software tools
+  pages: Vol. 9, no.1, p. 38-44 (2013)
+  doi: 10.1186/1746-4811-9-38
+  journal: Plant Methods
+  type: journal
+- year: 2013
+  authors: Koffi, Marie Chantal ; Vos, C. ; Draye, Xavier ; Declerck, Stephan
+  title: Effects of Rhizophagus irregularis MUCL 41833 on the reproduction of Radopholus
+    similis in banana plantlets grown under in vitro culture conditions
+  pages: Vol. 23, no.4, p. 279-288 (2013)
+  doi: 10.1007/s00572-012-0467-6
+  journal: Mycorrhiza
+  type: journal
+- year: 2013
+  authors: Lobet, Guillaume ; Pagès, Loïc ; Draye, Xavier
+  title: First steps towards an explicit modelling of ABA production and translocation
+    in relation with the water uptake dynamics
+  pages: Vol. 991, p. 373-382 (2013)
+  doi: 10.17660/ActaHortic.2013.991.46
+  journal: Acta Horticulturae
+  type: journal
+- year: 2013
+  authors: Lobet, Guillaume ; Draye, Xavier
+  title: Novel scanning procedure enabling the vectorization of entire rhizotron-grown
+    root systems.
+  pages: Vol. 9, no.1, p. 1 (2013)
+  doi: 10.1186/1746-4811-9-1
+  journal: Plant Methods
+  type: journal
+- year: 2013
+  authors: Orman - Ligeza, Beata ; Parizot, Boris ; Gantet, Pascal ; Beeckman, Tom
+    ; Bennett, Malcolm ; Draye, Xavier
+  title: Post-embryonic root organogenesis in cereals:branching out from model plants
+  pages: Vol. 18, no. 8, p. 459-467 (2013)
+  doi: 10.1016/j.tplants.2013.04.010
+  journal: Trends in Plant Science
+  type: journal
+- year: 2013
+  authors: Hill, Kristine ; Porco, Silvana ; Lobet, Guillaume ; Zappala, Susan ; Mooney,
+    Sacha ; Draye, Xavier ; Bennett, Malcom J.
+  title: Root Systems Biology: integrative modeling across scales,from gene regulatory
+    networks to the rhizosphere
+  pages: Vol. 163, no. 4, p. 1487-1503 (2013)
+  doi: 10.1104/pp.113.227215
+  journal: Plant Physiology
+  type: journal
+- year: 2013
+  authors: Faux, Anne-Michelle ; Draye, Xavier ; Lambert, Richard ; dAndrimont, Raphaël
+    ; Raulier, Pierre ; Bertin, Pierre
+  title: The relationship of stem and seed yields to flowering phenology and sex expression
+    in monoecious hemp (Cannabis sativa L.)
+  pages: Vol. 47, no. 1, p. 11-22 (2013)
+  doi: 10.1016/j.eja.2013.01.006
+  journal: European Journal of Agronomy
+  type: journal
+- year: 2012
+  authors: De Smet, Ive ; White, Philip J. ; Bengough, A. Glyn ; Dupuy, Lionel ; Parizot,
+    Boris ; Casimiro, Ilda ; Heidstra, Renze ; Laskowski, Marta ; Lepetit, Marc ;
+    Hochholdinger, Frank ; Draye, Xavier
+  title: Analyzing Lateral Root Development : How to Move Forward
+  pages: Vol. 24, no. 1, p. 15-20 (January 2012)
+  doi: 10.1105/tpc.111.094292
+  journal: The Plant Cell
+  type: journal
+- year: 2012
+  authors: Daoui, K. ; Karrou, M. ; Mrabet, R. ; Fatemi, Z. ; Draye, Xavier ; Ledent,
+    Jean-François
+  title: Genotypic variation of phosphorus use efficiency among moroccan faba bean
+    varieties (vicia faba major) under rainfed conditions
+  pages: Vol. 35, no.1, p. 34-48 (2012)
+  doi: 10.1080/01904167.2012.631665
+  journal: Journal of Plant Nutrition
+  type: journal
+- year: 2012
+  authors: Dufey, Inès ; Hiel, Marie-Pierre ; Hakizimana, Patrice ; Draye, Xavier
+    ; Lutts, Stanley ; Koné, B. ; Dramé, K.N. ; Konaté, K.A. ; Sie, M. ; Bertin, Pierre
+  title: Multienvironment Quantitative Trait Loci Mapping and Consistency across Environments
+    of Resistance mechanisms to Ferrous Iron Toxicity in Rice
+  pages: Vol. 52, no. 2, p. 539-550 (March-April 2012)
+  doi: 10.2135/cropsci2009.09.0544
+  journal: Crop Science : a journal serving the international community of crop scientists
+  type: journal
+- year: 2012
+  authors: Lalaymia, Ismahen ; Cranenbrouck, Sylvie ; Draye, Xavier ; Declerck, Stephan
+  title: Preservation at ultra-low temperature of in vitro cultured arbuscular mycorrhizal
+    fungi via encapsulation-drying
+  pages: Vol. 116, p. 1032-1041 (2012)
+  doi: 10.1016/j.funbio.2012.07.007
+  journal: Fungal Biology
+  type: journal
+- year: 2012
+  authors: Babé, Aurélie ; Lavigne, Tristan ; Séverin, Jean-Philippe ; Nagel, Kerstin
+    A. ; Walter, Achim ; Chaumont, François ; Batoko, Henri ; Beeckman, Tom ; Draye,
+    Xavier
+  title: Repression of early lateral root initiation events by transient water deficit
+    in barley and maize
+  pages: Vol. 367, no. 1595, p. 1534-1541 (2012)
+  doi: 10.1098/rstb.2011.0240
+  journal: Philosophical transactions of the Royal Society of London. Series B, Biological
+    Sciences
+  type: journal
+- year: 2011
+  authors: Lobet, Guillaume ; Pagès, Loïc ; Draye, Xavier
+  title: A Novel Image Analysis Toolbox Enabling Quantitative Analysis of Root System
+    Architecture
+  pages: Vol. 157, p. 29-39 (2011)
+  doi: 10.1104/pp.111.179895
+  journal: Plant Physiology
+  type: journal
+- year: 2011
+  authors: Cardenas Flores, Antonio ; Cranenbrouck, Sylvie ; Draye, Xavier ; Guillet,
+    Alain ; Govaerts, Bernadette ; Declerck, Stephan
+  title: The sterol biosynthesis inhibitor molecule fenhexamid impacts the vegetative
+    compatibility of Glomus clarum.
+  pages: Vol. 21, no. 5, p. 443-9 (2011)
+  doi: 10.1007/s00572-011-0385-z
+  journal: Mycorrhiza
+  type: journal
+- year: 2010
+  authors: Le Bot, Jacques ; Serra, Valerie ; Fabre, Jose ; Draye, Xavier ; Adamowicz,
+    Stephane ; Pages, Loic
+  title: DART: a software to analyse root system architecture and development from
+    captured images
+  pages: Vol. 326, no. 1-2, p. 261-273 (2010)
+  doi: 10.1007/s11104-009-0005-2
+  journal: Plant and Soil : international journal on plant-soil relationships
+  type: journal
+- year: 2010
+  authors: Pages, Loic ; Serra, Valerie ; Draye, Xavier ; Doussan, Claude ; Pierret,
+    Alain
+  title: Estimating root elongation rates from morphological measurements of the root
+    tip
+  pages: Vol. 328, no. 1-2, p. 35-44 (2010)
+  doi: 10.1007/s11104-009-0079-x
+  journal: Plant and Soil : international journal on plant-soil relationships
+  type: journal
+- year: 2010
+  authors: Cardenas Flores, Antonio ; Draye, Xavier ; Bivort, Céline ; Cranenbrouck,
+    Sylvie ; Declerck, Stephan
+  title: Impact of multispores in vitro subcultivation of Glomus sp. MUCL 43194 (DAOM
+    197198) on vegetative compatibility and genetic diversity detected by AFLP.
+  pages: Vol. 20, no. 6, p. 415-425 (2010)
+  doi: 10.1007/s00572-009-0295-5
+  journal: Mycorrhiza
+  type: journal
+- year: 2010
+  authors: Draye, Xavier ; Kim, Yangmin ; Lobet, Guillaume ; Javaux, Mathieu
+  title: Model-assisted integration of physiological and environmental constraints
+    affecting the dynamic and spatial patterns of root water uptake from soils.
+  pages: Vol. 61, no. 8, p. 2145-2155 (2010)
+  doi: 10.1093/jxb/erq077
+  journal: Journal of Experimental Botany
+  type: journal
+- year: 2009
+  authors: Dufey, Inès ; Hakizimana, Patrice ; Draye, Xavier ; Lutts, Stanley ; Bertin,
+    Pierre
+  title: QTL mapping for biomass and physiological parameters linked to resistance
+    mechanisms to ferrous iron toxicity in rice
+  pages: Vol. 167, no. 2, p. 143-160 (2009)
+  doi: 10.1007/s10681-008-9870-7
+  journal: Euphytica : international journal on plant breeding
+  type: journal
+- year: 2008
+  authors: Henriet, Céline ; Delvaux, Bruno ; Bodarwe, L. ; Dorel, M. ; Draye, Xavier
+  title: Leaf silicon content in banana (Musa spp.) reveals the weathering stage of
+    volcanic ash soils in Guadeloupe
+  pages: Vol. 313, no. 1-2, p. 71-82 (2008)
+  doi: 10.1007/s11104-008-9680-7
+  journal: Plant and Soil : international journal on plant-soil relationships
+  type: journal
+- year: 2008
+  authors: Dechamps, Caroline ; Noret, Nausicaa ; Mozek, Ronny ; Draye, Xavier ; Meerts,
+    Pierre
+  title: Root allocation in metal-rich patch by Thlaspi caerulescens from normal and
+    metalliferous soil - new insights into the rhizobox approach
+  pages: Vol. 310, no. 1-2, p. 211-224 (2008)
+  doi: 10.1007/s11104-008-9648-7
+  journal: Plant and Soil : international journal on plant-soil relationships
+  type: journal
+- year: 2008
+  authors: Mushagalusa, Gustave Nachigera ; Ledent, Jean-François ; Draye, Xavier
+  title: Shoot and root competition in potato/maize intercropping: Effects on growth
+    and yield
+  pages: Vol. 64, no. 2, p. 180-188 (2008)
+  doi: 10.1016/j.envexpbot.2008.05.008
+  journal: Environmental and Experimental Botany
+  type: journal
+- year: 2008
+  authors: Hachez, Charles ; Heinen, Robert ; Draye, Xavier ; Chaumont, François
+  title: The expression pattern of plasma membrane aquaporins in maize leaf highlights
+    their role in hydraulic regulation
+  pages: Vol. 68, no. 4-5, p. 337-53 (2008)
+  doi: 10.1007/s11103-008-9373-x
+  journal: Plant Molecular Biology
+  type: journal
+- year: 2007
+  authors: Rong, Yunkang ; Feltus, F. Alex ; Waghmare, Vijay N. ; Pierce, Gary J.
+    ; Chee, P.W. ; Draye, Xavier ; Saranga, Yehoshua ; Wright, R.J. ; Wilkins, Thea
+    A. ; May, O. Lloyd ; Smith, C.W. ; Gannaway, John R. ; Wendel, Jonathan F. ; Paterson,
+    A.H.
+  title: Meta-analysis of polyploid cotton QTL shows unequal contributions of subgenomes
+    to a complex network of genes and gene clusters implicated in lint fiber development
+  pages: Vol. 176, no. 4, p. 2577-2588 (2007)
+  doi: 10.1534/genetics.107.074518
+  journal: Genetics
+  type: journal
+- year: 2007
+  authors: de Dorlodot, Sophie ; Forster, Brian ; Pagès, Loïc ; Price, Adam ; Tuberosa,
+    Roberto ; Draye, Xavier
+  title: Root system architecture: opportunities and constraints for genetic improvement
+    of crops.
+  pages: Vol. 12, no. 10, p. 474-81 (2007)
+  doi: 10.1016/j.tplants.2007.08.012
+  journal: Trends in plant science
+  type: journal
+- year: 2007
+  authors: Volkov, Vadim ; Hachez, Charles ; Moshelion, Menachem ; Draye, Xavier ;
+    Chaumont, François ; Fricke, Wieland
+  title: Water permeability differs between growing and non-growing barley leaf tissues
+  pages: Vol. 58, no. 3, p. 377-390 (2007)
+  doi: 10.1093/jxb/erl203
+  journal: Journal of Experimental Botany
+  type: journal
+- year: 2006
+  authors: Opfergelt, Sophie ; Cardinal, D. ; Henriet, Céline ; Draye, Xavier ; André,
+    L. ; Delvaux, Bruno
+  title: Silicon isotopic fractionation by banana (Musa spp.) grown in a continuous
+    nutrient flow device
+  pages: Vol. 285, no. 1-2, p. 333-345 (2006)
+  doi: 10.1007/s11104-006-9019-1
+  journal: Plant and Soil : international journal on plant-soil relationships
+  type: journal
+- year: 2005
+  authors: Draye, Xavier ; Chee, P.W. ; Jiang, Chun-Xiao ; Decanini, Laura ; Delmonte,
+    Terrye A. ; Bredhauer, Robert ; Smith, C. Wayne ; Paterson, Andrew H.
+  title: Molecular dissection of interspecific variation between Gossypium hirsutum
+    and G. barbadense (cotton) by a backcross-self approach : II. Fiber fineness
+  pages: Vol. 111, no. 4, p. 764-771 (2005)
+  doi: 10.1007/s00122-005-2061-1
+  journal: Theoretical and Applied Genetics : international journal of plant breeding
+    research
+  type: journal
+- year: 2002
+  authors: Draye, Xavier
+  title: Consequences of root growth kinetics and vascular structure on the distribution
+    of lateral roots
+  pages: Vol. 25, no. 11, p. 1463-1474 (2002)
+  doi: 10.1046/j.0016-8025.2002.00924.x
+  journal: Plant, Cell and Environment
+  type: journal
+- year: 2001
+  authors: Draye, Xavier ; Lin, Y.R. ; Qian, X. ; Bowers, J.E. ; Burow, G.B. ; Morrel,
+    P.L. ; Peterson, D.G. ; Presting, G.G. ; Ren, S.X. ; Wing, R.A. ; Paterson, A.H.
+  title: Toward integration of comparative genetic, physical, diversity, and cytomolecular
+    maps for grasses and grains, using the sorghum genome as a foundation
+  pages: Vol. 125, no. 3, p. 1325-1341 (2001)
+  doi: 10.1104/pp.125.3.1325
+  journal: Plant Physiology
+  type: journal
+- year: 2000
+  authors: Paterson, A.H. ; Bowers, J.E. ; Burow, M.D. ; Draye, Xavier ; Elsik, C.G.
+    ; Jiang, C-X. ; Lan, T.H. ; Lin, Y.R. ; Ming, R.G. ; Wright, R.J.
+  title: Comparative genomics of plant chromosomes
+  pages: Vol. 12, no. -, p. 1523-1539 (2000)
+  doi: 10.1105/tpc.12.9.1523
+  journal: The Plant Cell
+  type: journal
+- year: 1999
+  authors: Draye, Xavier ; Delvaux, Bruno ; Swennen, R.
+  title: Distribution of lateral root primordia in root tips of Musa
+  pages: Vol. 84, no. 3, p. 393-400 (1999)
+  doi: 10.1006/anbo.1999.0940
+  journal: Annals of Botany
+  type: journal
+- year: 1996
+  authors: Draye, Xavier ; Lints, F A
+  title: Geographic variations of life history strategies in Drosophila melanogaster.
+    III. New data.
+  pages: Vol. 31, no. 6, p. 717-33 (1996)
+  doi: 10.1016/S0531-5565(96)00073-3
+  journal: Experimental gerontology
+  type: journal
+- year: 1995
+  authors: Draye, Xavier ; Lints, F A
+  title: Geographic variations of life history strategies in Drosophila melanogaster.
+    II. Analysis of laboratory-adapted populations.
+  pages: Vol. 30, no. 5, p. 517-32 (1995)
+  doi: 10.1016/0531-5565(95)00006-3
+  journal: Experimental gerontology
+  type: journal
+- year: 1994
+  authors: Draye, Xavier ; Bullens, Pol ; Lints, F A
+  title: Geographic variations of life history strategies in Drosophila melanogaster.
+    I. Analysis of wild-caught populations.
+  pages: Vol. 29, no. 2, p. 205-22 (1994)
+  doi: 10.1016/0531-5565(94)90052-3
+  journal: Experimental gerontology
+  type: journal
+- year: 2023
+  authors: Couvreur, Valentin ; Mehra, Poonam ; Pandey, Bipin ; Draye, Xavier ;  Bennett,
+    Malcom
+  title: How air gaps in soils alter the distribution of root water and hormones fluxes,
+    thereby blocking root lateral branching
+  pages: .na.character
+  doi: 10.5194/egusphere-egu23-9384
+  journal: .na.character
+  type: journal
+- year: 2016
+  authors: Meunier, Félicien ; Javaux, Mathieu ; Couvreur, Valentin ; Draye, Xavier
+    ; Vanderborght, Jan
+  title: A new model for optimizing the water acquisition of root hydraulic architectures
+    over full crop cycles
+  pages: p. 140-149
+  doi: 10.1109/FSPMA.2016.7818300
+  journal: .na.character
+  type: journal
+- year: 2012
+  authors: Lobet, Guillaume ; Pagès, Loïc ; Draye, Xavier
+  title: A modeling approach to determine the contribution of plant hydraulic conductivities
+    on the water uptake dynamics in the soil-plant-atmosphere system
+  pages: .na.character
+  doi: 10.1109/PMA.2012.6524840
+  journal: .na.character
+  type: journal
+- year: 2009
+  authors: Draye, Xavier ; Javaux, Mathieu ; Kim, YM
+  title: Model-assisted integration of genetic and environmental constraints in the
+    design of root system architecture for optimal water capture
+  pages: .na.character
+  doi: 10.1016/j.cbpa.2009.04.451
+  journal: .na.character
+  type: journal
+- year: 2009
+  authors: Draye, Xavier ; Javaux, Mathieu
+  title: Model-assisted integration of genetic and environmental constraints in the
+    design of root system architecture for optimal water capture
+  pages: Vol. 153A, no. 2, p. S219-S220 (2009)
+  doi: 10.1016/j.cbpa.2009.04.541
+  journal: Comparative Biochemistry and Physiology. Part A: Molecular & Integrative
+    Physiology
+  type: journal
+- year: 2006
+  authors: Henriet, Céline ; Delvaux, Bruno ; Draye, Xavier ; Oppitz, I. ; Swennen,
+    R.
+  title: Effects, distribution and uptake of silicon in banana (Musa spp.) under controlled
+    conditions
+  pages: Vol. 287, no. 1-2, p. 359-374 (2006)
+  doi: 10.1007/s11104-006-9085-4
+  journal: Plant and Soil : international journal on plant-soil relationships
+  type: journal
+- year: 2022
+  authors: Meunier, Félicien ; Couvreur, Valentin ; Draye, Xavier ; Lobet, Guillaume
+    ; Huber, Katrin ; Schroeder, Nathalie ; Jorda, Helena ; Koch, Axelle ; Landl,
+    Magdalena ; Schnepf, Andrea ; Vanderborght, Jan ; Vereecken, Harry ; Javaux, Mathieu
+  title: Investigating Soil–Root Interactions with the Numerical Model R-SWMS
+  pages: p. 259-283
+  doi: 10.1007/978-1-0716-1816-5_13
+  journal: .na.character
+  type: journal
+- year: 2014
+  authors: Orman-Ligeza, Beata ; Civava Mushizi, René ; de Dorlodot, Sophie ; Draye,
+    Xavier
+  title: Root System Architecture
+  pages: p. 39-56
+  doi: 10.1007/978-3-642-54276-3_3
+  journal: .na.character
+  type: journal
+
+
+
 -  type: journal
    title: In silico analysis of carbon stabilisation by plant and soil microbes for different weather scenarios
    authors: Giraud M, Sırcan AK, Streck T, Leitner D, Lobet G, Pagel H, Schnepf A
