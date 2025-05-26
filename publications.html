@@ -18,7 +18,7 @@ form: false
 <!-- Count the publications -->
 {% assign journal_count = site.data.publications | where: "type", "journal" | size %}
 
-{% assign sorted_publications = site.data.publications | where: "type", "journal" | sort: "year" %}
+{% assign sorted_publications = site.data.publications | where: "type", "journal" | where: "year", ">", 2015 | sort: "year" %}
 
 
 {% assign current_year = nil %}
