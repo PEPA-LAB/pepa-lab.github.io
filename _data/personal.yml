@@ -1,45 +1,10 @@
-name: Guillaume Lobet
 
-label: Roots - Cereals - Drought- Computation tools - Open Science
-
-position: Assistant Professor
-
-picture: /img/profile-picture.jpg
-
-email: guillaume.lobet
-
-phone: 
-
-curriculum: https://docs.google.com/document/d/1zMsvdbOv7w-ZpUy8mE8-o_DzPjXmfSZPn9xEox8Y4vo/edit?usp=sharing
-
-department: >
-    Agrosphere - IBG-3
-    Forschungszentrum Juelich
-
-institution: >
-
-mailing_address: >
-    Earth and Life Institute
-    Université catholique de Louvain
-    
-    
-
-websites:
-    - 
-        name: Quantitative Plants
-        url: https://quantitative-plant.org/
-    - 
-        name: The Topless Ninja
-        url: http://toplessninja.tumblr.com
-    - 
-        name: FLOR-ID
-        url: http://www.flor-id.org
 
 intro:
   title: Welcome to our lab website ! 
   body: >
 
-    We are the Plant Ecology, ecoPhysiology and sustainable Agriculture lab, from the Earth and Life Institute from the UCLouvain. We study how plant grow, how they are influenced by their environment and how people cultivate them. 
+    We are the <b>Plant Ecology, ecoPhysiology and sustainable Agriculture lab</b>, from the Earth and Life Institute from the UCLouvain. We study how plant grow, how they are influenced by their environment (biotic and abiotic) and how people cultivate them. We are {{}}
 
 footer: >
     Website created and maintained with <span style="color: red;"><i class="fas fa-heart"></i></span> and <span style="color:#4f3130;"><i class="fas fa-coffee"></i></span>. Heavily relying on <a href="https://getbootstrap.com/">Bootstrap 4.0</a> and <a href="https://fontawesome.com">Font Awesome 5</a>. Also tacking advantage of the awesome badges from <a href="https://www.altmetric.com/">Altmetrics</a> and <a href="https://www.dimensions.ai/">Dimensions</a>. Hosted on <i class="fab fa-github"></i>. Source code available <a href="https://github.com/guillaumelobet/guillaumelobet.github.io">here</a>.
