@@ -4,9 +4,24 @@ intro:
   title: Welcome to our lab website ! 
   body: >
 
-    We are the <b>Plant Ecology, ecoPhysiology and sustainable Agriculture lab</b>, from the Earth and Life Institute from the UCLouvain. We study how plant grow, how they are influenced by their environment (biotic and abiotic) and how people cultivate them. We are {{}}
+    We are the Plant Ecology, ecoPhysiology and sustainable Agriculture lab, from the Earth and Life Institute [Agronomy] from the UCLouvain, in Belgium. We are {{counterPeople}} entousiatic people studying how plant grow, how they are influenced by their environment (biotic and abiotic) and how people cultivate them. 
+
+    <br>
+
+    We have a soft spot for #roots, #hydraulics, #cereals, #pollinators, #market _gardenning, #sustainable_farming and #computational_tools. 
+
 
 footer: >
+
+    Where to find us : 
+    Kellner Building, second floor
+    Croix du Sud 2
+    1348 Louvain-la-Neuve
+    Belgium
+
+    </br>
+    </br>
+
     Website created and maintained with <span style="color: red;"><i class="fas fa-heart"></i></span> and <span style="color:#4f3130;"><i class="fas fa-coffee"></i></span>. Heavily relying on <a href="https://getbootstrap.com/">Bootstrap 4.0</a> and <a href="https://fontawesome.com">Font Awesome 5</a>. Also tacking advantage of the awesome badges from <a href="https://www.altmetric.com/">Altmetrics</a> and <a href="https://www.dimensions.ai/">Dimensions</a>. Hosted on <i class="fab fa-github"></i>. Source code available <a href="https://github.com/guillaumelobet/guillaumelobet.github.io">here</a>.
 
 
