@@ -32,7 +32,7 @@ form: false
 
             <div class="overflow-hidden">
               <h5 class="mb-1">{{ people.name }}</h5>
-              <!--p class="mb-1">{{ people.description | markdownify }}</p-->
+              <blockquote class="mb-1">{{ people.quotz | markdownify }}</blockquote>
 
               <div class="float-left">
                   {% if people.tags %}
