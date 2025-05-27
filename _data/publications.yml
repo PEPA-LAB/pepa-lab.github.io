@@ -1,3 +1,46 @@
+
+-  type: journal
+   title: In silico analysis of carbon stabilisation by plant and soil microbes for different weather scenarios
+   authors: Giraud M, Sırcan AK, Streck T, Leitner D, Lobet G, Pagel H, Schnepf A
+   year: 2025
+   preprint: yes
+   doi: 10.5194/egusphere-2025-572
+
+-  type: journal
+   title: A collection of field-based indicators for assessing ecosystem services in crop fields
+   authors: Leveau L, Biot N, Lobet G, Bertin P
+   journal: arpa
+   year: 2025
+   preprint: yes
+   open: yes
+   doi: 10.3897/arphapreprints.e151539
+   image: img/art-granar.png
+   pdf: https://preprints.arphahub.com/article/151539/
+   tags:
+   - crop
+   - ecosystem services
+   - field
+   - indicators
+   description : > 
+      The transition from intensive crop production to more sustainable practices, such as ecologically intensive cropping systems, requires precise, field-based assessments of Ecosystem Services (ES). These assessments depend on selecting appropriate indicators that can measure the supply of ES directly within crop fields. Despite the growing recognition of ES role in sustainable agriculture, comprehensive lists of field-applicable indicators remain scarce. To address this gap, we present a collection of indicators for assessing ES in cropping systems, specifically designed for in situ measurements. The collection aims to support researchers and practitioners in selecting context-specific indicators that enhance site-specific knowledge for developing sustainable cropping systems. It was derived from the exhaustive list provided by Boerema et al. (2016), which included 507 indicators applicable across various ecosystem types and linked to various data collection methods. It covers provisioning and regulating ES, emphasizing empirical data collection methods such as field observations and remote sensing. Our analysis highlights significant disparities in indicator distribution across ES, cascade levels, and measurement methods, with a predominance of indicators for soil quality regulation and pollination ES. We also identify gaps in field-based assessments, particularly for air quality regulation, life cycle maintenance and water provision. Finally, we underscore the importance of staying alert to emerging indicators driven by recent research trends and technological advancements, such as remote sensing.
+      
+-  type: journal
+   title: Decreased root hydraulic traits in German winter wheat cultivars over 100 years of breeding 
+   authors: Baca Cabrera J, Vanderborght J, Boursiac Y, Behrend D, Gaiser T, Nguyen TH, Lobet G
+   journal: Plant Physiology
+   year: 2025
+   open: yes
+   doi: 10.1093/plphys/kiaf166
+   image: img/art-granar.png
+   pdf: https://academic.oup.com/plphys/advance-article-pdf/doi/10.1093/plphys/kiaf166/62999595/kiaf166.pdf
+   tags:
+   - wheat
+   - root
+   - hydraulics
+   - breeding
+   description : > 
+      Wheat (Triticum aestivum L.) plays a vital role in global food security, and understanding its root traits is essential for improving water uptake under varying environmental conditions. This study investigated how over a century of breeding has influenced root morphological and hydraulic properties in six German winter wheat cultivars released between 1895 and 2002. Field and hydroponic experiments were used to measure root diameter, root number, branching density, and whole root system hydraulic conductance (Krs). The results showed a significant decline in root axes number and Krs with release year, while root diameter remained stable across cultivars. Additionally, dynamic functional-structural modeling using the whole-plant model CPlantBox was employed to simulate Krs development with root system growth, revealing that older cultivars consistently had higher hydraulic conductance than modern ones. The combined approach of field phenotyping and modeling provided a comprehensive view of the changes in root traits arising from breeding. These findings suggest that breeding may have unintentionally favored cultivars with smaller root systems and more conservative water uptake strategies under the high-input, high-density conditions of modern agriculture. The results of this study may inform future breeding efforts aimed at optimizing wheat root systems, helping to develop cultivars with water uptake strategies better tailored to locally changing environmental conditions.
+      
 - type: journal
   year: 2024
   authors: Baca Cabrera, Juan C. ; Vanderborght, Jan ; Couvreur, Valentin ; Behrend,
@@ -718,16 +761,6 @@
     Magdalena ; Schnepf, Andrea ; Vanderborght, Jan ; Vereecken, Harry ; Javaux, Mathieu
   title: Investigating Soil–Root Interactions with the Numerical Model R-SWMS
   doi: 10.1007/978-1-0716-1816-5_13
-- type: journal
-  year: 2025
-  authors: Michelot‐Antalik, Alice ; Langlois, Alban ; de Bello, Francesco ; Desaegher,
-    James ; Genty, Léa ; Goulnik, Jérémie ; Grosjean, Jérémy ; Jacquemart, Anne-Laure
-    ; Kergunteuil, Alan ; Junker, Robert R. ; Jeannerod, Léna ; Odoux, Jean‐François
-    ; Proffit, Magali ; Schatz, Bertrand ; Vanderplanck, Maryse ; E‐Vojtkó, Anna ;
-    Baude, Mathilde
-  title: Handbook of protocols for standardized measurements of floral traits for
-    pollinators in temperate communities
-  doi: 10.1111/2041-210x.70031
 - type: journal
   year: 2025
   authors: Michelot‐Antalik, Alice ; Langlois, Alban ; de Bello, Francesco ; Desaegher,
