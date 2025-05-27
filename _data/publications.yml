@@ -1,5 +1,1183 @@
 - type: journal
   year: 2024
+  authors: Baca Cabrera, Juan C. ; Vanderborght, Jan ; Couvreur, Valentin ; Behrend,
+    Dominik ; Gaiser, Thomas ; Nguyen, Thuy Huu ; Lobet, Guillaume
+  title: Root hydraulic properties  An exploration of their variability across scales
+  doi: 10.1002/pld3.582
+- type: journal
+  year: 2024
+  authors: Yu, Peng ; Li, Chunhui ; Li, Meng ; He, Xiaoming ; Wang, Danning ; Li,
+    Hongjie ; Marcon, Caroline ; Li, Yu ; Perez-Limón, Sergio ; Chen, Xinping ; Delgado-Baquerizo,
+    Manuel ; Koller, Robert ; Metzner, Ralf ; van Dusschoten, Dagmar ; Pflugfelder,
+    Daniel ; Borisjuk, Ljudmilla ; Plutenko, Iaroslav ; Mahon, Audrey ; Resende, Marcio
+    F. R. ; Salvi, Silvio ; Akale, Asegidew ; Abdalla, Mohanned ; Ahmed, Mutez Ali
+    ; Bauer, Felix Maximilian ; Schnepf, Andrea ; Lobet, Guillaume ; Heymans, Adrien
+    ; Suresh, Kiran ; Schreiber, Lukas ; McLaughlin, Chloee M. ; Li, Chunjian ; Mayer,
+    Manfred ; Schön, Chris-Carolin ; Bernau, Vivian ; von Wirén, Nicolaus ; Sawers,
+    Ruairidh J. H. ; Wang, Tianyu ; Hochholdinger, Frank
+  title: Seedling root system adaptation to water availability during maize domestication
+    and global expansion
+  doi: 10.1038/s41588-024-01761-3
+- type: journal
+  year: 2023
+  authors: Giraud, Mona ; Gall, Samuel Le ; Harings, Moritz ; Javaux, Mathieu ; Leitner,
+    Daniel ; Meunier, Félicien ; Rothfuss, Youri ; van Dusschoten, Dagmar ; Vanderborght,
+    Jan ; Vereecken, Harry ; Lobet, Guillaume ; Schnepf, Andrea ; Amy, Marshall-Colon
+  title: CPlantBox  a fully coupled modelling platform for the water and carbon fluxes
+    in the soil–plant–atmosphere continuum
+  doi: 10.1093/insilicoplants/diad009
+- type: journal
+  year: 2023
+  authors: Schnepf, Andrea ; Black, Christopher K ; Couvreur, Valentin ; Delory, Benjamin
+    M ; Doussan, Claude ; Heymans, Adrien ; Javaux, Mathieu ; Khare, Deepanshu ; Koch,
+    Axelle ; Koch, Timo ; Kuppe, Christian W ; Landl, Magdalena ; Leitner, Daniel
+    ; Lobet, Guillaume ; Meunier, Félicien ; Postma, Johannes A ; Schäfer, Ernst D
+    ; Selzner, Tobias ; Vanderborght, Jan ; Vereecken, Harry
+  title: Collaborative benchmarking of functional-structural root architecture models  Quantitative
+    comparison of simulated root water uptake
+  doi: 10.1093/insilicoplants/diad005
+- type: journal
+  year: 2023
+  authors: Ligot, Noa ; Bogaert, Patrick ; Biass, Sébastien ; Lobet, Guillaume ; Delmelle,
+    Pierre
+  title: Grain size modulates volcanic ash retention on crop foliage and potential
+    yield loss
+  doi: 10.5194/nhess-23-1355-2023
+- type: journal
+  year: 2023
+  authors: Zhou, Xiao-Ran ; Schnepf, Andrea ; Vanderborght, Jan ; Leitner, Daniel
+    ; Vereecken, Harry ; Lobet, Guillaume ; Zhu, Xin-Guang
+  title: Phloem anatomy restricts root system architecture development  theoretical
+    clues from &amp;lt;i&amp;gt;in silico&amp;lt;/i&amp;gt; experiments
+  doi: 10.1093/insilicoplants/diad012
+- type: journal
+  year: 2022
+  authors: Saint Cast, Clément ; Lobet, Guillaume ; Cabrera-Bosquet, Llorenç ; Couvreur,
+    Valentin ; Pradal, Christophe ; Tardieu, François ; Draye, Xavier
+  title: Connecting plant phenotyping and modelling communities  lessons from science
+    mapping and operational perspectives
+  doi: 10.1093/insilicoplants/diac005
+- type: journal
+  year: 2022
+  authors: Bauer, Felix Maximilian ; Lärm, Lena ; Morandage, Shehan ; Lobet, Guillaume
+    ; Vanderborght, Jan ; Vereecken, Harry ; Schnepf, Andrea
+  title: Development and Validation of a Deep Learning Based Automated Minirhizotron
+    Image Analysis Pipeline
+  doi: 10.34133/2022/9758532
+- type: journal
+  year: 2022
+  authors: Deja-Muylle, Agnieszka ; Opdenacker, Davy ; Parizot, Boris ; Motte, Hans
+    ; Lobet, Guillaume ; Storme, Veronique ; Clauw, Pieter ; Njo, Maria ; Beeckman,
+    Tom
+  title: Genetic Variability of Arabidopsis thaliana Mature Root System Architecture
+    and Genome-Wide Association Study
+  doi: 10.3389/fpls.2021.814110
+- type: journal
+  year: 2022
+  authors: LaRue, Therese ; Lindner, Heike ; Srinivas, Ankit ; Exposito-Alonso, Moises
+    ; Lobet, Guillaume ; Dinneny, José R
+  title: Uncovering natural variation in root system architecture and growth dynamics
+    using a robotics-assisted phenomics platform
+  doi: 10.7554/elife.76968
+- type: journal
+  year: 2021
+  authors: Heymans, Adrien ; Couvreur, Valentin ; Lobet, Guillaume
+  title: Combining cross-section images and modeling tools to create high-resolution
+    root system hydraulic atlases in Zea mays
+  doi: 10.1002/pld3.334
+- type: journal
+  year: 2021
+  authors: Couvreur, Valentin ; Heymans, Adrien ; Lobet, Guillaume ; Draye, Xavier
+  title: Evidence for a multicellular symplasmic water pumping mechanism across vascular
+    plant roots
+  doi: 10.1101/2021.04.19.439789
+- type: journal
+  year: 2021
+  authors: Barczi, Jean-François ; Beroueg, Amira ; Buck-Sorlin, Gerhard ; Couvreur,
+    Valentin ; Danjon, Frédéric ; Delory, Benjamin M. ; Doussan, Claude ; De Swaef,
+    Tom ; Draye, Xavier ; Drouet, Jean-Louis ; Dupuy, Lionel ; Garre, Sarah ; Gérard,
+    Frédéric ; Heymans, Adrien ; Hinsinger, Philippe ; Javaux, Mathieu ; Koch, Axelle
+    ; Landl, Magdalena ; Lecompte, François ; Leitner, Daniel ; Lobet, Guillaume ;
+    Lynch, Jonathan ; Martre, Pierre ; Meredieu, Céline ; Meunier, Felicien ; Mollier,
+    Alain ; Muller, Bertrand ; Nguyen, Christophe ; Picon-Cochard, Catherine ; Postma,
+    Johannes A. ; Pradal, Christophe ; Rees, Frédéric ; Richard-Molard, Céline ; Roose,
+    Tiina ; Saint Cast, Clément ; Schnepf, Andrea ; Thaler, Philippe ; Vanderborght,
+    Jan ; Wu, Lianhai ; Zhou, Xiaoran
+  title: Loïc Pagès, founding scientist in root ecology and modelling
+  doi: 10.1093/insilicoplants/diab035
+- type: journal
+  year: 2021
+  authors: Rees, Jean-François ; Guisset, Manuela ; Lobet, Guillaume
+  title: Évaluations par Cartes Conceptuelles à trous et apprentissage par les pairs
+  doi: 10.14428/qpes.v1i3.62073
+- type: journal
+  year: 2020
+  authors: Schnepf, Andrea ; Black, Christopher K. ; Couvreur, Valentin ; Delory,
+    Benjamin M. ; Doussan, Claude ; Koch, Axelle ; Koch, Timo ; Javaux, Mathieu ;
+    Landl, Magdalena ; Leitner, Daniel ; Lobet, Guillaume ; Mai, Trung Hieu ; Meunier,
+    Félicien ; Petrich, Lukas ; Postma, Johannes A. ; Priesack, Eckart ; Schmidt,
+    Volker ; Vanderborght, Jan ; Vereecken, Harry ; Weber, Matthias
+  title: Call for Participation  Collaborative Benchmarking of Functional-Structural
+    Root Architecture Models. The Case of Root Water Uptake
+  doi: 10.3389/fpls.2020.00316
+- type: journal
+  year: 2020
+  authors: Lobet, Guillaume ; Descamps, Charlotte ; Leveau, Lola ; Guillet, Alain
+    ; Rees, Jean-François
+  title: QuoVidi  An open‐source web application for the organization of large‐scale
+    biological treasure hunts
+  doi: 10.1002/ece3.7130
+- type: journal
+  year: 2020
+  authors: Jonard, François ; De Canniere, Simon ; Brüggemann, Nicolas ; Gentine,
+    Pierre ; Short Gianotti, Daniel J. ; Lobet, Guillaume ; Miralles, Diego G. ; Montzka,
+    Carsten ; Pagán, Brianne R. ; Rascher, Uwe ; Vereecken, H.
+  title: Value of sun-induced chlorophyll fluorescence for quantifying hydrological
+    states and fluxes  Current status and challenges
+  doi: 10.1016/j.agrformet.2020.108088
+- type: journal
+  year: 2019
+  authors: Rose, Laura ; Lobet, Guillaume
+  title: Accuracy of image analysis tools for functional root traits  A comment on
+    Delory et al. (2017)
+  doi: 10.1111/2041-210x.13156
+- type: journal
+  year: 2019
+  authors: Heymans, Adrien ; Couvreur, Valentin ; LaRue, Therese ; Paez-Garcia, Ana
+    ; Lobet, Guillaume
+  title: GRANAR, a computational tool to better understand the functional importance
+    of monocotyledon root anatomy
+  doi: 10.1104/pp.19.00617
+- type: journal
+  year: 2019
+  authors: Muller, Bertrand ; Guédon, Yann ; Passot, Sixtine ; Lobet, Guillaume ;
+    Nacry, Philippe ; Pagès, Loïc ; Wissuwa, Matthias ; Draye, Xavier
+  title: Lateral Roots  Random Diversity in Adversity
+  doi: 10.1016/j.tplants.2019.05.011
+- type: journal
+  year: 2019
+  authors: Meunier, Félicien ; Heymans, Adrien ; Draye, Xavier ; Couvreur, Valentin
+    ; Javaux, Mathieu ; Lobet, Guillaume
+  title: MARSHAL, a novel tool for virtual phenotyping of maize root system hydraulic
+    architectures
+  doi: 10.1093/insilicoplants/diz012
+- type: journal
+  year: 2018
+  authors: Passot, Sixtine ; Moreno-Ortega, Beatriz ; Moukouanga,Daniel ; Balsera,
+    Crispulo ; Guyomarc'h, Soazig ; Lucas, Mikael ; Lobet, Guillaume ; Laplaze, Laurent
+    ; Muller, Bertrand ; Guédon, Yann
+  title: A new phenotyping pipeline reveals three types of lateral roots and a random
+    branching pattern in two cereals
+  doi: 10.1104/pp.17.01648
+- type: journal
+  year: 2018
+  authors: Schnepf, Andrea ; Leitner, Daniel ; Landl, Magdalena ; Lobet, Guillaume
+    ; Mai, Trung Hieu ; Morandage, Shehan ; Sheng, Cheng ; Zörner, Mirjam ; Vanderborght,
+    Jan ; Vereecken, Harry
+  title: CRootBox  a structural–functional modelling framework for root systems
+  doi: 10.1093/aob/mcx221
+- type: journal
+  year: 2018
+  authors: Passot, Sixtine ; Couvreur, Valentin ; Meunier, Félicien ; Draye, Xavier
+    ; Javaux, Mathieu ; Leitner, Danier ; Pagès, Loïc ; Schnepf, Andrea ; Vanderborgth,
+    Jan ; Lobet, Guillaume
+  title: Connecting the dots between computational tools to analyse soil-root water
+    relations
+  doi: 10.1101/312918
+- type: journal
+  year: 2018
+  authors: Passot, Sixtine ; Couvreur, Valentin ; Meunier, Félicien ; Draye, Xavier
+    ; Javaux, Mathieu ; Leitner, Daniel ; Pagès, Loïc ; Schnepf, Andrea ; Vanderborght,
+    Jan ; Lobet, Guillaume
+  title: Connecting the dots between computational tools to analyse soil-root water
+    relations
+  doi: 10.1093/jxb/ery361
+- type: journal
+  year: 2018
+  authors: Shahzad, Zaigham ; Kellermeier, Fabian ; Armstrong, Emily M. ; Rogers,
+    Simon ; Lobet, Guillaume ; Amtmann, Anna ; Hills, Adrian
+  title: EZ-Root-VIS  A Software Pipeline for the Rapid Analysis and Visual Reconstruction
+    of Root System Architecture
+  doi: 10.1104/pp.18.00217
+- type: journal
+  year: 2018
+  authors: Couvreur, Valentin ; Faget, Marc ; Lobet, Guillaume ; Javaux, Mathieu ;
+    Chaumont, François ; Draye, Xavier
+  title: Going with the Flow  Multiscale Insights into the Composite Nature of Water
+    Transport in Roots
+  doi: 10.1104/pp.18.01006
+- type: journal
+  year: 2018
+  authors: Hiel, Marie-Pierre ; Barbieux, Sophie ; Pierreux, Jérôme ; Olivier, Claire
+    ; Lobet, Guillaume ; Roisin, Christian ; Garré, Sarah ; Colinet, Gilles ; Bodson,
+    Bernard ; Dumont, Benjamin
+  title: Impact of crop residue management on crop production and soil chemistry after
+    seven years of crop rotation in temperate climate, loamy soils
+  doi: 10.7717/peerj.4836
+- type: journal
+  year: 2018
+  authors: Landl, Magdalena ; Schnepf, Andrea ; Vanderborght, Jan ; Bengough, A. Glyn
+    ; Bauke, Sara L. ; Lobet, Guillaume ; Bol, Roland ; Vereecken, Harry
+  title: Measuring root system traits of wheat in 2D images to parameterize 3D root
+    architecture models
+  doi: 10.1007/s11104-018-3595-8
+- type: journal
+  year: 2018
+  authors: Delory, Benjamin M. ; Li, Mao ; Topp, Christopher N. ; Lobet, Guillaume
+  title: archiDART v3.0  A new data analysis pipeline allowing the topological analysis
+    of plant root systems
+  doi: 10.12688/f1000research.13541.1
+- type: journal
+  year: 2017
+  authors: Mohamed, Awaz ; Monnier, Yogan ; Mao, Zhun ; Lobet, Guillaume ; Maeght,
+    Jean-Luc ; Ramel, Merlin ; Stokes, Alexia
+  title: An evaluation of inexpensive methods for root image acquisition when using
+    rhizotrons
+  doi: 10.1186/s13007-017-0160-z
+- type: journal
+  year: 2017
+  authors: Lobet, Guillaume ; Atkinson, Jonathan ; Noll, Manuel ; Meyer, Patrick ;
+    Griffiths, Markus ; Wells, Darren
+  title: Combining semi-automated image analysis techniques with machine learning
+    algorithms to accelerate large scale genetic studies
+  doi: 10.1101/152702
+- type: journal
+  year: 2017
+  authors: Lobet, Guillaume
+  title: Image Analysis in Plant Sciences  Publish Then Perish
+  doi: 10.1016/j.tplants.2017.05.002
+- type: journal
+  year: 2017
+  authors: Couvreur, Valentin ; Faget, Marc ; Lobet, Guillaume ; Chaumont, François
+    ; Javaux, Mathieu ; Draye, Xavier
+  title: Novel multiscale insights into the composite nature of water transport in
+    roots
+  doi: 10.1101/147314
+- type: journal
+  year: 2017
+  authors: York, Larry ; Lobet, Guillaume
+  title: Phenomics of root system architecture  Measuring and analyzing root phenes
+  doi: 10.1105/tpc.117.tt0917
+- type: journal
+  year: 2017
+  authors: Lobet, Guillaume ; Koevoets, Iko T. ; Noll, Manuel ; Meyer, Patrick E.
+    ; Tocquin, Pierre ; Pagès, Loïc ; Périlleux, Claire
+  title: Using a Structural Root System Model to Evaluate and Improve the Accuracy
+    of Root Image Analysis Pipelines
+  doi: 10.3389/fpls.2017.00447
+- type: journal
+  year: 2016
+  authors: Rellán-Álvarez, Ruben ; Lobet, Guillaume ; Dinneny, José R.
+  title: Environmental Control of Root System Biology
+  doi: 10.1146/annurev-arplant-043015-111848
+- type: journal
+  year: 2016
+  authors: Bouché, Frédéric ; Lobet, Guillaume ; Tocquin, Pierre ; Périlleux, Claire
+  title: FLOR-ID  An interactive database of flowering-time gene networks in Arabidopsis
+    thaliana
+  doi: 10.1093/nar/gkv1054
+- type: journal
+  year: 2016
+  authors: Bouché, F. ; D'Aloia, M. ; Tocquin, P. ; Lobet, Guillaume ; Detry, N. ;
+    Périlleux, C.
+  title: Integrating roots into a whole plant network of flowering time genes in Arabidopsis
+    thaliana
+  doi: 10.1038/srep29042
+- type: journal
+  year: 2024
+  authors: Samuel le Gall ; Dagmar van Duschoten ; Adrian Lattacher ; Mona Giraud
+    ; Moritz Harings ; Paulina Deseano Diaz ; Ahmet Sircan ; Christian Poll ; Lobet,
+    Guillaume ; Javaux, Mathieu ; Youri Rothfuss
+  title: Investigating the impact on water fluxes and physiological development of
+    the combination of contrasted root wheat cultivars from isotopic analysis
+  doi: 10.5194/egusphere-egu24-15966
+- type: journal
+  year: 2024
+  authors: Jan Vanderborght ; Juan Baca Cabrera1 ; Lobet, Guillaume ; Daniel Leitner
+    ; Javaux, Mathieu ; Couvreur, Valentin ; Andrea Schnepf
+  title: Upscaling of 3D root hydraulic architectures of trees to 1D root hydraulic
+    models
+  doi: 10.5194/egusphere-egu24-7397
+- type: journal
+  year: 2023
+  authors: Andrea Schnepf ; Christopher K. Black ; Couvreur, Valentin ; Benjamin M.
+    Delory ; Claude Doussan ; Adrien Heymans ; Javaux, Mathieu ; Deepanshu Khare ;
+    Axelle Koch ; Timo Koch ; Christian W. Kuppe ; Magdalena Land ; Daniel Leitner
+    ; Lobet, Guillaume ; Meunier, Félicien ; Johannes Postma ; Ernst Schäfer ; Tobias
+    Selzner ; Jan Vanderborght ; Harry Vereecken
+  title: Benchmarking of Functional-Structural Root Architecture Models
+  doi: 10.5194/egusphere-egu23-4425
+- type: journal
+  year: 2022
+  authors: Andrea Schnepf ; Couvreur, Valentin ; Benjamin Delory ; Claude Doussan
+    ; Javaux, Mathieu ; Deepanshu Khare1 ; Koch, Axelle ; Timo Koch ; Christian Kuppe
+    ; Daniel Leitner ; Lobet, Guillaume ; Félicien Meunier ; Johannes Postma ; Ernst
+    Schäfer ; Jan Vanderborght ; Harry Vereecken
+  title: Quantitative comparison of root water uptake simulated by functional-structural
+    root architecture models
+  doi: 10.5194/egusphere-egu22-8524
+- type: journal
+  year: 2022
+  authors: Meunier, Félicien ; Couvreur, Valentin ; Draye, Xavier ; Lobet, Guillaume
+    ; Huber, Katrin ; Schroeder, Nathalie ; Jorda, Helena ; Koch, Axelle ; Landl,
+    Magdalena ; Schnepf, Andrea ; Vanderborght, Jan ; Vereecken, Harry ; Javaux, Mathieu
+  title: Investigating Soil–Root Interactions with the Numerical Model R-SWMS
+  doi: 10.1007/978-1-0716-1816-5_13
+- type: journal
+  year: 2024
+  authors: Vanderborght, Jan ; Couvreur, Valentin ; Javaux, Mathieu ; Leitner, Daniel
+    ; Schnepf, Andrea ; Vereecken, Harry
+  title: Mechanistically derived macroscopic root water uptake functions  The &lt;i&gt;α&lt;/i&gt;
+    and &lt;i&gt;ω&lt;/i&gt; of root water uptake functions
+  doi: 10.1002/vzj2.20333
+- type: journal
+  year: 2024
+  authors: Baca Cabrera, Juan C. ; Vanderborght, Jan ; Couvreur, Valentin ; Behrend,
+    Dominik ; Gaiser, Thomas ; Nguyen, Thuy Huu ; Lobet, Guillaume
+  title: Root hydraulic properties  An exploration of their variability across scales
+  doi: 10.1002/pld3.582
+- type: journal
+  year: 2023
+  authors: Schnepf, Andrea ; Black, Christopher K ; Couvreur, Valentin ; Delory, Benjamin
+    M ; Doussan, Claude ; Heymans, Adrien ; Javaux, Mathieu ; Khare, Deepanshu ; Koch,
+    Axelle ; Koch, Timo ; Kuppe, Christian W ; Landl, Magdalena ; Leitner, Daniel
+    ; Lobet, Guillaume ; Meunier, Félicien ; Postma, Johannes A ; Schäfer, Ernst D
+    ; Selzner, Tobias ; Vanderborght, Jan ; Vereecken, Harry
+  title: Collaborative benchmarking of functional-structural root architecture models  Quantitative
+    comparison of simulated root water uptake
+  doi: 10.1093/insilicoplants/diad005
+- type: journal
+  year: 2023
+  authors: Vanderborght, Jan ; Leitner, Daniel ; Schnepf, Andrea ; Couvreur, Valentin
+    ; Vereecken, Harry ; Javaux, Mathieu
+  title: Combining root and soil hydraulics in macroscopic representations of root
+    water uptake
+  doi: 10.1002/vzj2.20273
+- type: journal
+  year: 2023
+  authors: Dubbert, M. ; Couvreur, Valentin ; Kübert, A. ; Werner, C.
+  title: Plant water uptake modelling  added value of cross‐disciplinary approaches
+  doi: 10.1111/plb.13478
+- type: journal
+  year: 2022
+  authors: Saint Cast, Clément ; Lobet, Guillaume ; Cabrera-Bosquet, Llorenç ; Couvreur,
+    Valentin ; Pradal, Christophe ; Tardieu, François ; Draye, Xavier
+  title: Connecting plant phenotyping and modelling communities  lessons from science
+    mapping and operational perspectives
+  doi: 10.1093/insilicoplants/diac005
+- type: journal
+  year: 2022
+  authors: Pou, Alicia ; Hachez, Charles ; Couvreur, Valentin ; Maistriaux,Laurie
+    ; Ismail, Ahmed ; Chaumont, François
+  title: Exposure to high nitrogen triggered a genotype‐dependent modulation of cell
+    and root hydraulics, which can involve aquaporin regulation
+  doi: 10.1111/ppl.13640
+- type: journal
+  year: 2022
+  authors: Mehra, Poonam ; Pandey, Bipin K. ; Melebari, Dalia ; Banda, Jason ; Leftley,
+    Nicola ; Couvreur, Valentin ; Rowe, James ; Anfang, Moran ; De Gernier, Hugues
+    ; Morris, Emily ; Sturrock, Craig J. ; Mooney, Sacha J. ; Swarup, Ranjan ; Faulkner,
+    Christine ; Beeckman, Tom ; Bhalerao, Rishikesh P. ; Shani, Eilon ; Jones, Alexander
+    M. ; Dodd, Ian C. ; Sharp, Robert E. ; Sadanandom, Ari ; Draye, Xavier ; Bennett,
+    Malcolm J.
+  title: Hydraulic flux–responsive hormone redistribution determines root branching
+  doi: 10.1126/science.add3771
+- type: journal
+  year: 2022
+  authors: De Swaef, Tom ; Pieters, Olivier ; Appeltans, Simon ; Borra-Serrano, Irene
+    ; Coudron, Willem ; Couvreur, Valentin ; Garré, Sarah ; Lootens, Peter ; Nicolaï,
+    Bart ; Pols, Leroi ; Saint Cast, Clément ; Šalagovič, Jakub ; Van Haeverbeke,
+    Maxime ; Stock, Michiel ; wyffels, Francis
+  title: On the pivotal role of water potential to model plant physiological processes
+  doi: 10.1093/insilicoplants/diab038
+- type: journal
+  year: 2021
+  authors: Heymans, Adrien ; Couvreur, Valentin ; Lobet, Guillaume
+  title: Combining cross-section images and modeling tools to create high-resolution
+    root system hydraulic atlases in Zea mays
+  doi: 10.1002/pld3.334
+- type: journal
+  year: 2021
+  authors: Couvreur, Valentin ; Heymans, Adrien ; Lobet, Guillaume ; Draye, Xavier
+  title: Evidence for a multicellular symplasmic water pumping mechanism across vascular
+    plant roots
+  doi: 10.1101/2021.04.19.439789
+- type: journal
+  year: 2021
+  authors: Vanderborght, Jan ; Couvreur, Valentin ; Meunier, Felicien ; Schnepf, Andrea
+    ; Vereecken, Harry ; Bouda, Martin ; Javaux, Mathieu
+  title: From hydraulic root architecture models to  macroscopic representations of
+    root hydraulics  in soil water flow and land surface models
+  doi: 10.5194/hess-25-4835-2021
+- type: journal
+  year: 2021
+  authors: Barczi, Jean-François ; Beroueg, Amira ; Buck-Sorlin, Gerhard ; Couvreur,
+    Valentin ; Danjon, Frédéric ; Delory, Benjamin M. ; Doussan, Claude ; De Swaef,
+    Tom ; Draye, Xavier ; Drouet, Jean-Louis ; Dupuy, Lionel ; Garre, Sarah ; Gérard,
+    Frédéric ; Heymans, Adrien ; Hinsinger, Philippe ; Javaux, Mathieu ; Koch, Axelle
+    ; Landl, Magdalena ; Lecompte, François ; Leitner, Daniel ; Lobet, Guillaume ;
+    Lynch, Jonathan ; Martre, Pierre ; Meredieu, Céline ; Meunier, Felicien ; Mollier,
+    Alain ; Muller, Bertrand ; Nguyen, Christophe ; Picon-Cochard, Catherine ; Postma,
+    Johannes A. ; Pradal, Christophe ; Rees, Frédéric ; Richard-Molard, Céline ; Roose,
+    Tiina ; Saint Cast, Clément ; Schnepf, Andrea ; Thaler, Philippe ; Vanderborght,
+    Jan ; Wu, Lianhai ; Zhou, Xiaoran
+  title: Loïc Pagès, founding scientist in root ecology and modelling
+  doi: 10.1093/insilicoplants/diab035
+- type: journal
+  year: 2021
+  authors: Pascut, Flavius C. ; Couvreur, Valentin ; Dietrich, Daniela ; Leftley,
+    Nicky ; Reyt, Guilhem ; Boursiac, Yann ; Calvo-Polanco, Monica ; Casimiro, Ilda
+    ; Maurel, Christophe ; Salt, David E. ; Draye, Xavier ; Wells, Darren M. ; Bennett,
+    Malcolm J. ; Webb, Kevin F.
+  title: Non-invasive hydrodynamic imaging in plant roots at cellular resolution
+  doi: 10.1038/s41467-021-24913-z
+- type: journal
+  year: 2021
+  authors: Agee, Elizabeth ; He, Lingli ; Bisht, Gautam ; Couvreur, Valentin ; Shahbaz,
+    Parisa ; Meunier, Félicien ; Gough, Christopher M. ; Matheny, Ashley M. ; Bohrer,
+    Gil ; Ivanov, Valeriy
+  title: Root lateral interactions drive water uptake patterns under water limitation
+  doi: 10.1016/j.advwatres.2021.103896
+- type: journal
+  year: 2020
+  authors: Schnepf, Andrea ; Black, Christopher K. ; Couvreur, Valentin ; Delory,
+    Benjamin M. ; Doussan, Claude ; Koch, Axelle ; Koch, Timo ; Javaux, Mathieu ;
+    Landl, Magdalena ; Leitner, Daniel ; Lobet, Guillaume ; Mai, Trung Hieu ; Meunier,
+    Félicien ; Petrich, Lukas ; Postma, Johannes A. ; Priesack, Eckart ; Schmidt,
+    Volker ; Vanderborght, Jan ; Vereecken, Harry ; Weber, Matthias
+  title: Call for Participation  Collaborative Benchmarking of Functional-Structural
+    Root Architecture Models. The Case of Root Water Uptake
+  doi: 10.3389/fpls.2020.00316
+- type: journal
+  year: 2020
+  authors: Couvreur, Valentin ; Rothfuss, Youri ; Meunier, Félicien ; Bariac, Thierry
+    ; Biron, Philippe ; Durand, Jean-Louis ; Richard, Patricia ; Javaux, Mathieu
+  title: Disentangling temporal and population variability in plant root water uptake
+    from stable isotopic analysis  when rooting depth matters in labeling studies
+  doi: 10.5194/hess-24-3057-2020
+- type: journal
+  year: 2020
+  authors: Ding, Lei ; Milhiet, Thomas ; Couvreur, Valentin ; Nelissen, Hilde ; Meziane,
+    Adel ; Parent, Boris ; Aesaert, Stijn ; Van Lijsebettens, Mieke ; Inzé, Dirk ;
+    Tardieu, François ; Draye, Xavier ; Chaumont, François
+  title: Modification of the expression of the aquaporin ZmPIP2;5 affects water relations
+    and plant growth
+  doi: 10.1104/pp.19.01183
+- type: journal
+  year: 2020
+  authors: van Dusschoten, Dagmar ; Kochs, Johannes ; Kuppe, Christian W. ; Sydoruk,
+    Viktor A. ; Couvreur, Valentin ; Pflugfelder, Daniel ; Postma, Johannes A.
+  title: Spatially Resolved Root Water Uptake Determination Using a Precise Soil Water
+    Sensor
+  doi: 10.1104/pp.20.00488
+- type: journal
+  year: 2019
+  authors: Heymans, Adrien ; Couvreur, Valentin ; LaRue, Therese ; Paez-Garcia, Ana
+    ; Lobet, Guillaume
+  title: GRANAR, a computational tool to better understand the functional importance
+    of monocotyledon root anatomy
+  doi: 10.1104/pp.19.00617
+- type: journal
+  year: 2019
+  authors: Sulis, Mauro ; Couvreur, Valentin ; Keune, Jessica ; Cai, Gaochao ; Trebs,
+    Ivonne ; Junk, Juergen ; Shrestha, Prabhakar ; Simmer, Clemens ; Kollet, Stefan
+    J. ; Vereecken, Harry ; Vanderborght, Jan
+  title: Incorporating a root water uptake model based on the hydraulic architecture
+    approach in terrestrial systems simulations
+  doi: 10.1016/j.agrformet.2019.01.034
+- type: journal
+  year: 2019
+  authors: Meunier, Félicien ; Heymans, Adrien ; Draye, Xavier ; Couvreur, Valentin
+    ; Javaux, Mathieu ; Lobet, Guillaume
+  title: MARSHAL, a novel tool for virtual phenotyping of maize root system hydraulic
+    architectures
+  doi: 10.1093/insilicoplants/diz012
+- type: journal
+  year: 2018
+  authors: Passot, Sixtine ; Couvreur, Valentin ; Meunier, Félicien ; Draye, Xavier
+    ; Javaux, Mathieu ; Leitner, Danier ; Pagès, Loïc ; Schnepf, Andrea ; Vanderborgth,
+    Jan ; Lobet, Guillaume
+  title: Connecting the dots between computational tools to analyse soil-root water
+    relations
+  doi: 10.1101/312918
+- type: journal
+  year: 2018
+  authors: Passot, Sixtine ; Couvreur, Valentin ; Meunier, Félicien ; Draye, Xavier
+    ; Javaux, Mathieu ; Leitner, Daniel ; Pagès, Loïc ; Schnepf, Andrea ; Vanderborght,
+    Jan ; Lobet, Guillaume
+  title: Connecting the dots between computational tools to analyse soil-root water
+    relations
+  doi: 10.1093/jxb/ery361
+- type: journal
+  year: 2018
+  authors: Couvreur, Valentin ; Faget, Marc ; Lobet, Guillaume ; Javaux, Mathieu ;
+    Chaumont, François ; Draye, Xavier
+  title: Going with the Flow  Multiscale Insights into the Composite Nature of Water
+    Transport in Roots
+  doi: 10.1104/pp.18.01006
+- type: journal
+  year: 2018
+  authors: Meunier, Félicien ; Zarebanadkouki, Mohsen ; Ahmed, Mutez A ; Carminati,
+    Andrea ; Couvreur, Valentin ; Javaux, Mathieu
+  title: Hydraulic conductivity of soil-grown lupine and maize unbranched roots and
+    maize root-shoot junctions
+  doi: 10.1016/j.jplph.2017.12.019
+- type: journal
+  year: 2018
+  authors: Jerszurki, Daniela ; Souza, Jorge Luiz Moretti ; Couvreur, Valentin
+  title: Water balance output components are distinctly regulated by precipitation
+    and evapotranspiration in Pinus taeda L. plantations in Southern Brazil
+  doi: 10.18671/scifor.v46n119.11
+- type: journal
+  year: 2018
+  authors: Couvreur, Valentin ; Ledder, G. ; Manzoni, S. ; Way, D.A. ; Muller, E.B
+    ; Russo, S.E
+  title: Water transport through tall trees  A vertically-explicit, analytical model
+    of xylem hydraulic conductance in stems
+  doi: 10.1111/pce.13322
+- type: journal
+  year: 2017
+  authors: Meunier, Félicien ; Draye, Xavier ; Vanderborght, Jan ; Javaux, Mathieu
+    ; Couvreur, Valentin
+  title: A hybrid analytical-numerical method for solving water flow equations in
+    root hydraulic architectures
+  doi: 10.1016/j.apm.2017.08.011
+- type: journal
+  year: 2017
+  authors: Jerszurki, Daniela ; Couvreur, Valentin ; Maxwell, Toby ; de Carvalho Ramos
+    Silva, Lucas ; Matsumoto, Nicholas ; Shackel, Kenneth ; de Souza, Jorge L.M. ;
+    Hopmans, Jan W.
+  title: Impact of root growth and hydraulic conductance on canopy carbon-water relations
+    of young walnut trees (Juglans regia L.) under drought
+  doi: 10.1016/j.scienta.2017.08.051
+- type: journal
+  year: 2017
+  authors: Meunier, Félicien ; Rothfuss, Youri ; Bariac, Thierry ; Biron, Philippe
+    ; Richard, Patricia ; Durand, Jean-Louis ; Couvreur, Valentin ; Vanderborght,
+    Jan ; Javaux, Mathieu
+  title: Measuring and Modeling Hydraulic Lift of Lolium multiflorum Using Stable
+    Water Isotopes
+  doi: 10.2136/vzj2016.12.0134
+- type: journal
+  year: 2017
+  authors: Couvreur, Valentin ; Faget, Marc ; Lobet, Guillaume ; Chaumont, François
+    ; Javaux, Mathieu ; Draye, Xavier
+  title: Novel multiscale insights into the composite nature of water transport in
+    roots
+  doi: 10.1101/147314
+- type: journal
+  year: 2017
+  authors: Cai, G. ; Vandenborght, J. ; Couvreur, Valentin ; Mboh, C. ; Vereecken,
+    H.
+  title: Parameterization of root water uptake models considering dynamic root distributions
+    and water uptake compensation
+  doi: 10.2136/vzj2016.12.0125
+- type: journal
+  year: 2017
+  authors: Meunier, Félicien ; Couvreur, Valentin ; Draye, Xavier ; Vanderborght,
+    J. ; Javaux, Mathieu
+  title: Towards quantitative root hydraulic phenotyping  novel mathematical functions
+    to calculate plant-scale hydraulic parameters from root system functional and
+    structural traits
+  doi: 10.1007/s00285-017-1111-z
+- type: journal
+  year: 2017
+  authors: Meunier, Félicien ; Couvreur, Valentin ; Draye, Xavier ; Zarebanadkouki,
+    Mohsen ; Vanderborght, Jan ; Javaux, Mathieu
+  title: Water movement through plant roots – exact solutions of the water flow equation
+    in roots with linear or exponential piecewise hydraulic properties
+  doi: 10.5194/hess-21-6519-2017
+- type: journal
+  year: 2016
+  authors: Couvreur, Valentin ; Harter, T. ; Read, M. ; Brown, P.H. ; Hopmans, J.W.
+    ; Smart, D.R. ; Baram, S.
+  title: Assessment of orchard N losses to groundwater with a vadose zone monitoring
+    network
+  doi: 10.1016/j.agwat.2016.04.012
+- type: journal
+  year: 2016
+  authors: Couvreur, Valentin ; Kandelous, M.M ; Sanden, B.L. ; Lampinen, B.D. ; Hopmans,
+    J.W.
+  title: Downscaling transpiration rate from field to tree scale
+  doi: 10.1016/j.agrformet.2016.02.008
+- type: journal
+  year: 2016
+  authors: Baram, S. ; Couvreur, Valentin ; Read, M. ; Harter, T. ; Brown, P.H. ;
+    Kandelous, M. ; Smart, D.R. ; Hopmans, J.W.
+  title: Estimating nitrate leaching to groundwater from orchards  Comparing crop
+    Nitrogen excess, deep vadose zone data-driven estimates, and HYDRUS modeling
+  doi: 10.2136/vzj2016.07.0061
+- type: journal
+  year: 2016
+  authors: Zarebanadkouki, Mohsen ; Meunier, Félicien ; Couvreur, Valentin ; Cesar,
+    Jimenez ; Javaux, Mathieu ; Carminati, Andrea
+  title: Estimation of the hydraulic conductivities of lupine roots by inverse modelling
+    of high-resolution measurements of root water uptake
+  doi: 10.1093/aob/mcw154
+- type: journal
+  year: 2024
+  authors: Bouda, Martin ; Jan Vanderborght ; Couvreur, Valentin ; Václav Šípek ;
+    Javaux, Mathieu
+  title: Quantifying cross-scale hydrodynamic effects of root ecophysiology
+  doi: 10.5194/egusphere-egu24-9401
+- type: journal
+  year: 2024
+  authors: Jan Vanderborght ; Juan Baca Cabrera1 ; Lobet, Guillaume ; Daniel Leitner
+    ; Javaux, Mathieu ; Couvreur, Valentin ; Andrea Schnepf
+  title: Upscaling of 3D root hydraulic architectures of trees to 1D root hydraulic
+    models
+  doi: 10.5194/egusphere-egu24-7397
+- type: journal
+  year: 2023
+  authors: Jan Vanderborght ; Andrea Schnepf ; Daniel Leitner ; Couvreur, Valentin
+    ; Javaux, Mathieu
+  title: A mechanistic derivation of 'alpha-omega' root water uptake models.
+  doi: 10.5194/egusphere-egu23-3484
+- type: journal
+  year: 2023
+  authors: Andrea Schnepf ; Christopher K. Black ; Couvreur, Valentin ; Benjamin M.
+    Delory ; Claude Doussan ; Adrien Heymans ; Javaux, Mathieu ; Deepanshu Khare ;
+    Axelle Koch ; Timo Koch ; Christian W. Kuppe ; Magdalena Land ; Daniel Leitner
+    ; Lobet, Guillaume ; Meunier, Félicien ; Johannes Postma ; Ernst Schäfer ; Tobias
+    Selzner ; Jan Vanderborght ; Harry Vereecken
+  title: Benchmarking of Functional-Structural Root Architecture Models
+  doi: 10.5194/egusphere-egu23-4425
+- type: journal
+  year: 2023
+  authors: Couvreur, Valentin ; Mehra, Poonam ; Pandey, Bipin ; Draye, Xavier ;  Bennett,
+    Malcom
+  title: How air gaps in soils alter the distribution of root water and hormones fluxes,
+    thereby blocking root lateral branching
+  doi: 10.5194/egusphere-egu23-9384
+- type: journal
+  year: 2022
+  authors: Bouda, Martin ; Jan Vandergborght ; Couvreur, Valentin ; Javaux, Mathieu
+  title: Predicting plant water limitation in heterogeneously drying soils  the upscaling
+    approach to improving soil-plant hydrodynamics in ESMs
+  doi: 10.5194/egusphere-egu22-12601
+- type: journal
+  year: 2022
+  authors: Andrea Schnepf ; Couvreur, Valentin ; Benjamin Delory ; Claude Doussan
+    ; Javaux, Mathieu ; Deepanshu Khare1 ; Koch, Axelle ; Timo Koch ; Christian Kuppe
+    ; Daniel Leitner ; Lobet, Guillaume ; Félicien Meunier ; Johannes Postma ; Ernst
+    Schäfer ; Jan Vanderborght ; Harry Vereecken
+  title: Quantitative comparison of root water uptake simulated by functional-structural
+    root architecture models
+  doi: 10.5194/egusphere-egu22-8524
+- type: journal
+  year: 2021
+  authors: Vanderborght, Jan ; Couvreur, Valentin ; Meunier, Félicien ; Schnepf, Andrea
+    ; Vereecken, Harry ; Bouda, Martin ; Javaux, Mathieu
+  title: Towards the consideration of soil-root resistances in root water uptake models
+    for macroscopic representations of hydraulic root architecture
+  doi: 10.5194/egusphere-egu21-8151
+- type: journal
+  year: 2020
+  authors: Couvreur, Valentin ; Rothfuss, Youri ; Meunier, Félicien ; Bariac, Thierry
+    ; Biron, Philippe ; Durand, Jean-Louis ; Javaux, Mathieu
+  title: Disentangling temporal and population variability in plant root water uptake
+    from stable isotopic analysis  a labeling study
+  doi: 10.5194/hess-2019-543
+- type: journal
+  year: 2020
+  authors: Bouda, Martin ; Vanderborght, Jan ; Couvreur, Valentin ; Meunier, Félicien
+    ; Javaux, Mathieu
+  title: How to scale root water uptake from root scale to stands and beyond – a theoretical
+    framework, practical lessons, and next steps
+  doi: 10.5194/egusphere-egu2020-21673
+- type: journal
+  year: 2020
+  authors: Rothfuss, Youri ; Couvreur, Valentin ; Meunier, Félicien ; De Deurwaerder,
+    Hannes ; Visser, Marco D. ; Javaux, Mathieu
+  title: Reconstructing Root Water Uptake from isotopic data and physically-based
+    models  looking at recent effort and proposing a path forward
+  doi: 10.5194/egusphere-egu2020-21157
+- type: journal
+  year: 2016
+  authors: Meunier, Félicien ; Javaux, Mathieu ; Couvreur, Valentin ; Draye, Xavier
+    ; Vanderborght, Jan
+  title: A new model for optimizing the water acquisition of root hydraulic architectures
+    over full crop cycles
+  doi: 10.1109/FSPMA.2016.7818300
+- type: journal
+  year: 2023
+  authors: Carminati, Andrea ; Marin, Maria ; Couvreur, Valentin ; Zarebanadkouki,
+    Mohsen ; Declerck, Stephan ; Javaux, Mathieu
+  title: Root water uptake and myco-rhizosphere hydraulic properties
+  doi: 10.1016/b978-0-12-822974-3.00222-6
+- type: journal
+  year: 2022
+  authors: Meunier, Félicien ; Couvreur, Valentin ; Vanderborght, Jan ; Javaux, Mathieu
+  title: How to Define the Appropriate Spatial Resolution of Root Segments When Solving
+    in Root System Hydraulic
+  doi: 10.1007/978-1-0716-1816-5_14
+- type: journal
+  year: 2022
+  authors: Meunier, Félicien ; Couvreur, Valentin ; Draye, Xavier ; Lobet, Guillaume
+    ; Huber, Katrin ; Schroeder, Nathalie ; Jorda, Helena ; Koch, Axelle ; Landl,
+    Magdalena ; Schnepf, Andrea ; Vanderborght, Jan ; Vereecken, Harry ; Javaux, Mathieu
+  title: Investigating Soil–Root Interactions with the Numerical Model R-SWMS
+  doi: 10.1007/978-1-0716-1816-5_13
+- type: journal
+  year: 2025
+  authors: Michelot‐Antalik, Alice ; Langlois, Alban ; de Bello, Francesco ; Desaegher,
+    James ; Genty, Léa ; Goulnik, Jérémie ; Grosjean, Jérémy ; Jacquemart, Anne-Laure
+    ; Kergunteuil, Alan ; Junker, Robert R. ; Jeannerod, Léna ; Odoux, Jean‐François
+    ; Proffit, Magali ; Schatz, Bertrand ; Vanderplanck, Maryse ; E‐Vojtkó, Anna ;
+    Baude, Mathilde
+  title: Handbook of protocols for standardized measurements of floral traits for
+    pollinators in temperate communities
+  doi: 10.1111/2041-210x.70031
+- type: journal
+  year: 2025
+  authors: Michelot‐Antalik, Alice ; Langlois, Alban ; de Bello, Francesco ; Desaegher,
+    James ; Genty, Léa ; Goulnik, Jérémie ; Grosjean, Jérémy ; Jacquemart, Anne-Laure
+    ; Kergunteuil, Alan ; Junker, Robert R. ; Jeannerod, Léna ; Odoux, Jean‐François
+    ; Proffit, Magali ; Schatz, Bertrand ; Vanderplanck, Maryse ; E‐Vojtkó, Anna ;
+    Baude, Mathilde
+  title: Handbook of protocols for standardized measurements of floral traits for
+    pollinators in temperate communities
+  doi: 10.1111/2041-210x.70031
+- type: journal
+  year: 2024
+  authors: Yang, Nana ; Rongione, Charles ; Jacquemart, Anne-Laure ; Draye, Xavier
+    ; De Vleeschouwer, Christophe
+  title: On the Importance of Diversity When Training Deep Learning Segmentation Models
+    with Error-Prone Pseudo-Labels
+  doi: 10.3390/app14125156
+- type: journal
+  year: 2023
+  authors: Reverté, Sara ; Gérard, Maxence ; Bodson, Maxime ; Descamps, Charlotte
+    ; Gosselin, Matthias ; Jacquemart, Anne-Laure ; Louvieaux, Julien ; Smagghe, Guy
+    ; Vandamme, Peter ; Vereecken, Nicolas J. ; Michez, Denis
+  title: Intraspecific size shifts in generalist bumblebees and flowers lead to low
+    functional consequences
+  doi: 10.1002/ecs2.4640
+- type: journal
+  year: 2023
+  authors: Sinébou, Viviane ; Togbé, Euloge Codjo ; Ezin A., Vincent ; Ahohouendo,
+    Alain Fanou ; Ahohuendo, Bonaventure Cohovi ; Jacquemart, Anne-Laure
+  title: Toward the Reshaping of an Endogenous Leafy Vegetable Value Chain  the Case
+    Study of Vitex doniana in the Republic of Benin
+  doi: 10.1007/s12231-023-09591-w
+- type: journal
+  year: 2022
+  authors: Quinet, Muriel ; Buyens, Christel ; Jacquemart, Anne-Laure
+  title: Does gibberellin treatment inducing parthenocarpy affect development of fruits
+    from fertilization in pear (Pyrus communis ‘Conférence’) ?
+  doi: 10.17660/actahortic.2022.1342.27
+- type: journal
+  year: 2022
+  authors: Medina Torres, Byron Daniel ; Jonard, Mathieu ; Rendon, Melina ; Jacquemart,
+    Anne-Laure
+  title: Effects of Pine Plantation on Native Ecuadorian Páramo Vegetation
+  doi: 10.3390/f13091499
+- type: journal
+  year: 2022
+  authors: Jeannerod, Léna ; Carlier, Archibald ; Schatz, Bertrand ; Daise, Clothilde
+    ; Richel, Aurore ; Agnan, Yannick ; Baude, Mathilde ; Jacquemart, Anne-Laure ;
+    Del-Claro, Kleber
+  title: Some bee-pollinated plants provide nutritionally incomplete pollen amino
+    acid resources to their pollinators
+  doi: 10.1371/journal.pone.0269992
+- type: journal
+  year: 2021
+  authors: Descamps, Charlotte ; Gaspard, François ; Delmelle, Pierre ; Jacquemart,
+    Anne-Laure ; Lecoq, Julie
+  title: Accompagner les étudiants bacheliers bioingénieurs dans le développement
+    de leurs compétences transversales
+  doi: 10.14428/qpes.v1i3.62103
+- type: journal
+  year: 2021
+  authors: Descamps, Charlotte ; Quinet, Muriel ; Jacquemart, Anne-Laure
+  title: Climate Change–Induced Stress Reduce Quantity and Alter Composition of Nectar
+    and Pollen From a Bee-Pollinated Species (Borago officinalis, Boraginaceae)
+  doi: 10.3389/fpls.2021.755843
+- type: journal
+  year: 2021
+  authors: Moquet, Laura ; Jacquemart, Anne-Laure ; Dufay, Mathilde ; De Cauwer, Isabelle
+  title: Effects of sexual dimorphism on pollinator behaviour in a dioecious species
+  doi: 10.1111/oik.08662
+- type: journal
+  year: 2021
+  authors: Descamps, Charlotte ; Boubnan, Najet ; Jacquemart, Anne-Laure ; Quinet,
+    Muriel
+  title: Growing and Flowering in a Changing Climate  Effects of Higher Temperatures
+    and Drought Stress on the Bee-Pollinated Species Impatiens glandulifera Royle
+  doi: 10.3390/plants10050988
+- type: journal
+  year: 2021
+  authors: Descamps, Charlotte ; Quinet, Muriel ; Jacquemart, Anne-Laure
+  title: The effects of drought on plant–pollinator interactions  What to expect?
+  doi: 10.1016/j.envexpbot.2020.104297
+- type: journal
+  year: 2021
+  authors: Descamps, Charlotte ; Jambrek, Anne ; Quinet, Muriel ; Jacquemart, Anne-Laure
+  title: Warm Temperatures Reduce Flower Attractiveness and Bumblebee Foraging
+  doi: 10.3390/insects12060493
+- type: journal
+  year: 2020
+  authors: Langlois, Alban ; Jacquemart, Anne-Laure ; Piqueray, Julien
+  title: Contribution of Extensive Farming Practices to the Supply of Floral Resources
+    for Pollinators
+  doi: 10.3390/insects11110818
+- type: journal
+  year: 2020
+  authors: Descamps, Charlotte ; Marée, Sophie ; Hugon, Sophie ; Quinet, Muriel ;
+    Jacquemart, Anne-Laure
+  title: "Species‐specific responses to combined water stress and increasing temperatures
+    in two bee‐pollinated congeners (\r\n            Echium\r\n            , Boraginaceae)"
+  doi: 10.1002/ece3.6389
+- type: journal
+  year: 2020
+  authors: Moquet, Laura ; Lateur, L. ; Jacquemart, Anne-Laure ; De Cauwer, I ; Dufay,
+    M.
+  title: Temporal dynamics of sexual dimorphism in a dioecious species
+  doi: 10.1093/aob/mcaa088
+- type: journal
+  year: 2020
+  authors: Quinet, Muriel ; Jacquemart, Anne-Laure
+  title: Troubles in pear pollination  Effects of collection and storage method on
+    pollen viability and fruit production
+  doi: 10.1016/j.actao.2020.103558
+- type: journal
+  year: 2020
+  authors: Jacquemart, Anne-Laure ; Buyens, Christel ; Delescaille, L.‐M. ; Van Rossum,
+    F.
+  title: Using genetic evaluation to guide conservation of remnant Juniperus communis
+    (Cupressaceae) populations
+  doi: 10.1111/plb.13188
+- type: journal
+  year: 2019
+  authors: Quinet, Muriel ; Buyens, Christel ; Dobrev, Petre I. ; Motyka, Václav ;
+    Jacquemart, Anne-Laure
+  title: Hormonal Regulation of Early Fruit Development in European Pear (Pyrus communis
+    cv. ‘Conference’)
+  doi: 10.3390/horticulturae5010009
+- type: journal
+  year: 2019
+  authors: Quinet, Muriel ; Buyens, Christel ; Jacquemart, Anne-Laure
+  title: How to choose the best pollinizer cultivars for ‘Conférence’ pear (Pyrus
+    communis) in Belgium?
+  doi: 10.17660/actahortic.2019.1231.6
+- type: journal
+  year: 2019
+  authors: Jacquemart, Anne-Laure ; Buyens, Christel ; Herent, Marie-France ; Quetin-Leclercq,
+    Joëlle ; Lognay, Georges ; Hance, Thierry ; Quinet, Muriel
+  title: Male flowers of Aconitum compensate for toxic pollen with increased floral
+    signals and rewards for pollinators
+  doi: 10.1038/s41598-019-53355-3
+- type: journal
+  year: 2019
+  authors: Ouvrard, Pierre ; Jacquemart, Anne-Laure
+  title: Review of methods to investigate pollinator dependency in oilseed rape (Brassica
+    napus)
+  doi: 10.1016/j.fcr.2018.11.006
+- type: journal
+  year: 2018
+  authors: Ouvrard, Pierre ; Jacquemart, Anne-Laure
+  title: Agri‐environment schemes targeting farmland bird populations also provide
+    food for pollinating insects
+  doi: 10.1111/afe.12289
+- type: journal
+  year: 2018
+  authors: Ouvrard, Pierre ; Transon, Julie ; Jacquemart, Anne-Laure
+  title: Flower-strip agri-environment schemes provide diverse and valuable summer
+    flower resources for pollinating insects
+  doi: 10.1007/s10531-018-1531-0
+- type: journal
+  year: 2018
+  authors: Descamps, Charlotte ; Quinet, Muriel ; Baijot, Aurélie ; Jacquemart, Anne-Laure
+  title: Temperature and water stress affect plant–pollinator interactions in Borago
+    officinalis (Boraginaceae)
+  doi: 10.1002/ece3.3914
+- type: journal
+  year: 2018
+  authors: Jacquemart, Anne-Laure ; Moquet, Laura ; Ouvrard, Pierre ; Quetin-Leclercq,
+    Joëlle ; Herent, Marie-France ; Quinet, Muriel
+  title: Tilia trees  toxic or valuable resources for pollinators?
+  doi: 10.1007/s13592-018-0581-3
+- type: journal
+  year: 2017
+  authors: Ouvrard, Pierre ; Quinet, Muriel ; Jacquemart, Anne-Laure
+  title: Breeding system and pollination biology of Belgian oilseed rape cultivars
+    (Brassica napus)
+  doi: 10.2135/cropsci2016.09.0735
+- type: journal
+  year: 2017
+  authors: Moquet, Laura ; Vanderplanck, Maryse ; Moerman, Romain ; Quinet, Muriel
+    ; Roger, Nathalie ; Michez, Denis ; Jacquemart, Anne-Laure
+  title: Bumblebees depend on ericaceous species to survive in temperate heathlands
+  doi: 10.1111/icad.12201
+- type: journal
+  year: 2017
+  authors: Moquet, Laura ; Bacchetta, Rossana ; Laurent, Estelle ; Jacquemart, Anne-Laure
+  title: Conservation of hoverflies (Diptera, Syrphidae) requires complementary resources
+    at the landscape and local scales
+  doi: 10.1111/icad.12245
+- type: journal
+  year: 2017
+  authors: Quinet, Muriel ; Jacquemart, Anne-Laure
+  title: |-
+    Cultivar placement affects pollination efficiency and fruit production in
+    European pear (Pyrus communis) orchards
+  doi: 10.1016/j.eja.2017.09.015
+- type: journal
+  year: 2017
+  authors: Roger, Nathalie ; Moerman, Romain ; Carvalheiro, Luísa Gigante ; Aguirre-Guitiérrez,
+    Jesús ; Jacquemart, Anne-Laure ; Kleijn, David ; Lognay, Georges ; Moquet, Laura
+    ; Quinet, Muriel ; Rasmont, Pierre ; Richel, Aurore ; Vanderplanck, Maryse ; Michez,
+    Denis
+  title: Impact of pollen resources drift on common bumblebees in NW Europe
+  doi: 10.1111/gcb.13373
+- type: journal
+  year: 2017
+  authors: Moquet, Laura ; Bruyere, Lydiane ; Pirard, Benoît ; Jacquemart, Anne-Laure
+  title: Nectar foragers contribute to the pollination of buzz-pollinated plant species
+  doi: 10.3732/ajb.1700090
+- type: journal
+  year: 2017
+  authors: Moerman, Romain ; Vanderplanck, Maryse ; Fournier, Denis ; Jacquemart,
+    Anne-Laure ; Michez, Denis
+  title: Pollen nutrients better explain bumblebee colony development than pollen
+    diversity
+  doi: 10.1111/icad.12213
+- type: journal
+  year: 2017
+  authors: Moquet, Laura ; Bacchetta, Rossana ; Laurent, Estelle ; Jacquemart, Anne-Laure
+  title: Spatial and temporal variations in floral resource availability affect bumblebee
+    communities in heathlands
+  doi: 10.1007/s10531-016-1266-8
+- type: journal
+  year: 2017
+  authors: Vanderhoeven, Sonia ; Adriaens, Tim ; Desmet, Peter ; Strubbe, Diederik
+    ; Backeljau, Thierry ; Barbier, Yvan ; Brosens, Dimitri ; Cigar, Julien ; Coupremanne,
+    Maxime ;  De Troch, Rozemien ; Eggermont, Hilde  ; Heughebaert, André ; Hostens,
+    Kris  ; Huybrechts, Pierre  ; Jacquemart, Anne-Laure ; Lens, Luc ; Monty, Arnaud
+    ; Paquet, Jean-Yves ; Prévot, Céline ; Robertson, Tim ; Termonia, Piet ; Van De
+    Kerchove, Ruben ; Van Hoey, Gert ;  Van Schaeybroeck, Bert ; Vercayie, Diemer
+    ; Verleye, Thomas  ; Welby, Sarah ; Groom, Quentin
+  title: Tracking Invasive Alien Species (TrIAS)  Building a data-driven framework
+    to inform policy
+  doi: 10.3897/rio.3.e13414
+- type: journal
+  year: 2016
+  authors: Jacquemart, Anne-Laure ; Lhoir, Pierre ; Binard, Fabian ; Descamps, Charlotte
+  title: An Interactive Multimedia Dichotomous Key for Teaching Plant Identification
+  doi: 10.1080/00219266.2016.1150870
+- type: journal
+  year: 2016
+  authors: Quinet, Muriel ; Warzée, Martin ; Vanderplanck, Maryse ; Michez, Denis
+    ; Lognay, Georges ; Jacquemart, Anne-Laure
+  title: Do floral resources influence pollination rates and subsequent fruitset in
+    pear (Pyrus communis L.) and apple (Malus x domestica Borkh) cultivars?
+  doi: 10.1016/j.eja.2016.04.001
+- type: journal
+  year: 2016
+  authors: Somme, Laurent ; Moquet, Laura ; Quinet, Muriel ; Vanderplanck, Maryse
+    ; Michez, Denis ; Lognay, Georges ; Jacquemart, Anne-Laure
+  title: Food in a row  urban trees offer valuable floral resources to pollinating
+    insects
+  doi: 10.1007/s11252-016-0555-z
+- type: journal
+  year: 2016
+  authors: Quinet, Muriel ; Mabeluanga, Tracy ; Moquet, Laura ; Jacquemart, Anne-Laure
+  title: Introduction of new tools to improve pollination in European pear orchards
+  doi: 10.1016/j.scienta.2016.10.014
+- type: journal
+  year: 2016
+  authors: Sinébou, Viviane ; Quinet, Muriel ; Ahohuendo, Bonaventure C. ; Jacquemart,
+    Anne-Laure
+  title: Reproductive traits affect the rescue of valuable and endangered multipurpose
+    tropical trees.
+  doi: 10.1093/aobpla/plw051
+- type: journal
+  year: 2022
+  authors: Yang, Nana ; Joos de ter Beerst, Victor ; Jacquemart, Anne-Laure ; Buyens,
+    Christel ; De Vleeschouwer, Christophe
+  title: Using Pure Pollen Species When Training a CNN to Segment Pollen Mixtures
+  doi: 10.1109/CVPRW56347.2022.00176
+- type: journal
+  year: 2024
+  authors: Phan, Nhung Thi Hong ; Heymans, Adrien ; Bonnave, Mathieu ; Tang, Hanh
+    Thi ; Pham, Cuong Van ; Bertin, Pierre
+  title: Nitrogen use efficiency and yield components of rice as influenced by reducing
+    nitrogen application under salinity conditions in a pot experiment
+  doi: 10.1080/01904167.2024.2308201
+- type: journal
+  year: 2023
+  authors: Rasoamanalina, Rivo Onisoa Léa ; Mirzaei, Khaled ; El Jaziri, Mondher ;
+    Ramirez Ramirez, Angel Rafael ; Bertin, Pierre
+  title: Diversity and structure assessment of the genetic resources in a germplasm
+    collection from a vanilla breeding programme in Madagascar
+  doi: 10.1017/s1479262123000631
+- type: journal
+  year: 2023
+  authors: Phan, Nhung Thi Hong ; Draye, Xavier ; Pham, Cuong Van ; Bertin, Pierre
+  title: Identification of quantitative trait loci controlling nitrogen use efficiency-related
+    traits in rice at the seedling stage under salt condition by genome-wide association
+    study
+  doi: 10.3389/fpls.2023.1197271
+- type: journal
+  year: 2023
+  authors: Phan, Nhung Thi Hong ; Van Pham, Cuong ; Tang, Hanh Thi ; Van Nguyen, Loc
+    ; Nguyen, Long Viet ; Bertin, Pierre
+  title: Integration of genome-wide association studies reveal loci associated with
+    salt tolerance score of rice at the seedling stage
+  doi: 10.1007/s13353-023-00775-7
+- type: journal
+  year: 2023
+  authors: Phan, Nhung Thi Hong ; Heymans, Adrien ; Bonnave, Mathieu ; Lutts, Stanley
+    ; Pham, Cuong Van ; Bertin, Pierre
+  title: Nitrogen Use Efficiency of Rice Cultivars (Oryza sativa L.) Under Salt Stress
+    and Low Nitrogen Conditions
+  doi: 10.1007/s00344-022-10660-y
+- type: journal
+  year: 2019
+  authors: Miguelez Sierra, Yulien ; Acebo-Guerrero, Yanelis ; El Jaziri, Mondher
+    ; Bertin, Pierre ; Hernández-Rodríguez, Annia
+  title: Pseudomonas chlororaphis CP07 strain reduces disease severity caused by Phytophthora
+    palmivora in genotypes of Theobroma cacao
+  doi: 10.1007/s10658-019-01842-8
+- type: journal
+  year: 2018
+  authors: Dubois, Benjamin ; Bertin, Pierre ; Hautier, Louis ; Muhovski, Yordan ;
+    Escarnot, Emmanuelle ; Mingeot, Dominique
+  title: Genetic and environmental factors affecting the expression of α-gliadin canonical
+    epitopes involved in celiac disease in a wide collection of spelt (Triticum aestivum
+    ssp. spelta) cultivars and landraces
+  doi: 10.1186/s12870-018-1487-y
+- type: journal
+  year: 2018
+  authors: Escarnot, Emmanuelle ; Gofflot, Sébastien ; Sinnaeve, Georges ; Dubois,
+    Benjamin ; Bertin, Pierre ; Mingeot, Dominique
+  title: Reactivity of gluten proteins from spelt and bread wheat accessions towards
+    A1 and G12 antibodies in the framework of celiac disease
+  doi: 10.1016/j.foodchem.2018.06.094
+- type: journal
+  year: 2017
+  authors: Dubois, Benjamin ; Bertin, Pierre ; Muhovski, Yordan ; Escarnot, Emmanuelle
+    ; Mingeot, Dominique
+  title: |-
+    Development of TaqMan probes targeting the four major celiac disease epitopes found in α‑gliadin sequences of spelt (Triticum
+    aestivum ssp. spelta) and bread wheat (Triticum aestivum ssp. aestivum)
+  doi: 10.1186/s13007-017-0222-2
+- type: journal
+  year: 2017
+  authors: Bidot Martinez, Igor ; Valdés de la Cruz, Marlyn ; Riera Nelson, Manuel
+    ; Bertin, Pierre
+  title: Establishment of a Core Collection of Traditional Cuban Theobroma cacao Plants
+    for Conservation and Utilization Purposes
+  doi: 10.1007/s11105-016-0999-6
+- type: journal
+  year: 2017
+  authors: Tovihoudji, Gbenoukpo Pierre ; Akponikpé, P.B. Irenikatché ; Agbossou,
+    Euloge K. ; Bertin, Pierre ; Bielders, Charles
+  title: Fertilizer microdosing enhances maize yields but may exacerbate nutrient
+    mining in maize cropping systems in northern Benin
+  doi: 10.1016/j.fcr.2017.08.003
+- type: journal
+  year: 2017
+  authors: 'Angui, Chia M.V. ; Koffi, Kouamé K.  ; Koffi, Kouamé G. ; Flamand, Marie-Christine
+    ; Bertin, Pierre ; Baudoin, Jean-Pierre ; Djè, Yao ; Zoro, Bi I.A. '
+  title: Microsatellite-based genetic diversity among accessions of Citrullus spp.
+    collected from 36 countries
+  doi: 10.21475/ajcs.17.11.08.pne572
+- type: journal
+  year: 2017
+  authors: Bidot Martinez, Igor ; Valdés de la Cruz, Marylin ; Riera Nelson, Manuel
+    ; Bertin, Pierre
+  title: Morphological characterization of traditional cacao (Theobroma cacao L.)
+    plants in Cuba
+  doi: 10.1007/s10722-015-0333-4
+- type: journal
+  year: 2016
+  authors: Raulier, Pierre ; Maudoux, O. ; Notté, C. ; Draye, Xavier ; Bertin, Pierre
+  title: Exploration of genetic diversity within Cichorium endivia and Cichorium intybus
+    with focus on the gene pool of industrial chicory
+  doi: 10.1007/s10722-015-0244-4
+- type: journal
+  year: 2016
+  authors: Mingeot, Dominique ; Husson, Claude ; Mertens, Patrick ; Watillon, Bernard
+    ; Bertin, Pierre ; Druart, Philippe
+  title: Genetic diversity and genetic structure of black alder (Alnus glutinosa [L.]
+    Gaertn) in the Belgium-Luxembourg-France cross-border area
+  doi: 10.1007/s11295-016-0981-3
+- type: journal
+  year: 2016
+  authors: Faux, Anne-Michelle ; Draye, Xavier ; Flamand, Marie-Christine ; Occre,
+    Adrien ; Bertin, Pierre
+  title: Identification of QTLs for sex expression in dioecious and monoecious hemp
+    (Cannabis sativa L.)
+  doi: 10.1007/s10681-016-1641-2
+- type: journal
+  year: 2016
+  authors: Dubois, Benjamin ; Bertin, Pierre ; Mingeot, Dominique
+  title: Molecular diversity of α-gliadin expressed genes in genetically contrasted
+    spelt (Triticum aestivum ssp. spelta) accessionsand comparison with bread wheat
+    (T. aestivum ssp. aestivum)and related diploid Triticum and Aegilops species
+  doi: 10.1007/s11032-016-0569-5
+- type: journal
+  year: 2016
+  authors: Nguyen, Hanh Thi Thuy ; Dang, Duong Thuy ; van Pham, Cuong ; Bertin, Pierre
+  title: QTL mapping for nitrogen use efficiency and related physiological and agronomical
+    traits during the vegetative phase in rice under hydroponics
+  doi: 10.1007/s10681-016-1778-z
+- type: journal
+  year: 2019
+  authors: Leveau, Lola ; Falys, Hugues ; Bertin, Pierre
+  title: How to value the ecosystem services provided by a field? Parallel between
+    the indicators used by scientists and the empirical observations of belgian farmers
+  doi: 10.3390/proceedings2019030082
+- type: journal
+  year: 2016
+  authors: Dubois, Benjamin ; Bertin, Pierre ; Mingeot, Dominique
+  title: Development of molecular markers in order to assess the α-gliadin immunogenic
+    content of an international spelt collection
+  doi: 10.4172/2329-8863.C1.003
+- type: journal
+  year: 2024
+  authors: Cugnon, Thibaut ; Mahillon, Jacques ; Lambert, Richard
+  title: In vitro anaerobic incubation  a reliable method to predict the potential
+    of nitrogen mineralization after grassland ploughing
+  doi: 10.25518/1780-4507.20613
+- type: journal
+  year: 2023
+  authors: Kokah, Essomandan Urbain ; Knoden, David ; Lambert, Richard ; Himdi, Hamza
+    ; Dumont, Benjamin ; Bindelle, Jérôme
+  title: Modeling the daily dynamics of grass growth of several species according
+    to their functional type, based on soil water and nitrogen dynamics  Gras-Sim
+    model definition, parametrization and evaluation
+  doi: 10.1016/j.jafr.2023.100875
+- type: journal
+  year: 2020
+  authors: Mathot, Mikaël ; Lambert, Richard ; Stilmant, Didier ; Decruyenaere, V.
+  title: Carbon, nitrogen, phosphorus and potassium flows and losses from solid and
+    semi-solid manures produced by beef cattle in deep litter barns and tied stalls
+  doi: 10.1016/j.agsy.2019.102735
+- type: journal
+  year: 2016
+  authors: Hardy, Brieuc ; Cornelis, Jean-Thomas ; Houben, David ; Leifeld, J ; Lambert,
+    Richard ; Dufey, Joseph
+  title: Evaluation of the long-term effect of biochar on properties of temperate
+    agricultural soil at pre-industrial charcoal kiln sites in Wallonia, Belgium
+  doi: 10.1111/ejss.12395
+- type: journal
+  year: 2016
+  authors: Hainaut, Pierre ; Remacle, Thibault ; Decamps, Christian ; Lambert, Richard
+    ; Sadok, Walid
+  title: Higher forage yields under temperate drought explained by lower transpiration
+    rates under increasing evaporative demand
+  doi: 10.1016/j.eja.2015.10.002
+- type: journal
+  year: 2016
+  authors: Hardy, Brieuc ; Cornélis, Jean-Thomas ; Houben, David ; Lambert, Richard
+    ; Dufey, Joseph
+  title: The effect of pre-industrial charcoal kilns on chemical properties of forest
+    soil of Wallonia, Belgium
+  doi: 10.1111/EJSS.12324
+- type: journal
+  year: 2024
   authors: Yang, Nana ; Rongione, Charles ; Jacquemart, Anne-Laure ; Draye, Xavier
     ; De Vleeschouwer, Christophe
   title: On the Importance of Diversity When Training Deep Learning Segmentation Models
@@ -16,7 +1194,7 @@
   year: 2022
   authors: Saint Cast, Clément ; Lobet, Guillaume ; Cabrera-Bosquet, Llorenç ; Couvreur,
     Valentin ; Pradal, Christophe ; Tardieu, François ; Draye, Xavier
-  title: Connecting plant phenotyping and modelling communities lessons from science
+  title: Connecting plant phenotyping and modelling communities  lessons from science
     mapping and operational perspectives
   doi: 10.1093/insilicoplants/diac005
 - type: journal
@@ -78,7 +1256,7 @@
   year: 2019
   authors: Muller, Bertrand ; Guédon, Yann ; Passot, Sixtine ; Lobet, Guillaume ;
     Nacry, Philippe ; Pagès, Loïc ; Wissuwa, Matthias ; Draye, Xavier
-  title: Lateral Roots, Random Diversity in Adversity
+  title: Lateral Roots  Random Diversity in Adversity
   doi: 10.1016/j.tplants.2019.05.011
 - type: journal
   year: 2019
@@ -107,7 +1285,7 @@
   year: 2018
   authors: Couvreur, Valentin ; Faget, Marc ; Lobet, Guillaume ; Javaux, Mathieu ;
     Chaumont, François ; Draye, Xavier
-  title: Going with the Flow, Multiscale Insights into the Composite Nature of Water
+  title: Going with the Flow  Multiscale Insights into the Composite Nature of Water
     Transport in Roots
   doi: 10.1104/pp.18.01006
 - type: journal
@@ -150,7 +1328,7 @@
 - type: journal
   year: 2017
   authors: Tardieu, Francois ; Draye, Xavier ; Javaux, Mathieu
-  title: Root Water Uptake and Ideotypes of the Root System, Whole-Plant Controls
+  title: Root Water Uptake and Ideotypes of the Root System  Whole-Plant Controls
     Matter
   doi: 10.2136/vzj2017.05.0107
 - type: journal
@@ -165,7 +1343,7 @@
   year: 2017
   authors: Meunier, Félicien ; Couvreur, Valentin ; Draye, Xavier ; Vanderborght,
     J. ; Javaux, Mathieu
-  title: Towards quantitative root hydraulic phenotyping, novel mathematical functions
+  title: Towards quantitative root hydraulic phenotyping  novel mathematical functions
     to calculate plant-scale hydraulic parameters from root system functional and
     structural traits
   doi: 10.1007/s00285-017-1111-z
@@ -208,7 +1386,7 @@
     ; Nicolas, S.D. ; Laborde, J. ; Bauland, C. ; Praud, S. ; Ranc, N. ; Presterl,
     T. ; Tuberosa, R. ; Bedo, Z. ; Draye, Xavier ; Usadel, B. ; Charcosset, A. ; Van
     Eeuwijk, F. ; Tardieu, F.
-  title: Genome-wide analysis of yield in Europe, Allelic effects vary with drought
+  title: Genome-wide analysis of yield in Europe  Allelic effects vary with drought
     and heat scenarios
   doi: 10.1104/pp.16.00621
 - type: journal
@@ -253,956 +1431,4 @@
     Magdalena ; Schnepf, Andrea ; Vanderborght, Jan ; Vereecken, Harry ; Javaux, Mathieu
   title: Investigating Soil–Root Interactions with the Numerical Model R-SWMS
   doi: 10.1007/978-1-0716-1816-5_13
-
-
-
-
-
-
-
--  type: journal
-   title: In silico analysis of carbon stabilisation by plant and soil microbes for different weather scenarios
-   authors: Giraud M, Sırcan AK, Streck T, Leitner D, Lobet G, Pagel H, Schnepf A
-   journal: arpa
-   year: 2025
-   preprint: yes
-   open: yes
-   doi: 10.5194/egusphere-2025-572
-   image: img/art-granar.png
-   pdf: https://egusphere.copernicus.org/preprints/2025/egusphere-2025-572/egusphere-2025-572.pdf
-   tags:
-   - model
-   - carbon
-   - water
-   description : > 
-      A plant's development is strongly linked to the water and carbon (C) flows in the soil-plant-atmosphere continuum. Ongoing climate shifts will alter the water and C cycles and affect plant phenotypes. Comprehensive models that simulate mechanistically and dynamically the feedback loops between water and C fluxes in the soil-plant system are useful tools to evaluate the sustainability of genotype-environment-management combinations that do not yet exist. In this study, we present the equations and implementation of a rhizosphere-soil model within the CPlantBox framework, a functional-structural plant model that represents plant processes and plant-soil interactions. The multi-scale plant-rhizosphere-soil coupling scheme previously used for CPlantBox was likewise updated, among others to include an implicit time-stepping. The model was implemented to simulate the effect of dry spells occurring at different plant development stages, and for different soil biokinetic parametrisations of microbial dynamics in soil. We could observe diverging results according to the date of occurrence of the dry spells and soil parametrisations. For instance, an earlier dry spell led to a lower cumulative plant C release, while later dry spells led to higher C input to the soil. For more reactive microbial communities, this higher C input caused a strong increase in CO2 emissions, while, for the same weather scenario, we observed a lasting stabilisation of soil C with less reactive communities. This model can be used to gain insight into C and water flows at the plant scale, and the influence of soil-plant interactions on C cycling in soil.
-      
--  type: journal
-   title: A collection of field-based indicators for assessing ecosystem services in crop fields
-   authors: Leveau L, Biot N, Lobet G, Bertin P
-   journal: arpa
-   year: 2025
-   preprint: yes
-   open: yes
-   doi: 10.3897/arphapreprints.e151539
-   image: img/art-granar.png
-   pdf: https://preprints.arphahub.com/article/151539/
-   tags:
-   - crop
-   - ecosystem services
-   - field
-   - indicators
-   description : > 
-      The transition from intensive crop production to more sustainable practices, such as ecologically intensive cropping systems, requires precise, field-based assessments of Ecosystem Services (ES). These assessments depend on selecting appropriate indicators that can measure the supply of ES directly within crop fields. Despite the growing recognition of ES role in sustainable agriculture, comprehensive lists of field-applicable indicators remain scarce. To address this gap, we present a collection of indicators for assessing ES in cropping systems, specifically designed for in situ measurements. The collection aims to support researchers and practitioners in selecting context-specific indicators that enhance site-specific knowledge for developing sustainable cropping systems. It was derived from the exhaustive list provided by Boerema et al. (2016), which included 507 indicators applicable across various ecosystem types and linked to various data collection methods. It covers provisioning and regulating ES, emphasizing empirical data collection methods such as field observations and remote sensing. Our analysis highlights significant disparities in indicator distribution across ES, cascade levels, and measurement methods, with a predominance of indicators for soil quality regulation and pollination ES. We also identify gaps in field-based assessments, particularly for air quality regulation, life cycle maintenance and water provision. Finally, we underscore the importance of staying alert to emerging indicators driven by recent research trends and technological advancements, such as remote sensing.
-      
--  type: journal
-   title: Decreased root hydraulic traits in German winter wheat cultivars over 100 years of breeding 
-   authors: Baca Cabrera J, Vanderborght J, Boursiac Y, Behrend D, Gaiser T, Nguyen TH, Lobet G
-   journal: Plant Physiology
-   year: 2025
-   open: yes
-   doi: 10.1093/plphys/kiaf166
-   image: img/art-granar.png
-   pdf: https://academic.oup.com/plphys/advance-article-pdf/doi/10.1093/plphys/kiaf166/62999595/kiaf166.pdf
-   tags:
-   - wheat
-   - root
-   - hydraulics
-   - breeding
-   description : > 
-      Wheat (Triticum aestivum L.) plays a vital role in global food security, and understanding its root traits is essential for improving water uptake under varying environmental conditions. This study investigated how over a century of breeding has influenced root morphological and hydraulic properties in six German winter wheat cultivars released between 1895 and 2002. Field and hydroponic experiments were used to measure root diameter, root number, branching density, and whole root system hydraulic conductance (Krs). The results showed a significant decline in root axes number and Krs with release year, while root diameter remained stable across cultivars. Additionally, dynamic functional-structural modeling using the whole-plant model CPlantBox was employed to simulate Krs development with root system growth, revealing that older cultivars consistently had higher hydraulic conductance than modern ones. The combined approach of field phenotyping and modeling provided a comprehensive view of the changes in root traits arising from breeding. These findings suggest that breeding may have unintentionally favored cultivars with smaller root systems and more conservative water uptake strategies under the high-input, high-density conditions of modern agriculture. The results of this study may inform future breeding efforts aimed at optimizing wheat root systems, helping to develop cultivars with water uptake strategies better tailored to locally changing environmental conditions.
-      
--  type: journal
-   title: The importance of distribution channels and food supply chain challenges on the viability of market gardening farms. Insights from market gardeners in Belgium at a territorial level.
-   authors: Biot N, Hecquet C, Maréchal K, Lobet G, Dendoncker N
-   journal: Hal
-   year: 2024
-   preprint: yes
-   open: yes
-   image: img/art-granar.png
-   pdf: https://hal.science/hal-04594127
-   tags:
-   - market gardenning
-   - wallonia
-   description : > 
-      Agroecology is increasingly recognized as a strategy to shift away from industrial agricultural practices and pursue comprehensive transformations in food systems. Previous studies have demonstrated the alignment of market gardening short food supply chains with agroecological principles. However, the viability of small and medium-scale market gardening farms is questioned. Our study explores the socio-economic viability of 18 market gardeners in Coeur de Condroz. We analyze characteristics, distribution channels, and key challenges of market gardeners within the food chain via semi-structured interviews and discuss how they influence the market gardeners’ viability. The low profitability of market gardening farms along with the challenging working conditions raise concerns about the socio-economic viability of market gardening farms. However, this needs to be qualified by looking at how market gardeners actually perceive it and using other indicators than the revenue and profit before taxes. The viability of farms is also influenced by the collaboration among market gardeners, marketing strategies, and challenges within the food chain. The local cooperative plays a vital role in fostering collaboration among market gardeners. Local institutions, catering, and longer distribution channels are currently unviable options for market gardeners due to practical or competitive constrains. Key issues within the food chain encompass limited land availability, skilled workforce scarcity, inadequate training, consumer behavior, and lack of political recognition. Based on these results, we advocate studying short food supply chains for agroecological transitions with a systemic perspective, understanding all actors' needs. Ethically conducted participatory action research, along with other transdisciplinary and participatory methodologies, is crucial for studying and developing agroecological supply chains like market gardening in Coeur de Condroz.
-
--  type: journal
-   title: Root System Architecture Reorganization Under Decreasing Soil Phosphorus Lowers Root System Conductance of Zea mays
-   authors: Bauer F, Baker D, Giraud M, Baca Cabrera J, Vanderborght J, Lobet G, Schnepf A
-   journal: annals of Botany
-   year: 2024
-   open: yes
-   image: img/art-granar.png
-   doi: 10.1093/aob/mcae198
-   tags:
-   - maize
-   - model
-   - water
-   - root
-   - phosphorus
-   description : > 
-      The global supply of phosphorus is decreasing. At the same time, climate change reduces the water availability in most regions of the world. Insights on how decreasing phosphorus availability influences plant architecture is crucial to understand its influence on plant functional properties, such as the root system's water uptake capacity. In this study we investigated the structural and functional responses of Zea mays to varying phosphorus fertilization levels focusing especially on the root system's conductance. A rhizotron experiment with soils ranging from severe phosphorus deficiency to sufficiency was conducted. We measured architectural parameters of the whole plant and combined them with root hydraulic properties to simulate time-dependent root system conductance of growing plants under different phosphorus levels. We observed changes of the root system architecture, characterized by decreasing crown root elongation and reduced axial root radii with declining phosphorus availability. Modeling revealed that only plants with optimal phosphorus availability sustained a high root system conductance, while all other phosphorus levels led to a significantly lower root system conductance, both under light and severe phosphorus deficiency. We postulate that phosphorus deficiency initially enhances root system function for drought mitigation but eventually reduce biomass and impairs root development and water uptake in prolonged or severe cases of drought. Our results also highlight the fact that root system organization, rather than its total size, is critical to estimate important root functions.
-
--  type: journal
-   title: Seedling root system adaptation to water availability during maize domestication and global expansion
-   authors: Yu, Li, Li, He, Wang, Li,  Marcon, Li,  Perez-Limón, Chen, Delgado-Baquerizo, Koller, Metzner,  van Dusschoten, Pflugfelder, Borisjuk, Plutenko, Mahon,  Resende,  Salvi,  Akale,  Abdalla, Ahmed,  Bauer,  Schnepf,  Lobet, Heymans, Suresh, Schreiber, McLaughlin, Li, Mayer, Schön, Bernau, von Wirén, Sawers,  Wang, Hochholdinger
-   journal: Nature Genetics
-   year: 2024
-   image: img/art-granar.png
-   doi: 10.1038/s41588-024-01761-3
-   tags:
-   - maize
-   - model
-   - water
-   - root
-   description : > 
-      The maize root system has been reshaped by indirect selection during global adaptation to new agricultural environments. In this study, we characterized the root systems of more than 9,000 global maize accessions and its wild relatives, defining the geographical signature and genomic basis of variation in seminal root number. We demonstrate that seminal root number has increased during maize domestication followed by a decrease in response to limited water availability in locally adapted varieties. By combining environmental and phenotypic association analyses with linkage mapping, we identified genes linking environmental variation and seminal root number. Functional characterization of the transcription factor ZmHb77 and in silico root modeling provides evidence that reshaping root system architecture by reducing the number of seminal roots and promoting lateral root density is beneficial for the resilience of maize seedlings to drought.      
-
--  type: journal
-   title: CPB-LiDAR, Recovering plant data from LIDAR metrics using structural modeling and machine learning
-   authors: D'Agostino M, Bates J, Lobet G
-   journal: gihut
-   year: 2024
-   image: img/art-granar.png
-   open: yes
-   preprint : yes
-   pdf: https://plant-root-soil-interactions-modelling.github.io/CPB-LiDAR/index.html
-   tags:
-   - shoot
-   - model
-   - machine learning
-   description : > 
-      In this project, we want to investigate the idea of using CPlantBox, a plant structural model, to emulate LiDAR field data, and find relations between LiDAR metrics and plant parameters. CPlantBox is a functional-structural plant model (FSPM) that can generate 3D plant architectures. CPlantBox generates individual plants, and it is possible to loop the process to generate a whole virtual field. Since these virtual fields are composed of nodes and segments, it would be theoritically possible to apply algorithms to extract artificial LiDAR data (Crop Height and Gap Fraction) from it. It would be next possible to loop this process with different sets of plant parameters, and study the sensistivity of artificial LiDAR metrics to these plant parameters. Finally, by inverting the process, it would be possible to build regressions of plant parameters from artificial LiDAR metrics, and therefore bring new insights on LiDAR-based plant status predictions.
-      
-
--  type: journal
-   title: Root hydraulic properties, an exploration of their variability across scales
-   authors: Baca Cabrera J, Vanderborght J, Couvreur C, Behrend D, Gaiser T, Huu Nguyen T, Lobet G
-   journal: plant direct
-   year: 2023
-   image: img/art-granar.png
-   doi: 10.1002/pld3.582
-   open: yes
-   pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/pld3.582
-   tags:
-   - root
-   - water
-   - hydraulics
-   description : > 
-      Root hydraulic properties are key physiological traits that determine the capacity of root systems to take up water, at a specific evaporative demand. They can strongly vary among species, cultivars or even within the same genotype, but a systematic analysis of their variation across plant functional types (PFTs) is still missing. Here, we reviewed published empirical studies on root hydraulic properties at the segment-, individual root-, or root system scale and determined its variability and the main factors contributing to it. We observed an extremely large range of variation (of orders of magnitude) in root hydraulic properties, but this was not caused by systematic differences among PFTs. Rather, the (combined) effect of factors such as root system age, driving force used for measurement, or stress treatments shaped the results. We found a significant decrease in root hydraulic properties under stress conditions (drought and aquaporin inhibition) and a significant effect of the driving force used for measurement (hydrostatic or osmotic gradients). Furthermore, whole root system conductance increased significantly with root system age across several crop species, causing very large variation in the data (> 2 orders of magnitude). Interestingly, this relationship showed an asymptotic shape, with a steep increase during the first days of growth and a flattening out at later stages of development. This behaviour was also observed in simulations with computational plant models, suggesting common patterns across studies and species. These findings provide better understanding of the main causes of root hydraulic properties variations observed across empirical studies. They also open the door to better representation of hydraulic processes across multiple plant functional types and at large scales. All data collected in our analysis has been aggregated into an open access database (https://roothydraulic-properties.shinyapps.io/database/), fostering scientific exchange.
-      
-
--  type: journal
-   title: Collaborative benchmarking of functional structural root architecture models. Quantitative comparison of simulated root water uptake
-   authors: Schnepf A, Black CK, Couvreur V, Delory BM, Doussan C, Heymans A, Javaux M, Khare D, Koch A, Koch T, Kuppe CW, Landl M, Leitner D, Lobet G, Meunier F, Postma JA, Schäfer ED, Selzner T, Vanderborght J, Vereecken H
-   journal: in silico Plants
-   year: 2023
-   image: img/art-granar.png
-   doi: 10.1093/insilicoplants/diad005
-   open: yes
-   pdf: https://academic.oup.com/insilicoplants/advance-article-pdf/doi/10.1093/insilicoplants/diad005/50515619/diad005.pdf
-   tags:
-   - root
-   - water
-   - model
-   description : > 
-      Functional structural root architecture models have evolved as tools for the design of improved agricultural management practices and for the selection of optimal root traits. In order to test their accuracy and reliability, we present the first benchmarking of root water uptake from soil using five well established functional structural root architecture models: DuMux, CPlantBox, RSWMS, OpenSimRoot and SRI. The benchmark scenarios include basic tests for water flow in soil and roots as well as advanced tests for the coupled soil root system. The reference solutions and the solutions of the different simulators are available through Jupyter Notebooks on a GitHub repository. All of the simulators were able to pass the basic tests and continued to perform well in the benchmarks for the coupled soil-plant system. For the advanced tests, we created an overview of the different ways of coupling the soil and the root domains as well as the different methods used to account for rhizosphere resistance to water flow. Although the methods used for coupling and modelling rhizosphere resistance were quite different, all simulators were in reasonably good agreement with the reference solution. During this benchmarking effort, individual simulators were able to learn about their strengths and challenges, while some were even able to improve their code. Some now include the benchmarks as standard tests within their codes. Additional model results may be added to the GitHub repository at any point in the future and will be automatically included in the comparison.
-      
--  type: journal
-   title: CPlantBox, a fully coupled modelling platform for the water and carbon fluxes in the soil–plant–atmosphere continuum
-   authors: Giraud M, Le Gall S, Harings M, Javaux M, Leitner D, Meunier F, Rothfuss Y, van Dusschoten D, Vanderborght J, Vereecken H, Lobet G, Schnepf A
-   journal: in silico Plants
-   year: 2023
-   image: img/art-granar.png
-   doi: 10.1101/2023.04.18.537289v2
-   open: yes
-   pdf: https://doi.org/10.1093/insilicoplants/diad009
-   tags:
-   - root
-   - phloem
-   - xylem
-   - carbon
-   - water
-   description : > 
-      A plant's development is strongly linked to the water and carbon flows in the soil-plant-atmosphere continuum. Expected climate shifts will alter the water and carbon cycles and affect plant phenotypes. Comprehensive models which simulate mechanistically and dynamically the feedback loops between a plant's three-dimensional development and the water and carbon flows are useful tools to evaluate the sustainability of genotype-environment-management combinations which do not yet exist. In this study, we present the latest version of the open-source three-dimensional Functional-Structural Plant Model CPlantBox with PiafMunch and DuMux coupling. We simulated semi-mechanistically the development of generic C3 monocots from 10 to 25 days after sowing and undergoing an atmospheric dry spell of one week (no precipitation). We compared the results for dry spells starting on different days (day 11 or 18) and with different climates (wetter and colder against drier and warmer atmospheric and initial soil conditions). Compared with the wetter and colder climate, the dry spell with the drier and warmer climate led to a lower instantaneous water use efficiency. Moreover, the lower symplasm turgor for the drier and warmer climate limited the growth, which made the sucrose available for other processes, such as maintenance respiration. Both of these effects were stronger for the later dry spell compared with the early dry spell under the drier and warmer climate. We could thus use CPlantBox to simulate diverging emerging processes (like carbon partitioning) defining the plants' phenotypic plasticity response to their environment.
-
--  type: journal
-   title: Phloem anatomy restricts root system architecture development. Theoretical clues from in silico experiments.
-   authors: Zhou X, Scnhepf A, Vanderborgth J, Leitner D, Vereecken H, Lobet G
-   journal: in silico Plants
-   year: 2023
-   image: img/art-granar.png
-   doi: 10.1093/insilicoplants/diad012
-   open: yes
-   pdf: https://academic.oup.com/insilicoplants/article-pdf/5/2/diad012/51728172/diad012.pdf
-   tags:
-   - root
-   - phloem
-   - xylem
-   - carbon
-   - water
-   description : > 
-      Plant growth and development involve the integration of numerous processes, influenced by both endogenous and exogenous factors. At any given time during a plant's life cycle, the plant architecture is a readout of this continuous integration. However, untangling the individual factors and processes involved in the plant development and quantifying their influence on the plant developmental process is experimentally challenging. Here we used a combination of computational plant models to help understand experimental findings about how local phloem anatomical features influence the root system architecture. In particular, we simulated the mutual interplay between the root system architecture development and the carbohydrate distribution to provide a plausible mechanistic explanation for several experimental results. Our in silico study highlighted the strong influence of local phloem hydraulics on the root growth rates, growth duration and final length. The model result showed that a higher phloem resistivity leads to shorter roots due to the reduced flow of carbon within the root system. This effect was due to local properties of individual roots, and not linked to any of the pleiotropic effects at the root system level. Our results open the door to a better representation of growth processes in plant computational models.
-
--  type: journal
-   title: Grain size modulates volcanic ash retention on crop foliage and potential yield loss
-   authors: Ligot N, Bogaert P, Biass S, Lobet G, Delmelle P
-   journal: Natural Hazards and Earth System Sciences
-   year: 2022
-   image: img/art-granar.png
-   doi: 10.5194/egusphere-2022-687
-   open: yes
-   pdf: https://egusphere.copernicus.org/preprints/2022/egusphere-2022-687/
-   tags:
-   - volcano
-   - crop production
-   description : > 
-      Plant phenotyping platforms generate large amounts of high dimensional data at different scales of plant organization. The possibility to use this information as inputs of models is an opportunity to develop models that integrate new processes and genetic inputs. We assessed to what extent the phenomics and modelling communities can address the issues of interoperability and data exchange, using a science mapping approach (i.e. visualization and analysis of a broad range of scientific and technological activities as a whole). In this paper, we (i) evaluate connections, (ii) identify compatible and connectable research topics, and (iii) propose strategies to facilitate connection across communities. We applied a science mapping approach based on reference and term analyses to a set of 4332 scientific papers published by the plant phenomics and modelling communities from 1980 to 2019, retrieved using the Elsevier’s Scopus database and the quantitative-plant.org website. The number of papers on phenotyping and modelling dramatically increased during the past decade, boosted by progress in phenotyping technologies and by key developments at hard- and software levels. The science mapping approach indicated a large diversity of research topics studied in each community. Despite compatibilities of research topics, the level of connection between the phenomics and modelling communities was low. Although phenomics and modelling crucially need to exchange data, the two communities appeared to be weakly connected. We encourage these communities to work on ontologies, harmonized formats, translators and connectors to facilitate transparent data exchange.
-
--  type: journal
-   title: Connecting plant phenotyping and modelling communities. lessons from science mapping and operational perspectives
-   authors: Saint Cast C, Lobet G, Cabrera-Bosquet L, Couvreur V, Pradal C, Tardieu F, Draye X
-   journal: in silico Plants
-   year: 2022
-   image: img/art-granar.png
-   doi: 10.1093/insilicoplants/diac005
-   open: yes
-   pdf: https://academic.oup.com/insilicoplants/advance-article-pdf/doi/10.1093/insilicoplants/diac005/43398038/diac005.pdf
-   tags:
-   - modelling
-   - phenotyping
-   description : > 
-      Ash fall from volcanic eruptions endangers crop production and food security and jeopardises agricultural livelihoods. As population in the vicinity of volcanoes continues to grow, strategies to reduce volcanic risks to and impacts on crops are increasingly needed. This effort involves the use of quantitative relationships for anticipating crop damage from ash exposure. However, current models of crop vulnerability to ash rely solely on ash thickness (or loading) and fail to reproduce the complex interplay of other volcanic and non-volcanic factors that drive impact. Ash retention on crop leaves affects photosynthesis and is ultimately responsible for widespread damage to crops. In this context, we carried out greenhouse experiments to assess how ash grain size, leaf pubescence and humidity conditions at leaf surfaces influence the retention of ash (defined as the percentage of foliar cover coated with ash) in tomato and chilli pepper plants, two crop types commonly grown in volcanic regions. For a fixed ash mass load (~570 g m-2), we found that ash retention decreases exponentially with increasing grain size and is enhanced when leaves are pubescent (such as in tomato) or their surfaces are wet. Assuming that leaf area index (LAI) diminishes with ash retention in tomato and chilli pepper, we derived a new expression for predicting potential crop yield loss after an ash fall event. A corollary result is that the measurement of crop LAI in ash-affected areas may serve as a useful impact metric. Our study demonstrates that quantitative insights into crop vulnerability can be gained rapidly from controlled experiments, thereby providing a mean to improve models that can predict ash risks to crops accurately. We advocate this approach to broaden our understanding of ash-plant interaction and to validate the use of remote sensing methods for assessing crop damage and recovery at various spatial and time scales after an eruption.
-
--  type: journal
-   title: Genetic Variability of Arabidopsis thaliana Mature Root System Architecture and Genome-Wide Association Study
-   authors: Deja-Muylle A, Opdenacker D, Parizot B, Motte H, Lobet G, Storme V, Clauw P, Njo M, Beeckman T
-   journal: Frontiers in Plant Sciences
-   year: 2022
-   image: img/art-granar.png
-   doi: 10.3389/fpls.2021.814110
-   open: yes
-   pdf: https://www.frontiersin.org/articles/10.3389/fpls.2021.814110/pdf
-   tags:
-   - root
-   - phenotyping
-   description : > 
-      Root system architecture (RSA) has a direct influence on the efficiency of nutrient uptake and plant growth, but the genetics of RSA are often studied only at the seedling stage. To get an insight into the genetic blueprint of a more mature RSA, we exploited natural variation and performed a detailed in vitro study of 241 Arabidopsis thaliana accessions using large petri dishes. A comprehensive analysis of 17 RSA traits showed high variability among the different accessions, unveiling correlations between traits and conditions of the natural habitat of the plants. A sub-selection of these accessions was grown in water-limiting conditions in a rhizotron set-up, which revealed that especially the spatial distribution showed a high consistency between in vitro and ex vitro conditions, while in particular, a large root area in the lower zone favored drought tolerance. The collected RSA phenotype data were used to perform genome-wide association studies (GWAS), which stands out from the previous studies by its exhaustive measurements of RSA traits on more mature Arabidopsis accessions used for GWAS. As a result, we found not only several genes involved in the lateral root (LR) development or auxin signaling pathways to be associated with RSA traits but also new candidate genes that are potentially involved in the adaptation to the natural habitats.
-
--  type: journal
-   title: Combining deep learning and automated feature extraction to analyze minirhizotron images. Development and validation of a new pipeline
-   authors: Bauer F, Lärm L, Morandage S, Lobet G, Vanderborght J, Vereecken H, Schnepf A
-   journal: Plant Phenomics
-   year: 2022
-   image: img/art-granar.png
-   doi: 10.34133/2022/9758532
-   open: yes
-   pdf: https://downloads.spj.sciencemag.org/plantphenomics/2022/9758532.pdf
-   tags:
-   - root
-   - phenotyping
-   description: > 
-      Root systems of crops play a significant role in agro-ecosystems. The root system is essential for water and nutrient uptake, plant stability, symbiosis with microbes and a good soil structure. Minirhizotrons, consisting of transparent tubes that create windows into the soil, have shown to be effective to non-invasively investigate the root system. Root traits, like root length observed around the tubes of minirhizotron, can therefore be obtained throughout the crop growing season. Analyzing datasets from minirhizotrons using common manual annotation methods, with conventional software tools, are time consuming and labor intensive. Therefore, an objective method for high throughput image analysis that provides data for field root-phenotyping is necessary. In this study we developed a pipeline combining state-of-the-art software tools, using deep neural networks and automated feature extraction. This pipeline consists of two major components and was applied to large root image datasets from minirhizotrons. First, a segmentation by a neural network model, trained with a small image sample is performed. Training and segmentation are done using “Root-Painter”. Then, an automated feature extraction from the segments is carried out by “RhizoVision Explorer”. To validate the results of our automated analysis pipeline, a comparison of root length between manually annotated and automatically processed data was realized with more than 58,000 images. Mainly the results show a high correlation (R=0.81) between manually and automatically determined root lengths. With respect to the processing time, our new pipeline outperforms manual annotation by 98.1 - 99.6 %. Our pipeline,combining state-of-the-art software tools, significantly reduces the processing time for minirhizotron images. Thus, image analysis is no longer the bottle-neck in high throughput phenotyping approaches.
-
--  type: journal
-   title: Loïc Pagès, founding scientist in root ecology and modelling
-   authors: Root scientists
-   journal: in silico Plants
-   year: 2021
-   image: img/art-granar.png
-   doi: 10.1093/insilicoplants/diab035
-   open: yes
-   pdf: https://academic.oup.com/insilicoplants/article-pdf/3/2/diab035/41513074/diab035.pdf
-   tags:
-   - root
-   - phenotyping
-   - model
-   description : > 
-      Editorial to celebrate the work of Loic Pagès
-
--  type: journal
-   title: Investigating Soil–Root Interactions with the Numerical Model RSWMS
-   authors: Meunier F, Couvreur V, Draye X, Lobet G, Huber K, Schroeder N, Jorda H, Koch A, Landl M, Schnepf A, Vanderborght J, Vereecken H, Javaux M
-   year: 2022
-   image: img/art-granar.png
-   doi: 10.1007/978-1-0716-1816-5_13
-   open: yes
-   pdf: https://link.springer.com/content/pdf/10.1007%2F978-1-0716-1816-5_13.pdf
-   tags:
-   - root
-   - modelling
-   description: > 
-      In this chapter, we present the Root and Soil Water Movement and Solute transport model RSWMS, which can be used to simulate flow and transport in the soil plant system. The equations describing water flow in soil root systems are presented and numerical solutions are provided. An application of RSWMS is then briefly discussed, in which we combine in vivo and in silico experiments in order to decrypt water flow in the soil root domain. More precisely, light transmission imaging experiments were conducted to generate data that can serve as input for the RSWMS model. These data include the root system architecture, the soil hydraulic properties and the environmental conditions (initial soil water content and boundary conditions, BC). Root hydraulic properties were not acquired experimentally, but set to theoretical values found in the literature. In order to validate the results obtained by the model, the simulated and experimental water content distributions were compared. The model was then used to estimate variables that were not experimentally accessible, such as the actual root water uptake distribution and xylem water potential.
-
--  type: journal
-   title: Uncovering natural variation in root system architecture and growth dynamics using a robotics-assisted phenomics platform.
-   authors: LaRue T, Lindner H, Srinivas A, Exposito-Alonso M, Lobet G, Dinneny J
-   journal: eLife
-   year: 2022
-   image: img/art-granar.png
-   doi: 10.7554/eLife.76968
-   open: yes
-   pdf: https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvNzY5NjgvZWxpZmUtNzY5NjgtdjEucGRmP2Nhbm9uaWNhbFVyaT1odHRwczovL2VsaWZlc2NpZW5jZXMub3JnL2FydGljbGVzLzc2OTY4/elife-76968-v1.pdf?_hash=lvjZArz%2ByA%2BlfcoMkB0Q58kLjdjZb9cvr%2FdtOvYsfhw%3D
-   tags:
-   - root
-   - phenotyping
-   description: > 
-      The plant kingdom contains a stunning array of complex morphologies easily observed above ground, but largely unexplored belowground. Understanding the magnitude of diversity in root distribution within the soil, termed root system architecture (RSA), is fundamental to determining how this trait contributes to species adaptation in local environments. Roots are the interface between the soil environment and the shoot system and therefore play a key role in anchorage, resource uptake, and stress resilience. Previously, we presented the GLORoots (Growth and Luminescence Observatory for Roots) system to study the RSA of soil grown Arabidopsis thaliana plants from germination to maturity. In this study, we present the automation of GLORoots using robotics and the development of image analysis pipelines in order to examine the natural variation of RSA in Arabidopsis over time. This dataset describes the developmental dynamics of 93 accessions and reveals highly complex and polygenic RSA traits that show significant correlation with climate variables.
-
--  type: journal
-   title: Évaluations par Cartes Conceptuelles à trous et apprentissage par les pairs
-   authors: Guisset M, Coertjens L, De Jaeger D, Lobet G, Servais O, Wertz V, Willems P, Rees JF
-   journal: Les Annales De QPES 
-   year: 2021
-   image: img/art-granar.png
-   doi: 10.14428/qpes.v1i3.62073
-   open: yes
-   pdf: https://ojs.uclouvain.be/index.php/Annales_QPES/article/view/62073/58263
-   tags:
-   - teaching
-   description: > 
-      Cet article décrit un nouveau dispositif d’évaluation des acquis d’apprentissage basé sur des cartes conceptuelles « à trous » (CCàT) permettant également l’apprentissage par les pairs en grands auditoires durant les tests et une correction automatisée par des formulaires QCM. L’intérêt du dispositif est de garantir une évaluation qualitative (à haut niveau taxonomique) des apprentissages tout en facilitant la conception et la correction de ces évaluations par l’enseignant, même pour de grands groupes d’étudiants (>500) et en favorisant la coopération entre étudiants en amont et pendant les évaluations.
-
--  type: journal
-   title: Evidence for a multicellular symplasmic water pumping mechanism across vascular plant roots
-   authors: Couvreur C, Heymans A, Lobet G, Draye X
-   journal: biorxiv
-   year: 2021
-   image: img/art-granar.png
-   doi: 10.1101/2021.04.19.439789v1
-   open: yes
-   preprint: yes 
-   pdf: https://www.biorxiv.org/content/10.1101/2021.04.19.439789v1
-   tags:
-   - water
-   - root
-   - anatomy
-   description: > 
-      With global warming, climate zones are projected to shift poleward, and the frequency and intensity of droughts to increase, driving threats to crop production and ecosystems. Plant hydraulic traits play major roles in coping with such droughts, and process-based plant hydraulics (water flowing along decreasing pressure Psip or total water potential Psitot gradients) has newly been implemented in land surface models. An enigma reported for the past 35 years is the observation of water flowing along increasing water potential gradients across roots. By combining the most advanced modelling tool from the emerging field of plant microhydrology with pioneering cell solute mapping data, we found that the current paradigm of water flow across roots of all vascular plants is incomplete. It lacks the impact of solute concentration (and thus negative osmotic potential Psio) gradients across living cells. This gradient acts as a water pump as it reduces water tension without loading solutes in plant vasculature (xylem). Importantly, water tension adjustments in roots may have large impacts in leaves due to the tension cavitation feedback along stems. Here, we mathematically demonstrate the water pumping mechanism by solving water flow equations analytically on a triple cell system. Then we show that the simplistic upscaled equations hold in 2 and 3D maize, grapevine and Arabidopsis complex hydraulic anatomies, and that water may flow “uphill” of water potential gradients toward xylem as observed experimentally. Besides its contribution to the fundamental understanding of plant water relations, this study lays new foundations for future multidisciplinary research encompassing plant physiology and ecohydrology, and has the ambition to mathematically capture a keystone process for the accurate forecasting of plant water status in crop models and LSMs.
-   
--  type: journal
-   title: Combining cross section images and modeling tools to create high resolution root system hydraulic atlases in Zea mays
-   authors: Heymans A, Couvreur C, Lobet G
-   journal: biorxiv
-   year: 2020
-   image: img/art-granar.png
-   doi: 10.1002/pld3.334
-   open: yes
-   pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/pld3.334
-   tags:
-   - water
-   - root
-   - analtomy
-   description: >
-      Root hydraulic properties play a central role in the global water cycle, agricultural systems productivity, and ecosystem survival as they impact the global canopy water supply. However, the available experimental methods to quantify root hydraulic conductivities, such as the root pressure probing, are particularly challenging and their applicability on thin roots and small root segments is limited. There is a gap in methods enabling easy estimations of root hydraulic conductivities across a diversity of root types and at high resolution along root axes. In this case study, we analysed Zea mays (maize) plants of the var. B73 that were grown in pots for 14 days. Root cross-section data were used to extract anatomical measurements. We used the Generator of Root Anatomy in R (GRANAR) model to generate root anatomical networks from anatomical features. Then we used the Model of Explicit Cross section Hydraulic Anatomy (MECHA) to compute an estimation of the root axial and radial hydraulic conductivities (kx and kr, respectively), based on the generated anatomical networks and cell hydraulic properties from the literature. The root hydraulic conductivity maps obtained from the root cross-sections suggest significant functional variations along and between different root types. Predicted variations of kr along the root axis were strongly dependent on the maturation stage of hydrophobic barriers. The same was also true for the maturation rates of the metaxylem. The different anatomical features, as well as their evolution along the root type add significant variation to the kr estimation in between root type and along the root axe. Under the prism of root types, anatomy, and hydrophobic barriers, our results highlight the diversity of root radial and axial hydraulic conductivities, which may be veiled under low resolution measurements of the root system hydraulic conductivity. While predictions of our root hydraulic maps match the range and trend of measurements reported in the literature, future studies could focus on the quantitative validation of hydraulic maps. From now on, a novel method, which turns root cross section images into hydraulic maps will offer an inexpensive and easily applicable investigation tool for root hydraulics, in parallel to root pressure probing experiments.
-
-
--  type: journal
-   title: QuoVidi, an open-source web application for the organisation of large scale biological treasure hunts
-   authors: Lobet G, Descamps C, Leveau L, Guillet A, Rees JF
-   journal: Ecology and Evolution
-   year: 2020
-   image: img/art-granar.png
-   doi: 10.1002/ece3.7130
-   open: yes
-   pdf: https://www.biorxiv.org/content/10.1101/2020.06.30.177006v1.full.pdf
-   tags:
-   - teaching
-   - web
-   - active learning
-   description: >
-      Learning biology, and in particular systematics, requires learning a substantial amount of specific vocabulary, both for botanical and zoological studies. While crucial, the precise identification of structures serving as evolutionary traits and systematic criteria is not per se a highly motivating task for students. Teaching this in a traditional teaching setting is quite challenging especially with a large crowd of students to be kept engaged. This is even more difficult if, as during the COVID-19 crisis, students are not allowed to access laboratories for hands-on observation on fresh specimens and sometimes restricted to short-range movements outside their home. Here we present QuoVidi, a new open-source web platform for the organisation of large scale treasure hunts. The platform works as follows: students, organised in teams, receive a list of quests that contain morphologic, ecologic or systematic terms. They have to first understand the meaning of the quest, then go and find them in the environment. Once they find the organism corresponding to a quest, they upload a geotagged picture of their find and submit this on the platform. The correctness of each submission is evaluated by the staff. During the COVID-19 lockdown, previously validated pictures were also submitted for evaluation to students that were locked in low-biodiversity areas. From a research perspective, the system enables the creation of large image databases by the students, similar to citizen-science projects. Beside the enhanced motivation of students to learn the vocabulary and perform observations on self-found specimens, this system allows faculties to remotely follow and assess the work performed by large numbers of students. The interface is freely available, open source and customizable. It can be used in other disciplines with adapted quests and we expect it to be of interest in many classroom settings.
-
--  type: journal
-   title: Value of sun-induced chlorophyll fluorescence for quantifying hydrological states and fluxes. Current status and challenges
-   authors: Jonard F, De Cannière S, Brüggeman N, Gentine P, Gianottid DJS, Lobet G, Miralles D, Montzka C, Pagán BR, Rascher U, Vereecken H
-   journal: Agricultural and Forest Meteorology
-   year: 2020
-   image: img/art-granar.png
-   doi: 10.1016/j.agrformet.2020.108088
-   open: no
-   pdf: https://www.sciencedirect.com/science/article/pii/S0168192320301908/pdfft?md5=f93486df6caa6b0df9e0dfb8d0004cbc&pid=1-s2.0-S0168192320301908-main.pdf
-   tags:
-   - water
-   - SIF
-   - model
-   description: >
-      Predictions of hydrological states and fluxes, especially transpiration, are poorly constrained in hydrological models due to large uncertainties in parameterization and process description. Novel technologies like remote sensing of sun induced chlorophyll fluorescence (SIF), which provides information from the photosynthetic apparatus, may help in constraining water cycle components. This paper discusses the nature of the plant physiological basis of the fluorescence signal and analyses the current literature linking hydrological states and fluxes to SIF. Given the connection between photosynthesis and transpiration, through the water use efficiency, SIF may serve as a pertinent constraint for hydrological models. The FLuorescence EXplorer (FLEX) satellite, planned to be launched in 2023, is expected to provide spatially high resolution measurements of red and far red SIF complementing the products from existing satellite missions and the high temporal resolution products from upcoming geostationary missions. This new data stream may allow us to better constrain plant transpiration, assess the impacts of water stress on plants, and infer processes occurring in the root zone through the soil plant water column. To make optimal use of this data, progress needs to be made in 1) our process representation of spatially aggregated fluorescence signals from spaceborne SIF instruments, 2) integration of fluorescence processes in hydrological models—particularly when paired with other satellite data, 3) quantifying the impact of soil moisture on SIF across scales, and 4) assessment of the accuracy of SIF measurements—especially from space.
-
-
--  type: journal
-   title: Collaborative benchmarking of functional-structural root architecture models. The case of root water uptake.
-   authors: Schnepf A, Black CK, Couvreur V, Delory BM, Doussan C, Koch A, Koch T, Javaux M, Landl M, Leitner D, Lobet G, Mai TH, Meunier F, Petrich L, Postma JA, Priesack E, Schmidt V, Vanderborght J, Vereecken H, Weber M
-   journal: Frontiers in Plant Sciences
-   year: 2020
-   image: img/art-granar.png
-   doi: 10.3389/fpls.2020.00316
-   open: yes
-   pdf: https://www.frontiersin.org/articles/10.3389/fpls.2020.00316/pdf
-   tags:
-   - water
-   - root
-   - model
-   description: >
-      Three-dimensional models of root growth, architecture and function are becoming important tools that aid the design of agricultural management schemes and the selection of beneficial root traits. However, while benchmarking is common in many disciplines that use numerical models such as natural and engineering sciences, functional-structural root architecture models have never been systematically compared. The following reasons might induce disagreement between the simulation results of different models: different representation of root growth, sink term of root water and solute uptake and representation of the rhizosphere. Presently, the extent of discrepancies is unknown, and a framework for quantitatively comparing functional-structural root architecture models is required. We propose, in a first step, to define benchmarking scenarios that test individual components of complex models: root architecture, water flow in soil and water flow in roots. While the latter two will focus mainly on comparing numerical aspects, the root architectural models have to be compared at a conceptual level as they generally differ in process representation. Therefore defining common inputs that allow recreating reference root systems in all models will be a key challenge. In a second step, benchmarking scenarios for the coupled problems are defined. We expect that the results of step 1 will enable us to better interpret differences found in step 2. This benchmarking will result in a better understanding of the different models and contribute towards improving them. Improved models will allow us to simulate various scenarios with greater confidence and avoid bugs, numerical errors or conceptual misunderstandings. This work will set a standard for future model development.
-
-
--  type: journal
-   title: CPlantBox, a whole plant modelling framework for the simulation of water and carbon related processes
-   authors: Zhou X, Schnepf A, Vanderborght J, Leitner D, Lacointe A, Vereecken H, Lobet G
-   journal: in silico Plants
-   year: 2020
-   doi: 10.1093/insilicoplants/diaa001
-   open: yes
-   pdf: https://academic.oup.com/insilicoplants/advance-article-pdf/doi/10.1093/insilicoplants/diaa001/31876474/diaa001.pdf
-   tags:
-   - water
-   - carbon
-   - shoot
-   - root
-   - model
-   description: >
-      The interaction between carbon and flows within the plant is at the center of most growth and developmental processes. Understanding how these fluxes influence each other, and how they respond to heterogeneous environmental conditions, is important to answer diverse questions in forest, agriculture and environmental sciences. However, due to the high complexity of the plant environment system, specific tools are needed to perform such quantitative analyses.Here we present CPlantBox, full plant modelling framework based on the root system model CRootBox. CPlantbox is capable of simulating the growth and development of a variety of plant architectures (root and shoot). In addition, the flexibility of CPlantBox enables its coupling with external modeling tools. Here, we connected it to an existing mechanistic model of water and carbon flows in the plant, PiafMunch.The usefulness of the CPlantBox modelling framework is exemplified in four case studies. Firstly, we illustrate the range of plant structures that can be simulated using CPlantBox. In the second example, we simulated diurnal carbon and water flows, which corroborates published experimental data. In the third case study, we simulated impacts of heterogeneous environment on carbon and water flows. Finally, we showed that our modelling framework can be used to fit phloem pressure and flow speed to (published) experimental data. The CPlantBox modelling framework is open-source, highly accessible and flexible. Its aim is to provide a quantitative framework for the understanding of plant-environment interaction.
-
--  type: journal
-   title: GRANAR, a new computational tool to better understand the functional importance of root anatomy
-   authors: Heymans A, Couvreur V, Larue T, Paez Garcia A, Lobet G
-   journal: Plant Physiology
-   year: 2020
-   image: img/art-granar.png
-   doi: 10.1104/pp.19.00617
-   open: yes
-   pdf: http://www.plantphysiol.org/content/plantphysiol/early/2019/11/19/pp.19.00617.full.pdf
-   tags:
-   - water
-   - root
-   - model
-   - anatomy
-   description: >
-      Root hydraulic conductivity is an important determinant of plant water uptake capacity. In particular, the root radial conductivity is often thought to be a limiting factor along the water pathways between the soil and the leaf. The root radial conductivity is itself defined by cell scale hydraulic properties and anatomical features. However, quantifying the influence of anatomical features on the radial conductivity remains challenging due to complex, and time-consuming, experimental procedures. We present a new computation tool, the Generator of Root ANAtomy in R (GRANAR) that can be used to rapidly generate digital versions of root anatomical networks. GRANAR uses a limited set of root anatomical parameters, easily acquired with existing image analysis tools. The generated anatomical network can then be used in combination with hydraulic models to estimate the corresponding hydraulic properties. We used GRANAR to re-analyse large maize (Zea mays) anatomical datasets from the literature. Our model was successful at creating virtual anatomies for each experimental observation. We also used GRANAR to generate anatomies not observed experimentally, over wider ranges of anatomical parameters. The generated anatomies were then used to estimate the corresponding radial conductivities with the hydraulic model MECHA. This enabled us to quantify the effect of individual anatomical features on the root radial conductivity. In particular, our simulations highlight the large importance of the width of the stele and the cortex. GRANAR is an open-source project available here: http://granar.github.io .
-
--  type: journal
-   title: MARSHAL, a novel tool for virtual phenotyping of maize root system hydraulic architectures
-   authors: Meunier F, Heymans A, Draye X,Couvreur V, Lobet G, Javaux M
-   journal: in silico Plants
-   year: 2020
-   image: img/art-granar.png
-   doi: 10.1093/insilicoplants/diz012
-   open: yes
-   pdf: https://academic.oup.com/insilicoplants/advance-article-pdf/doi/10.1093/insilicoplants/diz012/31064488/diz012.pdf
-   tags:
-   - water
-   - root
-   - model
-   description: >
-      Functional-structural root system models combine functional and structural root traits to represent the growth and development of root systems. In general, they are characterized by a large number of growth, architectural and functional root parameters, generating contrasted root systems evolving in a highly nonlinear environment (soil, atmosphere), which makes unclear what impact of each single root system on root system functioning actually is. On the other end of the root system modelling continuum, macroscopic root system models associate to each root system instance a set of plant-scale, easily interpretable parameters. However, as of today, it is unclear how these macroscopic parameters relate to root-scale traits and whether the upscaling of local root traits are compatible with macroscopic parameter measurements. The aim of this study was to bridge the gap between these two modelling approaches by providing a fast and reliable tool, which eventually can help performing plant virtual breeding. We describe here the MAize Root System Hydraulic Architecture soLver (MARSHAL), a new efficient and user-friendly computational tool that couples a root architecture model (CRootBox) with fast and accurate algorithms of water flow through hydraulic architectures and plant-scale parameter calculations, and a review of architectural and hydraulic parameters of maize. To illustrate the tool's potential, we generated contrasted maize hydraulic architectures that we compared with architectural (root length density) and hydraulic (root system conductance) observations. Observed variability of these traits was well captured by model ensemble runs We also analyzed the multivariate sensitivity of mature root system conductance, mean depth of uptake, root system volume and convex hull to the input parameters to highlight the key parameters to vary for efficient virtual root system breeding. MARSHAL enables inverse optimisations, sensitivity analyses and virtual breeding of maize hydraulic root architecture. It is available as an R package, an RMarkdown pipeline, and a web application.
-
-
--  type: journal
-   title: Lateral Roots, Random Diversity in Adversity
-   authors: Muller B, Guédon Y, Passot S, Lobet G, Nacry P, Pagès L, Wissuwa M, Draye X
-   journal: Trends in Plant Science
-   year: 2019
-   image: img/art-tips-lat.png
-   doi: 10.1016/j.tplants.2019.05.011
-   pdf: https://paperpile.com/app/p/f9039a66-4491-0bea-a8e4-ce4c04649bba
-   tags:
-   - randomness
-   - root
-   - model
-   description: >
-       Lateral roots are essential for soil foraging and uptake of minerals and water. They feature a large morphological diversity that results from divergent primordia or root growth and development patterns. Besides a structured diversity, resulting from the hierarchical and developmental organization of root systems, there exists a random diversity, occurring between roots of similar age, of the same hierarchical order, and exposed to uniform conditions. The physiological bases and functional consequences of this random diversity are largely ignored. Here we review the evidence for such random diversity throughout the plant kingdom, present innovative approaches based on statistical modeling to account for such diversity, and set the list of its potential benefits in front of a variable and unpredictable soil environment.
-
--  type: journal
-   title: Accuracy of image analysis tools for functional root traits. A comment on Delory et al., 2017
-   authors: Rose L,Lobet G
-   journal: Methods in Ecology and Evolution
-   year: 2019
-   image: img/art-rose.png
-   doi: 10.1111/2041-210X.13156
-   pdf: https://paperpile.com/app/p/e1a7b10b-8caf-0c2f-ac67-5ee33a88da72
-   tags:
-   - image analysis
-   - root
-   description: >
-      Root traits get increasing attention as functional equivalents of aboveground traits. Image analysis software such as WinRhizo and IJRhizo facilitate root trait analyses. Delory et al., 2017 presented a comparison between the accuracy of WinRhizo and IJRhizo for measuring root length. We complement their analyses with a comparison of diameter and volume estimates and a comparison of different image resolutions with manual and automatic threshold. We analysed 100 images of fibrous and taproot systems, which were obtained by using the root model ArchiSimple. As a result, for each image, diameter, length and volume were known. The images were analysed with WinRhizo and IJRhizo and we compared the estimates of diameter, length, and volume to groundtruth values. We further computed relative errors and their magnitude and analysed their dependency on image characteristics and root system properties. At 1200 and 800 dpi, diameter and length estimates provided by WinRhizo and IJRhizo were of comparable accuracy. Diameter errors were balanced. Volume estimates were subjected to a systematic error caused by the assumption of constant diameter. WinRhizo, however, provides the opportunity to calculate correctly computed volumes from diameter classes. At 1200 dpi, IJRhizo failed to automatically find an appropriate threshold for pixel classification, which fundamentally decreased accuracy. The magnitude of diameter errors increased with root overlap for IJRhizo. The length errors increased with increasing root length, overlap and root length density for WinRhizo. The magnitude of underestimation of the volume (WinRhizo) decreased with volume. It was higher for taproot than for fibrous root systems. All errors increased with lower resolution. Our results confirm the results of Delory et al., 2017 regarding the accuracy for length. They further confirm that estimates derived from different software packages or at different resolution should not be compared directly. The characteristics of root systems should be standardized for image analysis. The dependency of errors on the response variable of interest can influence the effect size and increase the probability of errors. Validation of methods should be conducted for each analysed dataset. New image analysis tools should be validated against a real groundtruth.
-
- 
--  type: journal
-   title: Going with the flow. Multiscale insights into the composite nature of water transport in roots
-   authors: Couvreur V, Faget M, Lobet G, Javaux M, Chaumont F, Draye X
-   journal: Plant Physiology
-   year: 2018
-   open: yes
-   pdf: http://www.plantphysiol.org/content/early/2018/10/26/pp.18.01006.full.pdf
-   doi: 10.1104/pp.18.01006
-   image: img/art-mecha.jpg
-   tags:
-   - anatomy
-   - root
-   - water
-   - model
-   citations: 1.0
-   description: >
-      As water often limits crop production, a more complete understanding of plant water capture and transport is necessary. Here, we developed MECHA, a mathematical model that computes the flow of water across the root at the scale of walls, membranes, and plasmodesmata of individual cells, and used it to test hypotheses related to root water transport in maize (Zea mays). The model uses detailed root anatomical descriptions and a minimal set of experimental cell properties, including the conductivity of plasma membranes (Lp), cell walls, and plasmodesmata, which yield quantitative and scale consistent estimations of water pathways and root radial hydraulic conductivity (kr). MECHA revealed that the mainstream hydraulic theories derived independently at the cell and root segment scales are compatible only if osmotic potentials within the apoplastic domains are uniform. Results suggested that the convection-diffusion of apoplastic solutes explained most of the offset between estimated kr in pressure clamp and osmotic experiments, while the contribution of water-filled intercellular spaces was limited. Furthermore, sensitivity analyses quantified the relative impact of cortex and endodermis cell Lp on root kr and suggested that only the latter substantially contributed to kr due to the composite nature of water flow across roots. The explicit root hydraulic anatomy framework brings insights into contradictory interpretations of experiments from the literature and suggests experiments to efficiently address questions pertaining to root water relations. Its scale-consistency opens avenues for cross-scale communication in the world of root hydraulics.
-   other: >
-      We made a shiny app as companion for the paper. It is available here: [https://plantmodelling.shinyapps.io/mecha/]()
- 
--  type: journal
-   title: Connecting the dots between computational tools to analyse soil-root water relations
-   authors: Passot S, Couvreur C, Meunier F, Draye X, Javaux M, Leitner D, Pagès L, Schnepf A, Vanderborght J, Lobet G
-   journal: Journal of Experimental Botany
-   year: 2018
-   image: img/water_network.jpg
-   open: yes
-   doi: 10.1093/jxb/ery361 
-   pdf: https://academic.oup.com/jxb/advance-article-pdf/doi/10.1093/jxb/ery361/26078207/ery361.pdf
-   tags:
-   - root
-   - phenotyping
-   - modelling
-   - image analysis
-   description: >
-      In the recent years, many computational tools, such as image analysis, data management, process-based simulation and upscaling tools, were developed to help quantify and understand water flow in the soil-root system, at multiple scales (tissue, organ, plant and population). Several of these tools work together or, at least, are compatible. However, for the un-informed researcher, they might seem disconnected, forming a unclear and disorganised succession of tools. In this article, we present how different pieces of work can be further developed by connecting them to analyse soil-root-water relations in a comprehensive and structured network. This explicit network of soil-root computational tools informs the reader about existing tools and help them understand how their data (past and future) might fit within the network. We also demonstrate the novel possibilities of scale-consistent parameterizations made possible by the network with a set of case studies from the literature. Finally, we discuss existing gaps in the network and how we can move forward to fill them.
-   other: >
-      We made a shiny app as companion for the paper. It is available here: [https://plantmodelling.shinyapps.io/water_network/]()
- 
-   
--  type: journal
-   title: Demystifying roots, A need for clarification and extended concepts in root phenotyping
-   authors: Lobet G, Paez-Garcia A, Schneider H, Junker A, Atkinson J, Tracy S 
-   journal: Plant Science
-   year: 2018
-   doi: 10.1016/j.plantsci.2018.09.015
-   image: img/demystifying.png
-   pdf: https://paperpile.com/shared/I6gUVN
-   tags:
-   - root
-   - phenotyping
-   description: >
-      Plant roots have major roles in plant anchorage, resource acquisition and offer environmental benefits including carbon sequestration and soil erosion mitigation. As such, the study of root system architecture, anatomy and functional properties is of crucial interest to plant breeding, with the aim of sustainable yield production and environmental stewardship. Due to  the importance of the root system studies, there is a  need for clarification of terms and concepts in the root phenotyping community. In particular in this contribution, we advocate for the use of a reference naming system (ontologies) for roots and root phenes. Such uniformity would not only allow better understanding of research results, but would also enable a better sharing of data. In addition, we highlight the need to incorporate the concept of plasticity in breeding programs, as it is an essential component of root system development in heterogeneous environments. 
-      
-   
--  type: journal
-   title: EZ-Root-VIS, A Software Pipeline for the Visual Reconstruction of Averaged Root System Architecture   
-   authors: Shahzad Z, Kellermeier F, Armstrong E, Rogers S, Lobet G, Hills , Amtmann A
-   journal: Plant Physiology
-   year: 2018
-   image: img/art-rootvis.jpg
-   open: yes
-   pdf: http://www.plantphysiol.org/content/early/2018/06/12/pp.18.00217.full.pdf
-   doi: 10.1104/pp.18.00217
-   tags:
-   - root
-   - visualisation
-   description: >
-      If we want to understand how the environment has shaped the appearance and behavior of living creatures we need to compare groups of individuals that differ in genetic make-up and environment experience. For complex phenotypic features, such as body posture or facial expression in humans, comparison is not straightforward because some of the contributing factors cannot easily be quantified or averaged across individuals. Therefore computational methods are used to reconstruct representative prototypes using a range of algorithms for filling in missing information and calculating means. The same problem applies to the root system architecture (RSA) of plants. Several computer programs are available for extracting numerical data from root images but they usually do not offer customized data analysis or visual reconstruction of RSA. We have developed Root-VIS, a free software tool, which facilitates the determination of means and variance of many different RSA features across user-selected sets of root images. Furthermore, Root-VIS offers several options to generate visual reconstructions of root systems from the averaged data to enable screening and modelling. We have confirmed the suitability of Root-VIS, combined with a new version of EZ-Rhizo, for the rapid characterization of genotype-environment interactions and gene discovery through genome-wide association studies in Arabidopsis.
-      
-   
--  type: journal
-   title: Impact of crop residue management on crop production and soil chemistry after seven years of crop rotation in temperate climate, loamy soils
-   authors: Hiel MP, Barbieux S, Pierreux J, Olivier C, Lobet G, Roisin C, Garré S, Colinet G, Bodson B, Dumont B
-   journal: PeerJ
-   year: 2018
-   image: img/art-peerj.jpg
-   open: yes
-   doi: 10.7717/peerj.4836
-   pdf: https://peerj.com/articles/4836.pdf
-   tags:
-   - field
-   - agriculture
-   - soil
-   description: >
-      Society is increasingly demanding a more sustainable management of agro-ecosystems in a context of climate change and an ever growing global population. The fate of crop residues is one of the important management aspects under debate, since it represents an unneglectable quantity of organic matter which can be kept in or removed from the agro-ecosystem. The topic of residue management is not new, but the need for global conclusion on the impact of crop residue management on the agro-ecosystem linked to local pedo-climatic conditions has become apparent with an increasing amount of studies showing a diversity of conclusions. This study specifically focusses on temperate climate and loamy soil using a seven-year data set. Between 2008 and 2016, we compared four contrasting residue management strategies differing in the amount of crop residues returned to the soil (incorporation vs. exportation of residues) and in the type of tillage (reduced tillage (10 cm depth) vs. conventional tillage (ploughing at 25 cm depth)) in a field experiment. We assessed the impact of the crop residue management on crop production (three crops—winter wheat, faba bean and maize—cultivated over six cropping seasons), soil organic carbon content, nitrate (NO3), phosphorus (P) and potassium (K) soil content and uptake by the crops. The main differences came primarily from the tillage practice and less from the restitution or removal of residues. All years and crops combined, conventional tillage resulted in a yield advantage of 3.4% as compared to reduced tillage, which can be partly explained by a lower germination rate observed under reduced tillage, especially during drier years. On average, only small differences were observed for total organic carbon (TOC) content of the soil, but reduced tillage resulted in a very clear stratification of TOC and also of P and K content as compared to conventional tillage. We observed no effect of residue management on the NO3 content, since the effect of fertilization dominated the effect of residue management. To confirm the results and enhance early tendencies, we believe that the experiment should be followed up in the future to observe whether more consistent changes in the whole agro-ecosystem functioning are present on the long term when managing residues with contrasted strategies.
-   
-
--  type: journal
-   title: A New Phenotyping Pipeline Reveals Three Types of Lateral Roots and a Random Branching Pattern in Two Cereals
-   authors: Passot S, Moreno-Ortega B, Moukouanga D, Balsera C, GUYOMARC'H S, Lucas M, Lobet G, Laplaze L, Muller B, Guédon Y 
-   journal: Plant Physiology
-   year: 2018
-   image: img/art-lateral.jpg
-   doi: 10.1104/pp.17.01648
-   pdf: http://www.plantphysiol.org/content/early/2018/05/11/pp.17.01648.full-text.pdf
-   open: yes
-   tags:
-   - root
-   - phenotyping
-   description: >
-      Recent progresses in root phenotyping focused mainly on increasing throughput for genetic studies while the identification of root developmental patterns has been comparatively underexplored. We introduce a new phenotyping pipeline for producing high-quality spatio-temporal root system development data and identifying developmental patterns within these data. This pipeline combining the SmartRoot image analysis system with temporal and spatial statistical models was applied to two cereals, pearl millet and maize. Semi-Markov switching linear models were used to cluster lateral roots based on their growth rate profiles. These models revealed three types of lateral roots with similar characteristics in both species. A first type corresponds to fast and accelerating roots, a second to rapidly arrested roots and a third to an intermediate type where roots cease elongation after a few days. These types were retrieved in different proportions in a maize mutant affected in auxin signaling while the most vigorous type was absent in maize plants exposed to severe shading. High correlations between these lateral root types and anatomical traits were found in pearl millet. Potential dependencies in the succession of lateral root types along the primary root were then analyzed using variable-order Markov chains. The lateral root type was neither influenced by the shootward neighbor root type nor by the distance from this root. This random branching pattern of primary roots was remarkably conserved despite the high variability of root systems in both species. Our pipeline opens the door to an exploration of the genetic variability of lateral root developmental patterns.
-
--  type: journal
-   title: CRootBox, A Structural-Functional Modelling Framework For Root Systems
-   authors: Schnepf A, Leitner D, Landl M, Lobet G, Hieu Mai T, Morandage S, Sheng C, Zoerner M, Vanderborght J, Vereecken H
-   journal: Annals of Botany
-   year: 2018
-   url: https://doi.org/10.1093/aob/mcx221
-   pdf: https://paperpile.com/shared/Y3OVEr
-   doi: 10.1093/aob/mcx221
-   image: img/art-crootbox.jpg
-   tags:
-   - root
-   - phenotyping
-   citations: 1.0
-   description: >
-      Root architecture development determines the sites in soil where roots provide input of carbon and take up water and solutes. However, root architecture is difficult to determine experimentally when grown in opaque soil. Thus, root architectural models have been widely used and been further developed into functional-structural models that simulate the fate of water and solutes in the soil-root system. We present a root architectural model, CRootBox, as a flexible framework to model architecture and its interactions with static and dynamic soil environments. CRootBox is a C++-based root architecture model with Python binding, so that CRootBox can be included via a shared library into any Python code. Output formats include VTP, DGF, RSML and CSV. We further created a database of published root architectural parameters. The capabilities of CRootBox for the unconfined growth of single root systems, as well as the different parameter sets, are highlighted into a freely available web application. We demonstrate the use of CRootBox for 5 different cases (1) free growth of individual root systems (2) growth of root systems in containers as a way to mimic experimental setups, (3), field scale simulation, (4) root growth as affected by heterogeneous, static soil conditions, and (5) coupling CRootBox with Soil Physics with Python code to dynamically compute water flow in soil, root water uptake, and water flow inside roots. In conclusion, we present a fast and flexible functional-structural root model which is based on state-of-the-art computational science methods. Its aim is to facilitate modelling of root responses to environmental conditions as well as the impact of root on soil. In the future, we plan to extend this approach to the aboveground part of the plant.
-
--  type: journal
-   title: Measuring root system traits of wheat in 2D images to parameterize 3D root architecture models
-   authors: Landl M, Schnepf A, Vanderborght J, Bengough G, Bauke S, Lobet G, Bol R, Vereecken H
-   journal: Plant and Soil
-   year: 2018
-   image: img/art-magda.jpg
-   doi: 10.1007/s11104-018-3595-8
-   pdf: https://paperpile.com/shared/WdNtUQ
-   tags:
-   - root
-   - modelling
-   description: >
-      The main difficulty in the use of 3D root architecture models is correct parameterization. We evaluated distributions of the root traits inter-branch distance, branching angle and axial root trajectories from contrasting experimental systems to improve model parameterization.. We analyzed 2D root images of different wheat varieties (Triticum Aestivum) from three different sources using automatic root tracking. Model input parameters and common parameter patterns were identified from extracted root system coordinates. Simulation studies were used to (1) link observed axial root trajectories with model input parameters (2) evaluate errors due to the 2D (versus 3D) nature of image sources and (3) investigate the effect of model parameter distributions on root foraging performance. Distributions of inter-branch distances were approximated with lognormal functions. Branching angles showed mean values <90°. Gravitropism and tortuosity parameters were quantified in relation to downwards reorientation and segment angles of root axes. Root system projection in 2D increased the variance of branching angles. Root foraging performance was very sensitive to parameter distribution and variance. Conclusions 2D image analysis can systematically and efficiently analyze root system architectures and parameterize 3D root architecture models. Effects of root system projection (2D from 3D) and deflection (at rhizotron face) on size and distribution of particular parameters are potentially significant
-
--  type: journal
-   title: archiDART v3.0, A new data analysis pipeline allowing the topological analysis of plant root systems
-   authors: Delory B, Li M, Topp C, Lobet G
-   journal: F1000Research
-   year: 2018
-   pdf: https://f1000research.com/articles/7-22/v1/pdf
-   doi: 10.12688/f1000research.13541.1
-   image: img/art-archidart-2.jpg
-   open: yes
-   tags:
-   - root
-   citations: 0
-   description: >
-    Quantifying plant morphology is a very challenging task that requires methods able to capture the geometry and topology of plant organs at various spatial scales. Recently, the use of persistent homology as a mathematical framework to quantify plant morphology has been successfully demonstrated for leaves, shoots, and root systems. In this paper, we present a new data analysis pipeline implemented in the R package archiDART to analyse root system architectures using persistent homology. In addition, we also show that both geometric and topological descriptors are necessary to accurately compare root systems and assess their natural complexity.
-   other: >
-      This paper was <a href="https://www.nature.com/articles/d41586-018-01322-9?utm_source=twt_nnc&utm_medium=social&utm_campaign=naturenews&sf180719177=1">featured in Nature News</a>, for its interactive figure. 
- 
--  type: journal
-   title: Teaching Tools in Plant Biology, Phenomics of root system architecture
-   authors: York L, Lobet G
-   journal: The Plant Cell
-   year: 2017
-   pdf: http://www.plantcell.org/highwire/filestream/68693/field_highwire_adjunct_files/1/TTPB36LectureNotes.pdf
-   doi: 10.1105/tpc.117.tt0917
-   image: img/art-teaching.jpg
-   pmid: 29018159
-   open: yes
-   tags:
-   - root
-   - image analysis
-   - phenotyping
-   citations: 0.0e+00
-   description: >
-      Currently, the worldwide root research community is growing and becoming more active than ever. In the past few years, researchers have combined the latest technologies to image and quantify root systems (e.g., digital photography, x-ray computed tomography, transparent soils, high-throughput 3D reconstructions, or fluorescence-based imaging systems), generating an exciting landscape of new research strategies. In addition, recent collaborative efforts have led to the design of a common language for the description and storage of root architecture information. These technological innovations and robust standards have ushered in a new era in root research, namely, root phenomics. Phenomics is the scientific discipline concerned with the measure and study of phenotypes (physical form and function). Here, we will review the most recent advances in the phenomics of root system architecture and provide a comprehensive introduction to computational approaches that are becoming the new standards in root research.
-   other: >
-      This paper is part of the serie *Teaching Tools in Plant Biology* by The Plant Cell journal.
-
--  type: journal
-   title: Combining semi-automated image analysis techniques with machine learning
-      algorithms to accelerate large scale genetic studies
-   authors: Atkinson J*, Lobet G*, Noll M, Meyer P, Griffiths M, Wells D
-   journal: GigaScience
-   year: 2017
-   pdf: https://academic.oup.com/gigascience/article-pdf/doi/10.1093/gigascience/gix084/19566986/gix084.pdf
-   doi: 10.1093/gigascience/gix084
-   image: img/art-combining.jpg
-   pmid: 29020748
-   open: yes
-   tags:
-   - machine learning
-   - image analysis
-   citations: 4.0
-   description: >
-      Genetic analyses of plant root systems require large datasets of extracted architectural traits. To quantify such traits from images of root systems, researchers often have to choose between automated tools (that are prone to error and extract only a limited number of architectural traits) or semi-automated ones (that are highly time consuming).
-      We trained a Random Forest algorithm to infer architectural traits from automatically extracted image descriptors. The training was performed on a subset of the dataset, then applied to its entirety. This strategy allowed us to (i) decrease the image analysis time by 73% and (ii) extract meaningful architectural traits based on image descriptors. We also show that these traits are sufficient to identify Quantitative Trait Loci that had previously been discovered using a semi-automated method.
-      We have shown that combining semi-automated image analysis with machine learning algorithms has the power to increase the throughput of large scale root studies. We expect that such an approach will enable the quantification ofmore complex root systems for genetic studies. We also believe that our approach could be extended to other areasof plant phenotyping
-
-
--  type: journal
-   title: Image analysis in plant science. Publish then perish
-   authors: Lobet G
-   journal: Trends in Plant Science
-   year: 2017
-   url: https://www.cell.com/trends/plant-science/fulltext/S1360138517300912
-   pdf: http://dial.uclouvain.be/downloader/downloader.php?pid=boreal%3A185092&datastream=PDF_01&disclaimer=ac143aadb0a86f06d89dc8e54d73b666a5bb4330bed2f02019e63ae3b1db9b5b
-   doi: 10.1016/j.tplants.2017.05.002
-   image: img/art-publish.jpg
-   pmid: 28571940
-   tags:
-   - plant
-   - image analysis
-   - open science
-   citations: 5.0
-   description: >
-      Image analysis has become a powerful technique for most plant scientists. In recent years dozens of image analysis tools have been published in plant science journals. These tools cover the full spectrum of plant scales, from single cells to organs and canopies. However, the field of plant image analysis remains in its infancy. It still has to overcome important challenges, such as the lack of robust validation practices or the absence of long-term support. In this Opinion article, I: (i) present the current state of the field, based on data from the plant-image-analysis.org database; (ii) identify the challenges faced by its community; and (iii) propose workable ways of improvement.
-   other: >
-      The review made the cover of Trends in Plant Science in June 2017.
-   quote:  >
-      \rule{\linewidth}{0.2pt} This is a timely article, and one which correctly characterises key issues facing those creating and using image analysis tools in the biological sciences. The data presented is interesting and informative, and biologists using image analysis tools should be made aware of the issues raised in this paper.\\ \hspace*{\fill} [ Anonymous Reviewer 2 ]
-
--  type: journal
-   title: An evaluation of inexpensive methods for root image acquisition when using
-      rhizotrons
-   authors: Mohamed A, Monnier Y, Mao Z, Lobet G, Maeght J-L, Ramel M, Stokes A
-   journal: Plant Methods
-   year: 2017
-   url: http://plantmethods.biomedcentral.com/articles/10.1186/s13007-017-0160-z
-   pdf: http://plantmethods.biomedcentral.com/track/pdf/10.1186/s13007-017-0160-z?site=plantmethods.biomedcentral.com
-   doi: 10.1186/s13007-017-0160-z
-   image: img/smartphone.jpg
-   pmid: 28286541
-   open: yes
-   tags:
-   - root
-   - phenotyping
-   citations: 1.0
-   description: >
-      Belowground processes play an essential role in ecosystem nutrient cycling and the global carbon budget cycle. Quantifying fine root growth is crucial to the understanding of ecosystem structure and function and in predicting how ecosystems respond to climate variability. A better understanding of root system growth is necessary, but choosing the best method of observation is complex, especially in the natural soil environment. Here, we compare five methods of root image acquisition using inexpensive technology that is currently available on the market: flatbed scanner, handheld scanner, manual tracing, a smartphone application scanner and a time-lapse camera. Using the five methods, root elongation rate (RER) was measured for three months, on roots of hybrid walnut (Juglans nigra × Juglans regia L.) in rhizotrons installed in agroforests. When all methods were compared together, there were no significant differences in relative cumulative root length. However, the time-lapse camera and the manual tracing method significantly overestimated the relative mean diameter of roots compared to the three scanning methods. The smartphone scanning application was found to perform best overall when considering image quality and ease of use in the field. The automatic time-lapse camera was useful for measuring RER over several months without any human intervention. Our results show that inexpensive scanning and automated methods provide correct measurements of root elongation and length (but not diameter when using the time-lapse camera). These methods are capable of detecting fine roots to a diameter of 0.1 mm and can therefore be selected by the user depending on the data required.
-
--  type: journal
-   title: Using a structural root system model to evaluate and improve the accuracy
-      of root image analysis pipelines
-   authors: Lobet G, Koevoets I, Tocquin P, Pagès L, Périlleux C
-   journal: Frontiers in Plant Science
-   year: 2017
-   url: http://journal.frontiersin.org/article/10.3389/fpls.2017.00447/abstract
-   doi: 10.3389/fpls.2017.00447
-   pdf: http://journal.frontiersin.org/article/10.3389/fpls.2017.00447/pdf
-   image: img/segment.jpg
-   pmid: 28421089
-   open: yes
-   tags:
-   - root
-   - rsml
-   - modelling
-   - image analysis
-   citations: 4.0
-   description: >
-      Root system analysis is a complex task, often performed with fully automated image analysis pipelines. However, the outcome is rarely verified by ground-truth data, which might lead to underestimated biases. We have used a root model, ArchiSimple, to create a large and diverse library of ground-truth root system images (10,000). For each image, three levels of noise were created. This library was used to evaluate the accuracy and usefulness of several image descriptors classically used in root image analysis softwares. Our analysis highlighted that the accuracy of the different traits is strongly dependent on the quality of the images and the type, size, and complexity of the root systems analyzed. Our study also demonstrated that machine learning algorithms can be trained on a synthetic library to improve the estimation of several root system traits. Overall, our analysis is a call to caution when using automatic root image analysis tools. If a thorough calibration is not performed on the dataset of interest, unexpected errors might arise, especially for large and complex root images. To facilitate such calibration, both the image library and the different codes used in the study have been made available to the community.
-   other: >
-      This paper was one of the <a href="https://blog.frontiersin.org/2017/12/15/2017-frontiers-in-plant-science-highlights/">2017 highlights from Frontiers in Plant Science</a>
-
--  type: dataset
-   title: Root phenotyping data
-   authors: Bouché F, D Alioa M, Tocquin P, Lobet G, Detry N, Périlleux C
-   journal: Zenodo
-   year: 2016
-   url: https://zenodo.org/record/50831
-   doi: 10.5281/zenodo.50831
-   image: img/dataset_flowering.jpg
-   open: yes
-   tags:
-   - root
-   - rsml
-   citations: '0'
-   description: >
-
--  type: dataset
-   title: LaTeX thesis template
-   authors: Lobet G
-   journal: github
-   year: 2017
-   url: https://github.com/guillaumelobet/latex_thesis
-   image: img/latex.jpg
-   open: yes
-   tags: design
-   citations: '0'
-
--  type: dataset
-   title: CRootBox parameter files
-   authors: Schnepf A, Leitner D, Lobet G, Mai T H, Zörner M, Landl M, Sheng C, Morandage
-      S, Vanderborght J, Vereecken H
-   journal: figshare
-   year: 2017
-   url: https://doi.org/10.6084/m9.figshare.c.3745478.v1
-   doi: 10.6084/m9.figshare.c.3745478.v1
-   image: img/dataset_crootbox.jpg
-   open: yes
-   tags: root
-   citations: '0'
-
--  type: dataset
-   title: Library of simulated root images, with degradations
-   authors: Lobet G, Koevoet T I, Noll M, Tocquin P, Meyer P E, Pagès L, Périlleux C
-   journal: Zenodo
-   year: 2016
-   url: https://dx.doi.org/10.5281/zenodo.208214
-   doi: 10.5281/zenodo.208214
-   image: img/dataset_library.jpg
-   open: yes
-   tags: root
-   citations: '0'
-
--  type: dataset
-   title: Maize root emergence
-   authors: Lobet G
-   journal: figshare
-   year: 2015
-   url: https://dx.doi.org/10.6084/m9.figshare.1411214.v1
-   doi: 10.6084/m9.figshare.1411214.v1
-   image: img/dataset_emergence.jpg
-   open: yes
-   tags: root
-   citations: '0'
-
-
--  type: journal
-   title: Integrating roots into a whole plant network of flowering time genes in Arabidopsis thaliana
-   authors: Bouché F, D Alioa M, Tocquin P, Lobet G, Detry N, Périlleux C
-   journal: Scientific Reports
-   open: yes
-   volume: 6
-   year: 2016
-   pages: 29042
-   url: http://www.nature.com/articles/srep29042
-   pdf: http://www.nature.com/articles/srep29042.pdf
-   doi: 10.1038/srep29042
-   image: img/microarrays.jpg
-   pmid: 27352932
-   tags:
-   - root
-   - flowering
-   citations: 3.0
-   description: >
-      Molecular data concerning the involvement of roots in the genetic pathways regulating floral transition are lacking. In this study, we performed global analyses of the root transcriptome in Arabidopsis in order to identify flowering time genes that are expressed in the roots and genes that are differentially expressed in the roots during the induction of flowering. Data mining of public microarray experiments uncovered that about 200 genes whose mutations are reported to alter flowering time are expressed in the roots (i.e. were detected in more than 50% of the microarrays). However, only a few flowering integrator genes passed the analysis cutoff. Comparison of root transcriptome in short days and during synchronized induction of flowering by a single 22-h long day revealed that 595 genes were differentially expressed. Enrichment analyses of differentially expressed genes in root tissues, gene ontology categories, and cis-regulatory elements converged towards sugar signaling. We concluded that roots are integrated in systemic signaling, whereby carbon supply coordinates growth at the whole plant level during the induction of flowering. This coordination could involve the root circadian clock and cytokinin biosynthesis as a feed forward loop towards the shoot.
-
--  type: journal
-   title: Environmental Control of Root System Biology
-   authors: Rellan-Alvarez R*, Lobet G*, Dinneny J
-   journal: Annual Reviews in Plant Biology
-   volume: in press
-   year: 2016
-   month: ~
-   url: http://www.annualreviews.org/doi/abs/10.1146/annurev-arplant-043015-111848
-   pdf: https://t.co/x3rlbVjwXn
-   pmid: 26905656
-   doi: 10.1146/annurev-arplant-043015-111848
-   review: yes
-   image: img/art-envi.jpg
-   tags:
-   - root
-   - modelling
-   citations: 18.0
-   description: >
-      The plant root system traverses one of the most complex environments on earth. Understanding how roots support plant life on land requires knowing how soil properties affect the availability of nutrients and water and how roots manipulate the soil environment to optimize acquisition of these resources. Imaging of roots in soil allows the integrated analysis and modeling of environmental interactions occurring at micro- to macroscales. Advances in phenotyping of root systems is driving innovation in cross-platformcompatible methods for data analysis. Root systems acclimate to the environment through architectural changes that act at the root-type level as well as through tissue-specific changes that affect the metabolic needs of the root and the efficiency of nutrient uptake. A molecular understanding of the signaling mechanisms that guide local and systemic signaling is providing insight into the regulatory logic of environmental responses and has identified points where crosstalk between pathways occurs.
-
--  type: journal
-   title: FLOR-ID, an interactive database of flowering-time gene networks in Arabidopsis
-      thaliana
-   authors: Bouché F*, Lobet G*, Tocquin P, Périlleux C
-   journal: Nucleic Acid Research
-   volume: in press
-   pages: 1-5
-   year: 2015
-   open: yes
-   month: ~
-   pdf: http://nar.oxfordjournals.org/content/early/2015/10/15/nar.gkv1054.full.pdf
-   pmid: 26476447
-   doi: 10.1093/nar/gkv1054
-   f1000: 725855174
-   image: img/art-florid.jpg
-   tags:
-   - flowering
-   - database
-   citations: 28.0
-   description: >
-      Flowering is a hot topic in Plant Biology and important progress has been made in Arabidopsis thaliana toward unraveling the genetic networks involved. The increasing complexity and the explosion of literature however require development of new tools for information management and update. We therefore created an evolutive and interactive database of flowering time genes, named FLOR-ID (FloweringInteractive Database), which is freely accessible at http://www.flor-id.org. The hand-curated database contains information on 306 genes and links to 1595 publications gathering the work of >4500 authors. Gene/protein functions and interactions within the flowering pathways were inferred from the analysis of related publications, included in the database and translated into interactive manually drawn snapshots
-   other: >
-      The database was <a href="https://f1000.com/prime/725855174?bd=1">recommended on the F1000 platform</a>. It was also featured in the <a href="https://floweringhighlights.org/2016/01/21/flowering-highlights-a-database-for-all-things-flowering-by-frank-wellmer/">Flowering Highlight</a> from the Journal of Experimental Botany. You can also find a <a href="https://www.youtube.com/watch?v=yyp8W5A0L88">video describing the database on Youtube</a>.
-   quote: >
-      \rule{\linewidth}{0.2pt}
-      \textbf{F1000 Recommended:} FLOR-ID presents an impressive effort in bringing together literature on flowering-time regulation in Arabidopsis. Pathways are presented as interconnected schemes with the possibility of accessing individual gene information such as mutant phenotype or post-translational regulation. Every scheme presents data in a very explicit way, making this database ideal for newcomers to the field or for teaching.\\ 
-      \hspace*{\fill} [F. Parcy, CNRS]
-
--  type: journal
-   title: archiDART, an R package for the automated 2D computation of plant root architectural
-      traits
-   authors: Delory B, Baudson C, Brostaux Y, Lobet G, du Jardin P, Pagès L, Delaplace P
-   journal: Plant and Soil
-   volume: in press
-   pages: 1-15
-   year: 2015
-   month: ~
-   pdf: https://www.dropbox.com/s/onakb6kkvonclvv/RevisedManuscript_PlantSoil_2015.pdf?dl=0
-   doi: 10.1007/s11104-015-2673-4
-   image: img/art-archidart.jpg
-   tags:
-   - data analysis
-   - root
-   citations: 6.0
-   description: >
-      In order to analyse root system architectures (RSAs) from captured images, a variety of manual (e.g. Data Analysis of Root Tracings, DART), semi-automated and fully automated software packages have been developed. These tools offer complementary approaches to study RSAs and the use of the Root System Markup Language (RSML) to store RSA data makes the comparison of measurements obtained with different (semi-) automated root imaging platforms easier. The throughput of the data analysis process using exported RSA data, however, should benefit greatly from batch analysis in a generic data analysis environment (R software). We developed an R package (archiDART) with five functions. It computes global RSA traits, root growth rates, root growth directions and trajectories, and lateral root distribution from DART-generated and/or RSML files. It also has specific plotting functions designed to visualise the dynamics of root system growth. The results demonstrated the ability of the package’s functions to compute relevant traits for three contrasted RSAs (Brachypodium distachyon [L.] P. Beauv., Hevea brasiliensis Müll. Arg. and Solanum lycopersicum L.). This work extends the DART software package and other image analysis tools supporting the RSML format, enabling users to easily calculate a number of RSA traits in a generic data analysis environment.
-
--  type: journal
-   title: GLO-Roots, an imaging platform enabling multidimensional characterization
-      of soil grown root systems
-   authors: Rellán-Álvarez R, Lobet G, Hildner H, Pradier PL, Sebastian J, Yee C, Yu G, LaRue T, Trontin C, Nieu R, Vogel J, Dinneny J
-   journal: eLife
-   volume: ~
-   pages: ~
-   year: 2015
-   open: yes
-   month: ~
-   pdf: http://elifesciences.org/content/4/e07597.full.pdf
-   pmid: 26287479
-   doi: 10.7554/eLife.07597
-   image: img/art-gloroot.jpg
-   tags:
-   - root
-   - phenotyping
-   citations: 45.0
-   description: >
-      Root systems develop different root types that individually sense cues from their local environment and integrate this information with systemic signals. This complex multi-dimensional amalgam of inputs enables continuous adjustment of root growth rates, direction, and metabolic activity that define a dynamic physical network. Current methods for analyzing root biology balance physiological relevance with imaging capability. To bridge this divide, we developed an integrated-imaging system called Growth and Luminescence Observatory for Roots (GLO-Roots) that uses luminescence-based reporters to enable studies of root architecture and gene expression patterns in soil-grown, light-shielded roots. We have developed image analysis algorithms that allow the spatial integration of soil properties, gene expression, and root system architecture traits. We propose GLO-Roots as a system that has great utility in presenting environmental stimuli to roots in ways that evoke natural adaptive responses and in providing tools for studying the multi-dimensional nature of such processes.
-
--  type: journal
-   title: Root System Markup Language. Toward an unified root architecture description
-      language
-   authors: Lobet G, Pound MP, Diener J, Pradal C, Draye X, Godin C, Javaux M, Leitner D, Meunier F, Nacry P, Pridmore TP, Schnepf A
-   journal: Plant Physiology
-   volume: 167
-   pages: 617-627
-   year: 2015
-   month: March
-   open: yes
-   pdf: http://www.plantphysiol.org/content/early/2015/01/22/pp.114.253625.full.pdf+html
-   pmid: 25614065
-   doi: 10.1104/pp.114.253625
-   image: img/art-rsml.jpg
-   tags:
-   - root
-   - image analysis
-   - modelling
-   - data analysis
-   citations: 35.0
-   description: >
-      The number of image analysis tools supporting the extraction of architectural features of root systems has increased in recent years. These tools offer a handy set of complementary facilities, yet it is widely accepted that none of these software tools is able to extract in an efficient way the growing array of static and dynamic features for different types of images and species. We describe the Root System Markup Language (RSML), which has been designed to overcome two major challenges: (1) to enable portability of root architecture data between different software tools in an easy and interoperable manner, allowing seamless collaborative work; and (2) to provide a standard format upon which to base central repositories that will soon arise following the expanding worldwide root phenotyping effort. RSML follows the XML standard to store two- or three-dimensional image metadata, plant and root properties and geometries, continuous functions along individual root paths, and a suite of annotations at the image, plant, or root scale at one or several time points. Plant ontologies are used to describe botanical entities that are relevant at the scale of root system architecture. An XML schema describes the features and constraints of RSML, and open-source packages have been developed in several languages (R, Excel, Java, Python, and C#) to enable researchers to integrate RSML files into popular research workflow.
-   quote: >
-      \rule{\linewidth}{0.2pt}
-      It is clear that the language will help empower plant biologists and computation scientist working in root phenotyping and modeling fields to leverage and share work more efficiently with others.\\ 
-      \hspace*{\fill} [ Anonymous Reviewer 2 ]
-
-
--  type: journal
-   title: Rhizoponics, a novel hydroponic rhizotron for root system analyses on mature
-      Arabidopsis thaliana plants
-   authors: Mathieu L*, Lobet G*, Tocquin P, Périlleux C
-   journal: Plant Methods
-   volume: 11
-   pages: 1-7
-   year: 2015
-   open: yes
-   month: March
-   pdf: http://www.plantmethods.com/content/pdf/s13007-015-0046-x.pdf
-   pmid: 25657812
-   doi: 10.1186/s13007-015-0046-x
-   image: img/art-rhizoponics.jpg
-   tags:
-   - root
-   - shoot
-   - phenotyping
-   citations: 19.0
-   description: >
-      Well-developed and functional roots are critical to support plant life and reach high crop yields. Their study however, is hampered by their underground growth and characterizing complex root system architecture (RSA) therefore remains a challenge. In the last few years, several phenotyping methods, including rhizotrons and x-ray computed tomography, have been developed for relatively thick roots. But in the model plant Arabidopsis thaliana, in vitro culture remains the easiest and preferred method to study root development, which technically limits the analyses to young seedlings. We present here an innovative design of hydroponic rhizotrons (rhizoponics) adapted to Arabidopsis thaliana. The setup allows to simultaneously characterize the RSA and shoot development from seedling to adult stages, i.e. from seed to seed. This system offers the advantages of hydroponics such as control of root environment and easy access to the roots for measurements or sampling. Being completely movable and low cost, it can be used in controlled cabinets. We chose the case of cadmium treatment to illustrate potential applications, from cell to organ levels. Rhizoponics makes possible, on the same plants of Arabidopsis, RSA measurements, root sampling and characterization of aerial development up to adult size. It therefore provides a valuable tool for addressing fundamental questions in whole plant physiology.
 
