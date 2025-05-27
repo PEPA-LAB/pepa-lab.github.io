@@ -10,7 +10,7 @@ background: '/img/bg-field-4.png'
 {% endfor %}
 
 
-{{ site.data.personal.intro.title | markdownify }}
+<h4>Welcome to our lab website !</h4>
 
     We are the <b>Plant Ecology, ecoPhysiology and sustainable Agriculture lab</b>, from the Earth and Life Institute [Agronomy] from the UCLouvain, in Belgium. 
 
@@ -28,11 +28,17 @@ background: '/img/bg-field-4.png'
 
 <hr>
 
+> Beyond research, we care
+
+<hr>
+
 <h4>Latest publications from the lab</h4>
 
-{% for publication in site.data.publications limit:3 %}
+{% assign sorted_publications = site.data.publications | where: "type", "journal" | sort: "year" | reverse %}
 
-	<small>{{ counter3 }}</small> | <strong class="mb-1">{{ publication.title }}</strong>
+{% for publication in sorted_publications limit:3 %}
+
+	<strong class="mb-1">{{ publication.title }}</strong>
  	{% if publication.open %}
     	<span style="color: green;"><i class="far fa-lock-open"></i></span>
   	{% endif %}
