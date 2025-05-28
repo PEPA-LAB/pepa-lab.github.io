@@ -1,7 +1,7 @@
 -
   name: RootPhair
   description: > 
-    In the RootPhair aeroponics platform, roots growing unimpeded can be accessed non-invasively. With backlight illumination, sharp images are produced on 1000 plants with a 2-hr time resolution. The short displacement of roots in one time lapse makes it possible to track the progression of root tips during more than two weeks.   image: /img/crootbox_1.jpg
+    In the RootPhair aeroponics platform, roots growing unimpeded can be accessed non-invasively. With backlight illumination, sharp images are produced on 1000 plants with a 2-hr time resolution. The short displacement of roots in one time lapse makes it possible to track the progression of root tips during more than two weeks. 
   url: https://www.uclouvain.be/en/research-institutes/eli/elia/rootphair
   image: /img/tool-rootphair.png
   tags:
@@ -13,7 +13,7 @@
 -
   name: Root Hydraulic Database
   description: > 
-    We compiled an online database that corresponds to a systematic review of scientific articles in which root hydraulic properties were determined empirically. The relevant data presented in the publications was digitilized manually and can be easily accesed thorugh this application.
+    We compiled an online database that corresponds to a systematic review of scientific articles in which root hydraulic properties were determined empirically. The relevant data presented in the publications was digitilized manually and can be easily accesed through this application.
   image: /img/tool-root-hydraulic.png
   url: https://roothydraulic-properties.shinyapps.io/database/
   tags:

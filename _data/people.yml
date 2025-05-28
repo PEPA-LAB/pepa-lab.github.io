@@ -13,8 +13,8 @@
     - modelling
     - hydraulics
     - maize
-    - tomato
     - trees
+    - transition
 
 -
   name: Xavier Draye
@@ -30,6 +30,7 @@
     - genetics
     - robotics
     - statistics
+    - wizard
 
 -
   name: Anne-Laure Jacquemart
@@ -75,6 +76,7 @@
     - nitrogen
     - pasture
     - fertilisation
+    - Michamps
 
 -
   name: Pierre Bertin
@@ -109,6 +111,7 @@
     - field
     - plant physiology equipment
     - phenotyping platform
+    - paté
 -
   name: Pierre Vanthorre
   description: >
@@ -123,6 +126,7 @@
     - field
     - taxonomy
     - weeds
+    - basketery
 -
   name: Christel Buyens
   description: >
@@ -145,6 +149,7 @@
   tags:
     - admin
     - secretary
+
 -
   name: Robin Watteyne
   description: >
@@ -204,6 +209,7 @@
     - water
     - modelling   
     - phenotyping
+    - walking
 
 -
   name: Salomé Lengrand (she/her)
@@ -218,6 +224,7 @@
     - wheat
     - architecture
     - nitrogen
+    - metagenomics
 
 
 
@@ -277,6 +284,7 @@
     - remote sensing
     - sentinel
     - yield
+    - belcam
 -
   name: Josephine Guyot
   description: >
@@ -289,6 +297,7 @@
     - root
     - nitrogen
     - maize
+    - climbing
 
 -
   name: Lena Jeannerod
@@ -302,6 +311,8 @@
     - bee
     - pollinators
     - pollen
+
+
 -
   name: Monica Rothwell
   description: >
@@ -314,6 +325,7 @@
     - root
     - hydraulics
     - trees
+
 -
   name: Théo Degand
   description: >
@@ -327,6 +339,7 @@
     - hydraulics
     - tomato
     - maize
+    - evil twin #1
 
 -
   name: Lola Leveau
@@ -384,6 +397,7 @@
     - anatomy
     - modelling
     - socks
+    - evil twin #2
     
 -
   name: Nicolas Biot (he/him)
@@ -399,6 +413,7 @@
     - food system
     - participatory research
     - market gardenning  
+    - birds
     
 
 
