@@ -286,6 +286,20 @@
     - yield
     - belcam
 -
+  name: Corentin Defalque
+  description: >
+    tes
+  researcher: yes
+  current: yes
+  phd: yes
+  image: peep-defalque.jpeg
+  tags:
+    - root
+    - wheat
+    - drooght
+    - ccp
+
+-
   name: Josephine Guyot
   description: >
     tes
