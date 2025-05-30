@@ -11,7 +11,10 @@ form: false
     </button>
   </div>
 
+  <h3>Ressources and databases</h3>
+
     {% for tool in site.data.tools %}
+      {% if tool.ressource %}
 
       <h4 class="mb-1">{{ tool.name }}</h4>
       
@@ -40,7 +43,82 @@ form: false
       <br><br>
       
       <hr>
+      {% endif %}
     {% endfor %}
+
+
+  <h3>Computational models</h3>
+
+    {% for tool in site.data.tools %}
+      {% if tool.model %}
+
+      <h4 class="mb-1">{{ tool.name }}</h4>
+      
+      {% if tool.tags %}
+        {% for tag in tool.tags %}
+        <button type="button" class="btn btn-outline-secondary btn-sm mt-1">
+          <i class="fal fa-tag mr-1"></i>{{tag}}
+        </button>
+        {% endfor %}
+      {% endif %} 
+
+      <p class="mb-1"><p>{{ tool.description | markdownify }}</p>
+      
+      {% if tool.image %}
+        <img src="{{ tool.image }}" alt="{{ tool.name }}" class="img-fluid mb-2" style="border-radius: 5px;">
+      {% endif %}
+
+
+      {% if tool.url %}
+      <div class="float-right">
+        <a href="{{ tool.url }}" class="btn btn-outline-primary btn-sm" target="_blank">
+          <i class="fal fa-external-link"></i> More
+        </a>
+      </div>
+      {% endif %}
+      <br><br>
+      
+      <hr>
+      {% endif %}
+    {% endfor %}    
+
+
+
+
+  <h3>Phenotyping tools</h3>
+
+    {% for tool in site.data.tools %}
+      {% if tool.phenotyping %}
+
+      <h4 class="mb-1">{{ tool.name }}</h4>
+      
+      {% if tool.tags %}
+        {% for tag in tool.tags %}
+        <button type="button" class="btn btn-outline-secondary btn-sm mt-1">
+          <i class="fal fa-tag mr-1"></i>{{tag}}
+        </button>
+        {% endfor %}
+      {% endif %} 
+
+      <p class="mb-1"><p>{{ tool.description | markdownify }}</p>
+      
+      {% if tool.image %}
+        <img src="{{ tool.image }}" alt="{{ tool.name }}" class="img-fluid mb-2" style="border-radius: 5px;">
+      {% endif %}
+
+
+      {% if tool.url %}
+      <div class="float-right">
+        <a href="{{ tool.url }}" class="btn btn-outline-primary btn-sm" target="_blank">
+          <i class="fal fa-external-link"></i> More
+        </a>
+      </div>
+      {% endif %}
+      <br><br>
+      
+      <hr>
+      {% endif %}
+    {% endfor %}    
 
 
   </div>
