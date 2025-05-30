@@ -41,7 +41,8 @@ form: false
     <div class="float-right">
       {% if publication.doi %}
         <a class="btn btn-outline-secondary btn-sm mb-1" href="https://dx.doi.org/{{ publication.doi }}" target="_blank"><i class="fal fa-link"></i></a>
-
+      {% endif %}
+      
       {% if publication.pdf %}
         <a class="btn btn-outline-secondary btn-sm mb-1" href="{{ publication.pdf }}" target="_blank"><i class="fal fa-file-alt"></i></a>
       {% endif %}
