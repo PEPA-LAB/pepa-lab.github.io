@@ -1,4 +1,28 @@
 -
+  name: biologievegetale.be
+  description: > 
+    Ce site web est un outil pédagogique regroupant plusieurs modules dédicacés à la biologie végétale, depuis la systématique jusqu’à l’écologie en passant par la physiologie. Vous pouvez donc vous initier et vous perfectionner dans ces matières, en particulier en réalisant les quizz et autres activités. Ce site est mis à jour régulièrement car il est utilisé en partie dans le cadre d’enseignements à l’UCLouvain.
+  url: https://biologievegetale.be/
+  image: /img/prj-bioveg.png
+  ressource: yes
+  tags:
+    - botany 
+    - teaching
+    - plant physiology
+
+-
+  name: Botalgorithme
+  description: > 
+    BotAlgorithme is a project that aims at making plant computational models accessible to an audience as large as possible. We are convinced that plant models are unique tools for teaching complex plant processes. Currently, our preferred process is the regulation of the root water intake.
+  url: http://www.botalgorithme.be/
+  image: /img/prj-botalgorithm.png
+  ressource: yes
+  tags:
+    - botany 
+    - modelling
+    - online tools
+
+-
   name: RootPhair
   description: > 
     In the RootPhair aeroponics platform, roots growing unimpeded can be accessed non-invasively. With backlight illumination, sharp images are produced on 1000 plants with a 2-hr time resolution. The short displacement of roots in one time lapse makes it possible to track the progression of root tips during more than two weeks. 

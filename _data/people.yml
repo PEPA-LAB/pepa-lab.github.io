@@ -40,10 +40,9 @@
   current: yes
   image: peep-jacquemart.png
   tags:
-    - plant
-    - pollinators
-    - interactions
-    - pollen
+    - plant ecology
+    - plant systematics,
+    - nature based restoration
 -
   name: Guillaume Lobet
   description: >
@@ -259,6 +258,18 @@
 
 
 
+
+-
+  name: Byron Medina Torres
+  description: >
+    tes
+  researcher: yes
+  phd: yes
+  current: yes
+  image: peep-medina-torres.jpeg
+  tags:
+    - restoration
+    - grassland
 
 -
   name: Brice Sinhouenon
