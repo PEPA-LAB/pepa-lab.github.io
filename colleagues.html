@@ -2,7 +2,7 @@
 layout: page
 title: Our Team
 background: '/img/bg-field-3.png'
-form: false
+form: fa-regularse
 ---
 
   <div class="alert alert-info">
@@ -38,24 +38,19 @@ form: false
                   {% if people.tags %}
                         {% for tag in people.tags %}
                         <button type="button" class="btn btn-outline-secondary btn-sm mt-1">
-                          <i class="fal fa-tag mr-1"></i>{{tag}}
+                          <i class="fa-regular fa-tag mr-1"></i>{{tag}}
                         </button>
                         {% endfor %}
                   {% endif %} 
 
                 {% if people.alumni %}
-                  <button type="button" class="btn btn-outline-success btn-sm mt-1"><i class="fal fa-user mr-1"></i>emeritus</button>
+                  <button type="button" class="btn btn-outline-success btn-sm mt-1"><i class="fa-regular fa-user mr-1"></i>emeritus</button>
                 {% endif %} 
 
-                {% if people.twitter %}
-                  <a href="https://twitter.com//{{ people.twitter }}" class="btn btn-outline-primary btn-sm mb-1" target="_blank">
-                    <i class="fab fa-twitter"></i> {{ people.twitter }}
-                  </a>
-                {% endif %}
 
                 {% if people.url %}
                   <a href="{{ people.url }}" class="btn btn-outline-primary btn-sm mb-1" target="_blank">
-                    <i class="fal fa-external-link"></i> Website
+                    <i class="fa-regular fa-external-link"></i> Website
                   </a>
                 {% endif %}
               </div>
@@ -93,30 +88,25 @@ form: false
                   {% if people.tags %}
                         {% for tag in people.tags %}
                         <button type="button" class="btn btn-outline-secondary btn-sm mt-1">
-                          <i class="fal fa-tag mr-1"></i>{{tag}}
+                          <i class="fa-regular fa-tag mr-1"></i>{{tag}}
                         </button>
                         {% endfor %}
                   {% endif %} 
 
                 {% if people.phd %}
-                  <button type="button" class="btn btn-outline-success btn-sm mt-1"><i class="fal fa-user mr-1"></i>phd student</button>
+                  <button type="button" class="btn btn-outline-success btn-sm mt-1"><i class="fa-regular fa-user mr-1"></i>phd student</button>
                 {% endif %} 
                 {% if people.postdoc %}
-                  <button type="button" class="btn btn-outline-success btn-sm mt-1"><i class="fal fa-user mr-1"></i>postdoc</button>
+                  <button type="button" class="btn btn-outline-success btn-sm mt-1"><i class="fa-regular fa-user mr-1"></i>postdoc</button>
                 {% endif %} 
                 {% if people.teaching %}
-                  <button type="button" class="btn btn-outline-success btn-sm mt-1"><i class="fal fa-user mr-1"></i>teaching assistant</button>
+                  <button type="button" class="btn btn-outline-success btn-sm mt-1"><i class="fa-regular fa-user mr-1"></i>teaching assistant</button>
                 {% endif %} 
 
-                {% if people.twitter %}
-                  <a href="https://twitter.com//{{ people.twitter }}" class="btn btn-outline-primary btn-sm mb-1" target="_blank">
-                    <i class="fab fa-twitter"></i> {{ people.twitter }}
-                  </a>
-                {% endif %}
 
                 {% if people.url %}
                   <a href="{{ people.url }}" class="btn btn-outline-primary btn-sm mb-1" target="_blank">
-                    <i class="fal fa-external-link"></i> Website
+                    <i class="fa-regular fa-external-link"></i> Website
                   </a>
                 {% endif %}
               </div>
@@ -153,7 +143,7 @@ form: false
                   {% if people.tags %}
                         {% for tag in people.tags %}
                         <button type="button" class="btn btn-outline-secondary btn-sm mt-1">
-                          <i class="fal fa-tag mr-1"></i>{{tag}}
+                          <i class="fa-regular fa-tag mr-1"></i>{{tag}}
                         </button>
                         {% endfor %}
                   {% endif %} 
@@ -163,15 +153,9 @@ form: false
                   <button type="button" class="btn btn-outline-info btn-sm mb-1">{{people.role}}</button>
                 {% endfor %}
 
-                {% if people.twitter %}
-                  <a href="https://twitter.com//{{ people.twitter }}" class="btn btn-outline-primary btn-sm mb-1" target="_blank">
-                    <i class="fab fa-twitter"></i> {{ people.twitter }}
-                  </a>
-                {% endif %}
-
                 {% if people.url %}
                   <a href="{{ people.url }}" class="btn btn-outline-primary btn-sm mb-1" target="_blank">
-                    <i class="fal fa-external-link"></i> Website
+                    <i class="fa-regular fa-external-link"></i> Website
                   </a>
                 {% endif %}
               </div>

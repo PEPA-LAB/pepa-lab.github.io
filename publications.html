@@ -39,11 +39,11 @@ form: false
 
     <div class="float-right">
       {% if publication.doi %}
-        <a class="btn btn-outline-secondary btn-sm mb-1" href="https://dx.doi.org/{{ publication.doi }}" target="_blank"><i class="fa fa-link"></i></a>
+        <a class="btn btn-outline-secondary btn-sm mb-1" href="https://dx.doi.org/{{ publication.doi }}" target="_blank"><i class="fa-regular fa-link"></i></a>
       {% endif %}
       
       {% if publication.pdf %}
-        <a class="btn btn-outline-secondary btn-sm mb-1" href="{{ publication.pdf }}" target="_blank"><i class="fa fa-file-alt"></i></a>
+        <a class="btn btn-outline-secondary btn-sm mb-1" href="{{ publication.pdf }}" target="_blank"><i class="fa-regular fa-file-alt"></i></a>
       {% endif %}
 
       <!--a class="btn btn-outline-secondary btn-sm mb-1" data-toggle="modal" href="#modal{{ forloop.index }}">
