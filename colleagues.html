@@ -27,7 +27,7 @@ form: false
           <div class="clearfix mb-3">
             <!-- Add the image tag here with float-left class -->
             {% if people.image %}
-              <img src="/img/{{ people.image }}" alt="{{ people.name }}" class="float-left mr-3" style="max-width: 150px; border-radius: 5px;">
+              <img src="{{ site.baseurl }}{{ people.image }}" alt="{{ people.name }}" class="float-left mr-3" style="max-width: 150px; border-radius: 5px;">
             {% endif %}
 
             <div class="overflow-hidden">

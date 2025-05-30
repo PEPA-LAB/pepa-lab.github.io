@@ -80,7 +80,7 @@
     The website presents each ressource in a uniform and concise manner enabling users to identify the available solutions for their experimental needs. 
     The website also enables user feedback, evaluations and new software submissions. The aim of such a toolbox is to help users to find solutions, and to provide developers a way to exchange and communicate about their work.
   image: /img/tool-quantitative.png
-  url: http://www.quantitative-plant.org  
+  url: https://www.quantitative-plant.org  
   ressource: yes
   tags:
     - database
@@ -105,7 +105,7 @@
   description: >
     Together with researchers from INRIA, CPIB, Juelich, Vienna and Louvain, we created the Root System Markup Language (RSML) that has been designed to alleviate two major bottlenecks: (i) to enable portability of root architecture data between different software tools in an easy and interoperable manner allowing seamless collaborative work, and (ii) to provide a standard format upon which to base central repositories which will soon arise following the expanding worldwide root phenotyping effort. 
   image: /img/tool-rsml.png
-  url: http://rootsystemml.github.io/
+  url: https://rootsystemml.github.io/
   phenotyping: yes
   tags:
     - file format
