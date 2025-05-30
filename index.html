@@ -9,20 +9,29 @@ background: '/img/bg-field-4.png'
     {% assign counterPeople = counterPeople | plus: 1 %}              
 {% endfor %}
 
+{% assign counterTool = 0 %}
+{% for people in site.data.tools %}
+    {% assign counterTool = counterTool | plus: 1 %}              
+{% endfor %}
+
 
 <h4>Welcome to our lab website !</h4>
 
-    We are the <b>Plant Ecology, ecoPhysiology and sustainable Agriculture lab</b>, from the Earth and Life Institute [Agronomy] from the UCLouvain, in Belgium. 
+    We are the <b>Plant Ecology, ecoPhysiology and sustainable Agriculture lab</b>, from the Earth and Life Institute, Agronomy from the UCLouvain, in Belgium. 
 
 	<br><br>
     
-    We are {{counterPeople}} enthusiastic people studying how plant grow, how they are influenced by their environment (biotic and abiotic) and how people cultivate them. 
+    We are {{counterPeople}} enthusiastic people studying how plant grow, how they are influenced by their environment (biotic and abiotic) and how people cultivate them. Check the team <a href="https://www.pepa.science/colleagues">[here]</a>. 
 
     <br><br>
 
-    We have a soft spot for #roots, #hydraulics, #cereals, #pollinators, #market _gardenning, #sustainable_farming and #computational_tools. 
+    We have a soft spot for roots, hydraulics, cereals, pollinators, market gardenning and sustainable farming. 
 
    <br><br>
+   We love creating open tools and ressources for the community. Check our {{counterTool}} tools <a href="https://www.pepa.science/tools">[here]</a>.
+
+<br><br>
+
 
 <hr>
 
