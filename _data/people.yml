@@ -229,7 +229,21 @@
 
 
 
-
+-
+  name: Sacha Pollet 
+  description: >
+    Sasha Pollet is a PhD student in Soil Science at the faculty of Land and Food system, University of British Columbia, under the supervision of Dr. Jean-Thomas Cornelis, and co-supervised by myself. Sasha will be studying how the pedological context and P fertilization gradient impact the production and quality of root exudates, as well as their roles in acquiring nutrients and storing carbon in the soil. 
+  role: Doctoral researcher
+  url: https://soilprocesses.landfood.ubc.ca/people-2/
+  image: peep-pollet.jpeg
+  researcher: yes
+  phd: yes
+  current: yes
+  tags:
+    - root
+    - exudation
+    - phosphorus
+  copromotion: Soil3Res, UBC
 
 -
   name: Emeline Verstraeten

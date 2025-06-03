@@ -98,6 +98,10 @@ form: fa-solidse
                         {% endfor %}
                   {% endif %} 
 
+                {% if people.copromotion %}
+                  <button type="button" class="btn btn-outline-success btn-sm mt-1"><i class="fa-solid fa-users mr-1"></i>{{people.copromotion}}</button>
+                {% endif %} 
+
                 {% if people.phd %}
                   <button type="button" class="btn btn-outline-success btn-sm mt-1"><i class="fa-solid fa-user mr-1"></i>phd student</button>
                 {% endif %} 
