@@ -219,6 +219,7 @@
   postdoc: yes
   current: yes
   image: peep-lengrand.jpeg
+  copromotion: FYMY, UCLouvain
   tags:
     - root
     - wheat
@@ -306,6 +307,7 @@
   current: yes
   phd: yes
   image: peep-kenda.png
+  copromotion: ELI-E, UCLouvain
   tags:
     - remote sensing
     - sentinel
@@ -333,6 +335,7 @@
   current: yes
   phd: yes
   image: peep-guyot.png
+  copromotion: LIBST, UCLouvain
   tags:
     - root
     - nitrogen
@@ -418,6 +421,7 @@
   phd: yes  
   url: https://www.linkedin.com/in/renaud-bulpa-478735266/
   image: peep-bulpa.png
+  copromotion: UCD, Ireland
   tags:
     - root
     - wheat
