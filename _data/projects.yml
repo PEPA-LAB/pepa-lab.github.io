@@ -42,3 +42,39 @@
     - crop
     - wheat
 
+-
+  name: MineLandDiv, Mining Allelic Diversity in maize Landraces for Tolerance to Abiotic and Biotic stresses
+  description: >
+    MineLandDiv aims at (i) identifying maize landraces and favorable alleles for tolerance to abiotic (heat/drought - cold - nitrogen) and biotic stresses (Corn borer) that could be used to broaden genetic diversity of modern breeding germplasms and (ii) better understanding their resilience to variable environmental conditions.
+
+    MineLandDiv is financed by the European Research Concil and the FRNS under the SusCrop- ERA-NET co-funding scheme. 
+  image: /img/prj-minelanddiv.png
+  url: https://www.suscrop.eu/call-information/4th-call/minelanddiv
+  tags:
+    - phenotyping
+    - diversity
+    - maize
+
+-
+  name: CerealBio, Exploiting cereal biodiversity in nutrient use and biological interactions in crop resilience breeding 
+  description: >
+      The CerealBio ambition is to enhance wheats and oats resilience to environmental stresses within the context of agrochemical limitations and climate challenges, ultimately contributing to climate change mitigation. For this goal, CerealBio will set a new plant ideotype that integrates standard traits for yield performance with valuable novel traits, recovered from Genetic Resources, that govern interactions with the environment and the field ecosystem, to exploit benefits arising from synergies among its biological components. In the long term, CerealBio will contribute to increasing and strengthening the sustainability of cereal farming.
+
+    CerealBio is financed by the European Research Concil and the FRNS under the Green ERA-Hub co-funding scheme. 
+  image: /img/prj-cerealbio.png
+  url: https://www.greenerahub.eu/cerealbio
+  tags:
+    - wheat
+    - oat
+    - roots
+    - plant microbiome
+    - stress resilience
+    - germplasm resources 
+
+
+
+
+
+
+
+
