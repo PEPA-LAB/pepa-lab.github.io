@@ -1,46 +1,38 @@
-
 -  type: journal
    title: In silico analysis of carbon stabilisation by plant and soil microbes for different weather scenarios
    authors: Giraud M, Sırcan AK, Streck T, Leitner D, Lobet G, Pagel H, Schnepf A
    year: 2025
    preprint: yes
    doi: 10.5194/egusphere-2025-572
-
--  type: journal
-   title: A collection of field-based indicators for assessing ecosystem services in crop fields
-   authors: Leveau L, Biot N, Lobet G, Bertin P
-   journal: arpa
-   year: 2025
-   preprint: yes
-   open: yes
-   doi: 10.3897/arphapreprints.e151539
-   image: img/art-granar.png
-   pdf: https://preprints.arphahub.com/article/151539/
-   tags:
-   - crop
-   - ecosystem services
-   - field
-   - indicators
-   description : > 
-      The transition from intensive crop production to more sustainable practices, such as ecologically intensive cropping systems, requires precise, field-based assessments of Ecosystem Services (ES). These assessments depend on selecting appropriate indicators that can measure the supply of ES directly within crop fields. Despite the growing recognition of ES role in sustainable agriculture, comprehensive lists of field-applicable indicators remain scarce. To address this gap, we present a collection of indicators for assessing ES in cropping systems, specifically designed for in situ measurements. The collection aims to support researchers and practitioners in selecting context-specific indicators that enhance site-specific knowledge for developing sustainable cropping systems. It was derived from the exhaustive list provided by Boerema et al. (2016), which included 507 indicators applicable across various ecosystem types and linked to various data collection methods. It covers provisioning and regulating ES, emphasizing empirical data collection methods such as field observations and remote sensing. Our analysis highlights significant disparities in indicator distribution across ES, cascade levels, and measurement methods, with a predominance of indicators for soil quality regulation and pollination ES. We also identify gaps in field-based assessments, particularly for air quality regulation, life cycle maintenance and water provision. Finally, we underscore the importance of staying alert to emerging indicators driven by recent research trends and technological advancements, such as remote sensing.
-      
--  type: journal
-   title: Decreased root hydraulic traits in German winter wheat cultivars over 100 years of breeding 
-   authors: Baca Cabrera J, Vanderborght J, Boursiac Y, Behrend D, Gaiser T, Nguyen TH, Lobet G
-   journal: Plant Physiology
-   year: 2025
-   open: yes
-   doi: 10.1093/plphys/kiaf166
-   image: img/art-granar.png
-   pdf: https://academic.oup.com/plphys/advance-article-pdf/doi/10.1093/plphys/kiaf166/62999595/kiaf166.pdf
-   tags:
-   - wheat
-   - root
-   - hydraulics
-   - breeding
-   description : > 
-      Wheat (Triticum aestivum L.) plays a vital role in global food security, and understanding its root traits is essential for improving water uptake under varying environmental conditions. This study investigated how over a century of breeding has influenced root morphological and hydraulic properties in six German winter wheat cultivars released between 1895 and 2002. Field and hydroponic experiments were used to measure root diameter, root number, branching density, and whole root system hydraulic conductance (Krs). The results showed a significant decline in root axes number and Krs with release year, while root diameter remained stable across cultivars. Additionally, dynamic functional-structural modeling using the whole-plant model CPlantBox was employed to simulate Krs development with root system growth, revealing that older cultivars consistently had higher hydraulic conductance than modern ones. The combined approach of field phenotyping and modeling provided a comprehensive view of the changes in root traits arising from breeding. These findings suggest that breeding may have unintentionally favored cultivars with smaller root systems and more conservative water uptake strategies under the high-input, high-density conditions of modern agriculture. The results of this study may inform future breeding efforts aimed at optimizing wheat root systems, helping to develop cultivars with water uptake strategies better tailored to locally changing environmental conditions.
-      
+- type: journal
+  year: 2025
+  authors: Leveau, Lola ; Biot, Nicolas ; Lobet, Guillaume ; Bertin, Pierre
+  title: A collection of field-based indicators for assessing ecosystem services in
+    crop fields
+  doi: 10.3897/oneeco.10.e151491
+- type: journal
+  year: 2025
+  authors: Baca Cabrera, Juan C ; Vanderborght, Jan ; Boursiac, Yann ; Behrend, Dominik
+    ; Gaiser, Thomas ; Nguyen, Thuy Huu ; Lobet, Guillaume
+  title: Decreased root hydraulic traits in German winter wheat cultivars over 100
+    years of breeding
+  doi: 10.1093/plphys/kiaf166
+- type: journal
+  year: 2025
+  authors: Michelot‐Antalik, Alice ; Langlois, Alban ; de Bello, Francesco ; Desaegher,
+    James ; Genty, Léa ; Goulnik, Jérémie ; Grosjean, Jérémy ; Jacquemart, Anne-Laure
+    ; Kergunteuil, Alan ; Junker, Robert R. ; Jeannerod, Léna ; Odoux, Jean‐François
+    ; Proffit, Magali ; Schatz, Bertrand ; Vanderplanck, Maryse ; E‐Vojtkó, Anna ;
+    Baude, Mathilde
+  title: Handbook of protocols for standardized measurements of floral traits for
+    pollinators in temperate communities
+  doi: 10.1111/2041-210x.70031
+- type: journal
+  year: 2025
+  authors: Heine, Benjamin ; Gaspart, Frédéric ; Biot, Nicolas
+  title: Developing indicators to assess the viability of small- and medium-scale
+    farms  a case study of market gardening farms at the regional scale
+  doi: 10.3389/fsufs.2025.1608860
 - type: journal
   year: 2024
   authors: Baca Cabrera, Juan C. ; Vanderborght, Jan ; Couvreur, Valentin ; Behrend,
@@ -61,6 +53,54 @@
   title: Seedling root system adaptation to water availability during maize domestication
     and global expansion
   doi: 10.1038/s41588-024-01761-3
+- type: journal
+  year: 2024
+  authors: Samuel le Gall ; Dagmar van Duschoten ; Adrian Lattacher ; Mona Giraud
+    ; Moritz Harings ; Paulina Deseano Diaz ; Ahmet Sircan ; Christian Poll ; Lobet,
+    Guillaume ; Javaux, Mathieu ; Youri Rothfuss
+  title: Investigating the impact on water fluxes and physiological development of
+    the combination of contrasted root wheat cultivars from isotopic analysis
+  doi: 10.5194/egusphere-egu24-15966
+- type: journal
+  year: 2024
+  authors: Jan Vanderborght ; Juan Baca Cabrera1 ; Lobet, Guillaume ; Daniel Leitner
+    ; Javaux, Mathieu ; Couvreur, Valentin ; Andrea Schnepf
+  title: Upscaling of 3D root hydraulic architectures of trees to 1D root hydraulic
+    models
+  doi: 10.5194/egusphere-egu24-7397
+- type: journal
+  year: 2024
+  authors: Vanderborght, Jan ; Couvreur, Valentin ; Javaux, Mathieu ; Leitner, Daniel
+    ; Schnepf, Andrea ; Vereecken, Harry
+  title: Mechanistically derived macroscopic root water uptake functions  The &lt;i&gt;α&lt;/i&gt;
+    and &lt;i&gt;ω&lt;/i&gt; of root water uptake functions
+  doi: 10.1002/vzj2.20333
+- type: journal
+  year: 2024
+  authors: Bouda, Martin ; Jan Vanderborght ; Couvreur, Valentin ; Václav Šípek ;
+    Javaux, Mathieu
+  title: Quantifying cross-scale hydrodynamic effects of root ecophysiology
+  doi: 10.5194/egusphere-egu24-9401
+- type: journal
+  year: 2024
+  authors: Yang, Nana ; Rongione, Charles ; Jacquemart, Anne-Laure ; Draye, Xavier
+    ; De Vleeschouwer, Christophe
+  title: On the Importance of Diversity When Training Deep Learning Segmentation Models
+    with Error-Prone Pseudo-Labels
+  doi: 10.3390/app14125156
+- type: journal
+  year: 2024
+  authors: Phan, Nhung Thi Hong ; Heymans, Adrien ; Bonnave, Mathieu ; Tang, Hanh
+    Thi ; Pham, Cuong Van ; Bertin, Pierre
+  title: Nitrogen use efficiency and yield components of rice as influenced by reducing
+    nitrogen application under salinity conditions in a pot experiment
+  doi: 10.1080/01904167.2024.2308201
+- type: journal
+  year: 2024
+  authors: Cugnon, Thibaut ; Mahillon, Jacques ; Lambert, Richard
+  title: In vitro anaerobic incubation  a reliable method to predict the potential
+    of nitrogen mineralization after grassland ploughing
+  doi: 10.25518/1780-4507.20613
 - type: journal
   year: 2023
   authors: Giraud, Mona ; Gall, Samuel Le ; Harings, Moritz ; Javaux, Mathieu ; Leitner,
@@ -94,6 +134,97 @@
     clues from &amp;lt;i&amp;gt;in silico&amp;lt;/i&amp;gt; experiments
   doi: 10.1093/insilicoplants/diad012
 - type: journal
+  year: 2023
+  authors: Andrea Schnepf ; Christopher K. Black ; Couvreur, Valentin ; Benjamin M.
+    Delory ; Claude Doussan ; Adrien Heymans ; Javaux, Mathieu ; Deepanshu Khare ;
+    Axelle Koch ; Timo Koch ; Christian W. Kuppe ; Magdalena Land ; Daniel Leitner
+    ; Lobet, Guillaume ; Meunier, Félicien ; Johannes Postma ; Ernst Schäfer ; Tobias
+    Selzner ; Jan Vanderborght ; Harry Vereecken
+  title: Benchmarking of Functional-Structural Root Architecture Models
+  doi: 10.5194/egusphere-egu23-4425
+- type: journal
+  year: 2023
+  authors: Vanderborght, Jan ; Leitner, Daniel ; Schnepf, Andrea ; Couvreur, Valentin
+    ; Vereecken, Harry ; Javaux, Mathieu
+  title: Combining root and soil hydraulics in macroscopic representations of root
+    water uptake
+  doi: 10.1002/vzj2.20273
+- type: journal
+  year: 2023
+  authors: Dubbert, M. ; Couvreur, Valentin ; Kübert, A. ; Werner, C.
+  title: Plant water uptake modelling  added value of cross‐disciplinary approaches
+  doi: 10.1111/plb.13478
+- type: journal
+  year: 2023
+  authors: Jan Vanderborght ; Andrea Schnepf ; Daniel Leitner ; Couvreur, Valentin
+    ; Javaux, Mathieu
+  title: A mechanistic derivation of 'alpha-omega' root water uptake models.
+  doi: 10.5194/egusphere-egu23-3484
+- type: journal
+  year: 2023
+  authors: Couvreur, Valentin ; Mehra, Poonam ; Pandey, Bipin ; Draye, Xavier ;  Bennett,
+    Malcom
+  title: How air gaps in soils alter the distribution of root water and hormones fluxes,
+    thereby blocking root lateral branching
+  doi: 10.5194/egusphere-egu23-9384
+- type: journal
+  year: 2023
+  authors: Carminati, Andrea ; Marin, Maria ; Couvreur, Valentin ; Zarebanadkouki,
+    Mohsen ; Declerck, Stephan ; Javaux, Mathieu
+  title: Root water uptake and myco-rhizosphere hydraulic properties
+  doi: 10.1016/b978-0-12-822974-3.00222-6
+- type: journal
+  year: 2023
+  authors: Reverté, Sara ; Gérard, Maxence ; Bodson, Maxime ; Descamps, Charlotte
+    ; Gosselin, Matthias ; Jacquemart, Anne-Laure ; Louvieaux, Julien ; Smagghe, Guy
+    ; Vandamme, Peter ; Vereecken, Nicolas J. ; Michez, Denis
+  title: Intraspecific size shifts in generalist bumblebees and flowers lead to low
+    functional consequences
+  doi: 10.1002/ecs2.4640
+- type: journal
+  year: 2023
+  authors: Sinébou, Viviane ; Togbé, Euloge Codjo ; Ezin A., Vincent ; Ahohouendo,
+    Alain Fanou ; Ahohuendo, Bonaventure Cohovi ; Jacquemart, Anne-Laure
+  title: Toward the Reshaping of an Endogenous Leafy Vegetable Value Chain  the Case
+    Study of Vitex doniana in the Republic of Benin
+  doi: 10.1007/s12231-023-09591-w
+- type: journal
+  year: 2023
+  authors: Rasoamanalina, Rivo Onisoa Léa ; Mirzaei, Khaled ; El Jaziri, Mondher ;
+    Ramirez Ramirez, Angel Rafael ; Bertin, Pierre
+  title: Diversity and structure assessment of the genetic resources in a germplasm
+    collection from a vanilla breeding programme in Madagascar
+  doi: 10.1017/s1479262123000631
+- type: journal
+  year: 2023
+  authors: Phan, Nhung Thi Hong ; Draye, Xavier ; Pham, Cuong Van ; Bertin, Pierre
+  title: Identification of quantitative trait loci controlling nitrogen use efficiency-related
+    traits in rice at the seedling stage under salt condition by genome-wide association
+    study
+  doi: 10.3389/fpls.2023.1197271
+- type: journal
+  year: 2023
+  authors: Phan, Nhung Thi Hong ; Van Pham, Cuong ; Tang, Hanh Thi ; Van Nguyen, Loc
+    ; Nguyen, Long Viet ; Bertin, Pierre
+  title: Integration of genome-wide association studies reveal loci associated with
+    salt tolerance score of rice at the seedling stage
+  doi: 10.1007/s13353-023-00775-7
+- type: journal
+  year: 2023
+  authors: Phan, Nhung Thi Hong ; Heymans, Adrien ; Bonnave, Mathieu ; Lutts, Stanley
+    ; Pham, Cuong Van ; Bertin, Pierre
+  title: Nitrogen Use Efficiency of Rice Cultivars (Oryza sativa L.) Under Salt Stress
+    and Low Nitrogen Conditions
+  doi: 10.1007/s00344-022-10660-y
+- type: journal
+  year: 2023
+  authors: Kokah, Essomandan Urbain ; Knoden, David ; Lambert, Richard ; Himdi, Hamza
+    ; Dumont, Benjamin ; Bindelle, Jérôme
+  title: Modeling the daily dynamics of grass growth of several species according
+    to their functional type, based on soil water and nitrogen dynamics  Gras-Sim
+    model definition, parametrization and evaluation
+  doi: 10.1016/j.jafr.2023.100875
+- type: journal
   year: 2022
   authors: Saint Cast, Clément ; Lobet, Guillaume ; Cabrera-Bosquet, Llorenç ; Couvreur,
     Valentin ; Pradal, Christophe ; Tardieu, François ; Draye, Xavier
@@ -122,6 +253,94 @@
   title: Uncovering natural variation in root system architecture and growth dynamics
     using a robotics-assisted phenomics platform
   doi: 10.7554/elife.76968
+- type: journal
+  year: 2022
+  authors: Andrea Schnepf ; Couvreur, Valentin ; Benjamin Delory ; Claude Doussan
+    ; Javaux, Mathieu ; Deepanshu Khare1 ; Koch, Axelle ; Timo Koch ; Christian Kuppe
+    ; Daniel Leitner ; Lobet, Guillaume ; Félicien Meunier ; Johannes Postma ; Ernst
+    Schäfer ; Jan Vanderborght ; Harry Vereecken
+  title: Quantitative comparison of root water uptake simulated by functional-structural
+    root architecture models
+  doi: 10.5194/egusphere-egu22-8524
+- type: journal
+  year: 2022
+  authors: Meunier, Félicien ; Couvreur, Valentin ; Draye, Xavier ; Lobet, Guillaume
+    ; Huber, Katrin ; Schroeder, Nathalie ; Jorda, Helena ; Koch, Axelle ; Landl,
+    Magdalena ; Schnepf, Andrea ; Vanderborght, Jan ; Vereecken, Harry ; Javaux, Mathieu
+  title: Investigating Soil–Root Interactions with the Numerical Model R-SWMS
+  doi: 10.1007/978-1-0716-1816-5_13
+- type: journal
+  year: 2022
+  authors: Pou, Alicia ; Hachez, Charles ; Couvreur, Valentin ; Maistriaux,Laurie
+    ; Ismail, Ahmed ; Chaumont, François
+  title: Exposure to high nitrogen triggered a genotype‐dependent modulation of cell
+    and root hydraulics, which can involve aquaporin regulation
+  doi: 10.1111/ppl.13640
+- type: journal
+  year: 2022
+  authors: Mehra, Poonam ; Pandey, Bipin K. ; Melebari, Dalia ; Banda, Jason ; Leftley,
+    Nicola ; Couvreur, Valentin ; Rowe, James ; Anfang, Moran ; De Gernier, Hugues
+    ; Morris, Emily ; Sturrock, Craig J. ; Mooney, Sacha J. ; Swarup, Ranjan ; Faulkner,
+    Christine ; Beeckman, Tom ; Bhalerao, Rishikesh P. ; Shani, Eilon ; Jones, Alexander
+    M. ; Dodd, Ian C. ; Sharp, Robert E. ; Sadanandom, Ari ; Draye, Xavier ; Bennett,
+    Malcolm J.
+  title: Hydraulic flux–responsive hormone redistribution determines root branching
+  doi: 10.1126/science.add3771
+- type: journal
+  year: 2022
+  authors: De Swaef, Tom ; Pieters, Olivier ; Appeltans, Simon ; Borra-Serrano, Irene
+    ; Coudron, Willem ; Couvreur, Valentin ; Garré, Sarah ; Lootens, Peter ; Nicolaï,
+    Bart ; Pols, Leroi ; Saint Cast, Clément ; Šalagovič, Jakub ; Van Haeverbeke,
+    Maxime ; Stock, Michiel ; wyffels, Francis
+  title: On the pivotal role of water potential to model plant physiological processes
+  doi: 10.1093/insilicoplants/diab038
+- type: journal
+  year: 2022
+  authors: Bouda, Martin ; Jan Vandergborght ; Couvreur, Valentin ; Javaux, Mathieu
+  title: Predicting plant water limitation in heterogeneously drying soils  the upscaling
+    approach to improving soil-plant hydrodynamics in ESMs
+  doi: 10.5194/egusphere-egu22-12601
+- type: journal
+  year: 2022
+  authors: Meunier, Félicien ; Couvreur, Valentin ; Vanderborght, Jan ; Javaux, Mathieu
+  title: How to Define the Appropriate Spatial Resolution of Root Segments When Solving
+    in Root System Hydraulic
+  doi: 10.1007/978-1-0716-1816-5_14
+- type: journal
+  year: 2022
+  authors: Quinet, Muriel ; Buyens, Christel ; Jacquemart, Anne-Laure
+  title: Does gibberellin treatment inducing parthenocarpy affect development of fruits
+    from fertilization in pear (Pyrus communis ‘Conférence’) ?
+  doi: 10.17660/actahortic.2022.1342.27
+- type: journal
+  year: 2022
+  authors: Medina Torres, Byron Daniel ; Jonard, Mathieu ; Rendon, Melina ; Jacquemart,
+    Anne-Laure
+  title: Effects of Pine Plantation on Native Ecuadorian Páramo Vegetation
+  doi: 10.3390/f13091499
+- type: journal
+  year: 2022
+  authors: Jeannerod, Léna ; Carlier, Archibald ; Schatz, Bertrand ; Daise, Clothilde
+    ; Richel, Aurore ; Agnan, Yannick ; Baude, Mathilde ; Jacquemart, Anne-Laure ;
+    Del-Claro, Kleber
+  title: Some bee-pollinated plants provide nutritionally incomplete pollen amino
+    acid resources to their pollinators
+  doi: 10.1371/journal.pone.0269992
+- type: journal
+  year: 2022
+  authors: Yang, Nana ; Joos de ter Beerst, Victor ; Jacquemart, Anne-Laure ; Buyens,
+    Christel ; De Vleeschouwer, Christophe
+  title: Using Pure Pollen Species When Training a CNN to Segment Pollen Mixtures
+  doi: 10.1109/CVPRW56347.2022.00176
+- type: journal
+  year: 2022
+  authors: Welcker, Claude ; Spencer, Nadir Abusamra ; Turc, Olivier ; Granato, Italo
+    ; Chapuis, Romain ; Madur, Delphine ; Beauchene, Katia ; Gouesnard, Brigitte ;
+    Draye, Xavier ; Palaffre, Carine ; Lorgeou, Josiane ; Melkior, Stephane ; Guillaume,
+    Colin ; Tardieu, François
+  title: Physiological adaptive traits are a potential allele reservoir for maize
+    genetic progress under challenging conditions
+  doi: 10.1038/s41467-022-30872-w
 - type: journal
   year: 2021
   authors: Heymans, Adrien ; Couvreur, Valentin ; Lobet, Guillaume
@@ -154,6 +373,70 @@
   title: Évaluations par Cartes Conceptuelles à trous et apprentissage par les pairs
   doi: 10.14428/qpes.v1i3.62073
 - type: journal
+  year: 2021
+  authors: Vanderborght, Jan ; Couvreur, Valentin ; Meunier, Felicien ; Schnepf, Andrea
+    ; Vereecken, Harry ; Bouda, Martin ; Javaux, Mathieu
+  title: From hydraulic root architecture models to  macroscopic representations of
+    root hydraulics  in soil water flow and land surface models
+  doi: 10.5194/hess-25-4835-2021
+- type: journal
+  year: 2021
+  authors: Pascut, Flavius C. ; Couvreur, Valentin ; Dietrich, Daniela ; Leftley,
+    Nicky ; Reyt, Guilhem ; Boursiac, Yann ; Calvo-Polanco, Monica ; Casimiro, Ilda
+    ; Maurel, Christophe ; Salt, David E. ; Draye, Xavier ; Wells, Darren M. ; Bennett,
+    Malcolm J. ; Webb, Kevin F.
+  title: Non-invasive hydrodynamic imaging in plant roots at cellular resolution
+  doi: 10.1038/s41467-021-24913-z
+- type: journal
+  year: 2021
+  authors: Agee, Elizabeth ; He, Lingli ; Bisht, Gautam ; Couvreur, Valentin ; Shahbaz,
+    Parisa ; Meunier, Félicien ; Gough, Christopher M. ; Matheny, Ashley M. ; Bohrer,
+    Gil ; Ivanov, Valeriy
+  title: Root lateral interactions drive water uptake patterns under water limitation
+  doi: 10.1016/j.advwatres.2021.103896
+- type: journal
+  year: 2021
+  authors: Vanderborght, Jan ; Couvreur, Valentin ; Meunier, Félicien ; Schnepf, Andrea
+    ; Vereecken, Harry ; Bouda, Martin ; Javaux, Mathieu
+  title: Towards the consideration of soil-root resistances in root water uptake models
+    for macroscopic representations of hydraulic root architecture
+  doi: 10.5194/egusphere-egu21-8151
+- type: journal
+  year: 2021
+  authors: Descamps, Charlotte ; Gaspard, François ; Delmelle, Pierre ; Jacquemart,
+    Anne-Laure ; Lecoq, Julie
+  title: Accompagner les étudiants bacheliers bioingénieurs dans le développement
+    de leurs compétences transversales
+  doi: 10.14428/qpes.v1i3.62103
+- type: journal
+  year: 2021
+  authors: Descamps, Charlotte ; Quinet, Muriel ; Jacquemart, Anne-Laure
+  title: Climate Change–Induced Stress Reduce Quantity and Alter Composition of Nectar
+    and Pollen From a Bee-Pollinated Species (Borago officinalis, Boraginaceae)
+  doi: 10.3389/fpls.2021.755843
+- type: journal
+  year: 2021
+  authors: Moquet, Laura ; Jacquemart, Anne-Laure ; Dufay, Mathilde ; De Cauwer, Isabelle
+  title: Effects of sexual dimorphism on pollinator behaviour in a dioecious species
+  doi: 10.1111/oik.08662
+- type: journal
+  year: 2021
+  authors: Descamps, Charlotte ; Boubnan, Najet ; Jacquemart, Anne-Laure ; Quinet,
+    Muriel
+  title: Growing and Flowering in a Changing Climate  Effects of Higher Temperatures
+    and Drought Stress on the Bee-Pollinated Species Impatiens glandulifera Royle
+  doi: 10.3390/plants10050988
+- type: journal
+  year: 2021
+  authors: Descamps, Charlotte ; Quinet, Muriel ; Jacquemart, Anne-Laure
+  title: The effects of drought on plant–pollinator interactions  What to expect?
+  doi: 10.1016/j.envexpbot.2020.104297
+- type: journal
+  year: 2021
+  authors: Descamps, Charlotte ; Jambrek, Anne ; Quinet, Muriel ; Jacquemart, Anne-Laure
+  title: Warm Temperatures Reduce Flower Attractiveness and Bumblebee Foraging
+  doi: 10.3390/insects12060493
+- type: journal
   year: 2020
   authors: Schnepf, Andrea ; Black, Christopher K. ; Couvreur, Valentin ; Delory,
     Benjamin M. ; Doussan, Claude ; Koch, Axelle ; Koch, Timo ; Javaux, Mathieu ;
@@ -178,6 +461,87 @@
   title: Value of sun-induced chlorophyll fluorescence for quantifying hydrological
     states and fluxes  Current status and challenges
   doi: 10.1016/j.agrformet.2020.108088
+- type: journal
+  year: 2020
+  authors: Couvreur, Valentin ; Rothfuss, Youri ; Meunier, Félicien ; Bariac, Thierry
+    ; Biron, Philippe ; Durand, Jean-Louis ; Richard, Patricia ; Javaux, Mathieu
+  title: Disentangling temporal and population variability in plant root water uptake
+    from stable isotopic analysis  when rooting depth matters in labeling studies
+  doi: 10.5194/hess-24-3057-2020
+- type: journal
+  year: 2020
+  authors: Ding, Lei ; Milhiet, Thomas ; Couvreur, Valentin ; Nelissen, Hilde ; Meziane,
+    Adel ; Parent, Boris ; Aesaert, Stijn ; Van Lijsebettens, Mieke ; Inzé, Dirk ;
+    Tardieu, François ; Draye, Xavier ; Chaumont, François
+  title: Modification of the expression of the aquaporin ZmPIP2;5 affects water relations
+    and plant growth
+  doi: 10.1104/pp.19.01183
+- type: journal
+  year: 2020
+  authors: van Dusschoten, Dagmar ; Kochs, Johannes ; Kuppe, Christian W. ; Sydoruk,
+    Viktor A. ; Couvreur, Valentin ; Pflugfelder, Daniel ; Postma, Johannes A.
+  title: Spatially Resolved Root Water Uptake Determination Using a Precise Soil Water
+    Sensor
+  doi: 10.1104/pp.20.00488
+- type: journal
+  year: 2020
+  authors: Couvreur, Valentin ; Rothfuss, Youri ; Meunier, Félicien ; Bariac, Thierry
+    ; Biron, Philippe ; Durand, Jean-Louis ; Javaux, Mathieu
+  title: Disentangling temporal and population variability in plant root water uptake
+    from stable isotopic analysis  a labeling study
+  doi: 10.5194/hess-2019-543
+- type: journal
+  year: 2020
+  authors: Bouda, Martin ; Vanderborght, Jan ; Couvreur, Valentin ; Meunier, Félicien
+    ; Javaux, Mathieu
+  title: How to scale root water uptake from root scale to stands and beyond – a theoretical
+    framework, practical lessons, and next steps
+  doi: 10.5194/egusphere-egu2020-21673
+- type: journal
+  year: 2020
+  authors: Rothfuss, Youri ; Couvreur, Valentin ; Meunier, Félicien ; De Deurwaerder,
+    Hannes ; Visser, Marco D. ; Javaux, Mathieu
+  title: Reconstructing Root Water Uptake from isotopic data and physically-based
+    models  looking at recent effort and proposing a path forward
+  doi: 10.5194/egusphere-egu2020-21157
+- type: journal
+  year: 2020
+  authors: Langlois, Alban ; Jacquemart, Anne-Laure ; Piqueray, Julien
+  title: Contribution of Extensive Farming Practices to the Supply of Floral Resources
+    for Pollinators
+  doi: 10.3390/insects11110818
+- type: journal
+  year: 2020
+  authors: Descamps, Charlotte ; Marée, Sophie ; Hugon, Sophie ; Quinet, Muriel ;
+    Jacquemart, Anne-Laure
+  title: "Species‐specific responses to combined water stress and increasing temperatures
+    in two bee‐pollinated congeners (\r\n            Echium\r\n            , Boraginaceae)"
+  doi: 10.1002/ece3.6389
+- type: journal
+  year: 2020
+  authors: Moquet, Laura ; Lateur, L. ; Jacquemart, Anne-Laure ; De Cauwer, I ; Dufay,
+    M.
+  title: Temporal dynamics of sexual dimorphism in a dioecious species
+  doi: 10.1093/aob/mcaa088
+- type: journal
+  year: 2020
+  authors: Quinet, Muriel ; Jacquemart, Anne-Laure
+  title: Troubles in pear pollination  Effects of collection and storage method on
+    pollen viability and fruit production
+  doi: 10.1016/j.actao.2020.103558
+- type: journal
+  year: 2020
+  authors: Jacquemart, Anne-Laure ; Buyens, Christel ; Delescaille, L.‐M. ; Van Rossum,
+    F.
+  title: Using genetic evaluation to guide conservation of remnant Juniperus communis
+    (Cupressaceae) populations
+  doi: 10.1111/plb.13188
+- type: journal
+  year: 2020
+  authors: Mathot, Mikaël ; Lambert, Richard ; Stilmant, Didier ; Decruyenaere, V.
+  title: Carbon, nitrogen, phosphorus and potassium flows and losses from solid and
+    semi-solid manures produced by beef cattle in deep litter barns and tied stalls
+  doi: 10.1016/j.agsy.2019.102735
 - type: journal
   year: 2019
   authors: Rose, Laura ; Lobet, Guillaume
@@ -204,6 +568,53 @@
   title: MARSHAL, a novel tool for virtual phenotyping of maize root system hydraulic
     architectures
   doi: 10.1093/insilicoplants/diz012
+- type: journal
+  year: 2019
+  authors: Sulis, Mauro ; Couvreur, Valentin ; Keune, Jessica ; Cai, Gaochao ; Trebs,
+    Ivonne ; Junk, Juergen ; Shrestha, Prabhakar ; Simmer, Clemens ; Kollet, Stefan
+    J. ; Vereecken, Harry ; Vanderborght, Jan
+  title: Incorporating a root water uptake model based on the hydraulic architecture
+    approach in terrestrial systems simulations
+  doi: 10.1016/j.agrformet.2019.01.034
+- type: journal
+  year: 2019
+  authors: Quinet, Muriel ; Buyens, Christel ; Dobrev, Petre I. ; Motyka, Václav ;
+    Jacquemart, Anne-Laure
+  title: Hormonal Regulation of Early Fruit Development in European Pear (Pyrus communis
+    cv. ‘Conference’)
+  doi: 10.3390/horticulturae5010009
+- type: journal
+  year: 2019
+  authors: Quinet, Muriel ; Buyens, Christel ; Jacquemart, Anne-Laure
+  title: How to choose the best pollinizer cultivars for ‘Conférence’ pear (Pyrus
+    communis) in Belgium?
+  doi: 10.17660/actahortic.2019.1231.6
+- type: journal
+  year: 2019
+  authors: Jacquemart, Anne-Laure ; Buyens, Christel ; Herent, Marie-France ; Quetin-Leclercq,
+    Joëlle ; Lognay, Georges ; Hance, Thierry ; Quinet, Muriel
+  title: Male flowers of Aconitum compensate for toxic pollen with increased floral
+    signals and rewards for pollinators
+  doi: 10.1038/s41598-019-53355-3
+- type: journal
+  year: 2019
+  authors: Ouvrard, Pierre ; Jacquemart, Anne-Laure
+  title: Review of methods to investigate pollinator dependency in oilseed rape (Brassica
+    napus)
+  doi: 10.1016/j.fcr.2018.11.006
+- type: journal
+  year: 2019
+  authors: Miguelez Sierra, Yulien ; Acebo-Guerrero, Yanelis ; El Jaziri, Mondher
+    ; Bertin, Pierre ; Hernández-Rodríguez, Annia
+  title: Pseudomonas chlororaphis CP07 strain reduces disease severity caused by Phytophthora
+    palmivora in genotypes of Theobroma cacao
+  doi: 10.1007/s10658-019-01842-8
+- type: journal
+  year: 2019
+  authors: Leveau, Lola ; Falys, Hugues ; Bertin, Pierre
+  title: How to value the ecosystem services provided by a field? Parallel between
+    the indicators used by scientists and the empirical observations of belgian farmers
+  doi: 10.3390/proceedings2019030082
 - type: journal
   year: 2018
   authors: Passot, Sixtine ; Moreno-Ortega, Beatriz ; Moukouanga,Daniel ; Balsera,
@@ -271,6 +682,73 @@
     of plant root systems
   doi: 10.12688/f1000research.13541.1
 - type: journal
+  year: 2018
+  authors: Meunier, Félicien ; Zarebanadkouki, Mohsen ; Ahmed, Mutez A ; Carminati,
+    Andrea ; Couvreur, Valentin ; Javaux, Mathieu
+  title: Hydraulic conductivity of soil-grown lupine and maize unbranched roots and
+    maize root-shoot junctions
+  doi: 10.1016/j.jplph.2017.12.019
+- type: journal
+  year: 2018
+  authors: Jerszurki, Daniela ; Souza, Jorge Luiz Moretti ; Couvreur, Valentin
+  title: Water balance output components are distinctly regulated by precipitation
+    and evapotranspiration in Pinus taeda L. plantations in Southern Brazil
+  doi: 10.18671/scifor.v46n119.11
+- type: journal
+  year: 2018
+  authors: Couvreur, Valentin ; Ledder, G. ; Manzoni, S. ; Way, D.A. ; Muller, E.B
+    ; Russo, S.E
+  title: Water transport through tall trees  A vertically-explicit, analytical model
+    of xylem hydraulic conductance in stems
+  doi: 10.1111/pce.13322
+- type: journal
+  year: 2018
+  authors: Ouvrard, Pierre ; Jacquemart, Anne-Laure
+  title: Agri‐environment schemes targeting farmland bird populations also provide
+    food for pollinating insects
+  doi: 10.1111/afe.12289
+- type: journal
+  year: 2018
+  authors: Ouvrard, Pierre ; Transon, Julie ; Jacquemart, Anne-Laure
+  title: Flower-strip agri-environment schemes provide diverse and valuable summer
+    flower resources for pollinating insects
+  doi: 10.1007/s10531-018-1531-0
+- type: journal
+  year: 2018
+  authors: Descamps, Charlotte ; Quinet, Muriel ; Baijot, Aurélie ; Jacquemart, Anne-Laure
+  title: Temperature and water stress affect plant–pollinator interactions in Borago
+    officinalis (Boraginaceae)
+  doi: 10.1002/ece3.3914
+- type: journal
+  year: 2018
+  authors: Jacquemart, Anne-Laure ; Moquet, Laura ; Ouvrard, Pierre ; Quetin-Leclercq,
+    Joëlle ; Herent, Marie-France ; Quinet, Muriel
+  title: Tilia trees  toxic or valuable resources for pollinators?
+  doi: 10.1007/s13592-018-0581-3
+- type: journal
+  year: 2018
+  authors: Dubois, Benjamin ; Bertin, Pierre ; Hautier, Louis ; Muhovski, Yordan ;
+    Escarnot, Emmanuelle ; Mingeot, Dominique
+  title: Genetic and environmental factors affecting the expression of α-gliadin canonical
+    epitopes involved in celiac disease in a wide collection of spelt (Triticum aestivum
+    ssp. spelta) cultivars and landraces
+  doi: 10.1186/s12870-018-1487-y
+- type: journal
+  year: 2018
+  authors: Escarnot, Emmanuelle ; Gofflot, Sébastien ; Sinnaeve, Georges ; Dubois,
+    Benjamin ; Bertin, Pierre ; Mingeot, Dominique
+  title: Reactivity of gluten proteins from spelt and bread wheat accessions towards
+    A1 and G12 antibodies in the framework of celiac disease
+  doi: 10.1016/j.foodchem.2018.06.094
+- type: journal
+  year: 2018
+  authors: Orman-Ligeza, Beata ; Morris, Emily C. ; Parizot, Boris ; Lavigne,Tristan
+    ; Babé, Aurélie ; Ligeza, Alexsander ; Chaumont, François ; Batoko, Henri ; Draye,
+    Xavier
+  title: The Xerobranching Response Represses Lateral Root Formation When Roots Are
+    Not in Contact with Water
+  doi: 10.1016/j.cub.2018.07.074
+- type: journal
   year: 2017
   authors: Mohamed, Awaz ; Monnier, Yogan ; Mao, Zhun ; Lobet, Guillaume ; Maeght,
     Jean-Luc ; Ramel, Merlin ; Stokes, Alexia
@@ -309,276 +787,6 @@
     of Root Image Analysis Pipelines
   doi: 10.3389/fpls.2017.00447
 - type: journal
-  year: 2016
-  authors: Rellán-Álvarez, Ruben ; Lobet, Guillaume ; Dinneny, José R.
-  title: Environmental Control of Root System Biology
-  doi: 10.1146/annurev-arplant-043015-111848
-- type: journal
-  year: 2016
-  authors: Bouché, Frédéric ; Lobet, Guillaume ; Tocquin, Pierre ; Périlleux, Claire
-  title: FLOR-ID  An interactive database of flowering-time gene networks in Arabidopsis
-    thaliana
-  doi: 10.1093/nar/gkv1054
-- type: journal
-  year: 2016
-  authors: Bouché, F. ; D'Aloia, M. ; Tocquin, P. ; Lobet, Guillaume ; Detry, N. ;
-    Périlleux, C.
-  title: Integrating roots into a whole plant network of flowering time genes in Arabidopsis
-    thaliana
-  doi: 10.1038/srep29042
-- type: journal
-  year: 2024
-  authors: Samuel le Gall ; Dagmar van Duschoten ; Adrian Lattacher ; Mona Giraud
-    ; Moritz Harings ; Paulina Deseano Diaz ; Ahmet Sircan ; Christian Poll ; Lobet,
-    Guillaume ; Javaux, Mathieu ; Youri Rothfuss
-  title: Investigating the impact on water fluxes and physiological development of
-    the combination of contrasted root wheat cultivars from isotopic analysis
-  doi: 10.5194/egusphere-egu24-15966
-- type: journal
-  year: 2024
-  authors: Jan Vanderborght ; Juan Baca Cabrera1 ; Lobet, Guillaume ; Daniel Leitner
-    ; Javaux, Mathieu ; Couvreur, Valentin ; Andrea Schnepf
-  title: Upscaling of 3D root hydraulic architectures of trees to 1D root hydraulic
-    models
-  doi: 10.5194/egusphere-egu24-7397
-- type: journal
-  year: 2023
-  authors: Andrea Schnepf ; Christopher K. Black ; Couvreur, Valentin ; Benjamin M.
-    Delory ; Claude Doussan ; Adrien Heymans ; Javaux, Mathieu ; Deepanshu Khare ;
-    Axelle Koch ; Timo Koch ; Christian W. Kuppe ; Magdalena Land ; Daniel Leitner
-    ; Lobet, Guillaume ; Meunier, Félicien ; Johannes Postma ; Ernst Schäfer ; Tobias
-    Selzner ; Jan Vanderborght ; Harry Vereecken
-  title: Benchmarking of Functional-Structural Root Architecture Models
-  doi: 10.5194/egusphere-egu23-4425
-- type: journal
-  year: 2022
-  authors: Andrea Schnepf ; Couvreur, Valentin ; Benjamin Delory ; Claude Doussan
-    ; Javaux, Mathieu ; Deepanshu Khare1 ; Koch, Axelle ; Timo Koch ; Christian Kuppe
-    ; Daniel Leitner ; Lobet, Guillaume ; Félicien Meunier ; Johannes Postma ; Ernst
-    Schäfer ; Jan Vanderborght ; Harry Vereecken
-  title: Quantitative comparison of root water uptake simulated by functional-structural
-    root architecture models
-  doi: 10.5194/egusphere-egu22-8524
-- type: journal
-  year: 2022
-  authors: Meunier, Félicien ; Couvreur, Valentin ; Draye, Xavier ; Lobet, Guillaume
-    ; Huber, Katrin ; Schroeder, Nathalie ; Jorda, Helena ; Koch, Axelle ; Landl,
-    Magdalena ; Schnepf, Andrea ; Vanderborght, Jan ; Vereecken, Harry ; Javaux, Mathieu
-  title: Investigating Soil–Root Interactions with the Numerical Model R-SWMS
-  doi: 10.1007/978-1-0716-1816-5_13
-- type: journal
-  year: 2024
-  authors: Vanderborght, Jan ; Couvreur, Valentin ; Javaux, Mathieu ; Leitner, Daniel
-    ; Schnepf, Andrea ; Vereecken, Harry
-  title: Mechanistically derived macroscopic root water uptake functions  The &lt;i&gt;α&lt;/i&gt;
-    and &lt;i&gt;ω&lt;/i&gt; of root water uptake functions
-  doi: 10.1002/vzj2.20333
-- type: journal
-  year: 2024
-  authors: Baca Cabrera, Juan C. ; Vanderborght, Jan ; Couvreur, Valentin ; Behrend,
-    Dominik ; Gaiser, Thomas ; Nguyen, Thuy Huu ; Lobet, Guillaume
-  title: Root hydraulic properties  An exploration of their variability across scales
-  doi: 10.1002/pld3.582
-- type: journal
-  year: 2023
-  authors: Schnepf, Andrea ; Black, Christopher K ; Couvreur, Valentin ; Delory, Benjamin
-    M ; Doussan, Claude ; Heymans, Adrien ; Javaux, Mathieu ; Khare, Deepanshu ; Koch,
-    Axelle ; Koch, Timo ; Kuppe, Christian W ; Landl, Magdalena ; Leitner, Daniel
-    ; Lobet, Guillaume ; Meunier, Félicien ; Postma, Johannes A ; Schäfer, Ernst D
-    ; Selzner, Tobias ; Vanderborght, Jan ; Vereecken, Harry
-  title: Collaborative benchmarking of functional-structural root architecture models  Quantitative
-    comparison of simulated root water uptake
-  doi: 10.1093/insilicoplants/diad005
-- type: journal
-  year: 2023
-  authors: Vanderborght, Jan ; Leitner, Daniel ; Schnepf, Andrea ; Couvreur, Valentin
-    ; Vereecken, Harry ; Javaux, Mathieu
-  title: Combining root and soil hydraulics in macroscopic representations of root
-    water uptake
-  doi: 10.1002/vzj2.20273
-- type: journal
-  year: 2023
-  authors: Dubbert, M. ; Couvreur, Valentin ; Kübert, A. ; Werner, C.
-  title: Plant water uptake modelling  added value of cross‐disciplinary approaches
-  doi: 10.1111/plb.13478
-- type: journal
-  year: 2022
-  authors: Saint Cast, Clément ; Lobet, Guillaume ; Cabrera-Bosquet, Llorenç ; Couvreur,
-    Valentin ; Pradal, Christophe ; Tardieu, François ; Draye, Xavier
-  title: Connecting plant phenotyping and modelling communities  lessons from science
-    mapping and operational perspectives
-  doi: 10.1093/insilicoplants/diac005
-- type: journal
-  year: 2022
-  authors: Pou, Alicia ; Hachez, Charles ; Couvreur, Valentin ; Maistriaux,Laurie
-    ; Ismail, Ahmed ; Chaumont, François
-  title: Exposure to high nitrogen triggered a genotype‐dependent modulation of cell
-    and root hydraulics, which can involve aquaporin regulation
-  doi: 10.1111/ppl.13640
-- type: journal
-  year: 2022
-  authors: Mehra, Poonam ; Pandey, Bipin K. ; Melebari, Dalia ; Banda, Jason ; Leftley,
-    Nicola ; Couvreur, Valentin ; Rowe, James ; Anfang, Moran ; De Gernier, Hugues
-    ; Morris, Emily ; Sturrock, Craig J. ; Mooney, Sacha J. ; Swarup, Ranjan ; Faulkner,
-    Christine ; Beeckman, Tom ; Bhalerao, Rishikesh P. ; Shani, Eilon ; Jones, Alexander
-    M. ; Dodd, Ian C. ; Sharp, Robert E. ; Sadanandom, Ari ; Draye, Xavier ; Bennett,
-    Malcolm J.
-  title: Hydraulic flux–responsive hormone redistribution determines root branching
-  doi: 10.1126/science.add3771
-- type: journal
-  year: 2022
-  authors: De Swaef, Tom ; Pieters, Olivier ; Appeltans, Simon ; Borra-Serrano, Irene
-    ; Coudron, Willem ; Couvreur, Valentin ; Garré, Sarah ; Lootens, Peter ; Nicolaï,
-    Bart ; Pols, Leroi ; Saint Cast, Clément ; Šalagovič, Jakub ; Van Haeverbeke,
-    Maxime ; Stock, Michiel ; wyffels, Francis
-  title: On the pivotal role of water potential to model plant physiological processes
-  doi: 10.1093/insilicoplants/diab038
-- type: journal
-  year: 2021
-  authors: Heymans, Adrien ; Couvreur, Valentin ; Lobet, Guillaume
-  title: Combining cross-section images and modeling tools to create high-resolution
-    root system hydraulic atlases in Zea mays
-  doi: 10.1002/pld3.334
-- type: journal
-  year: 2021
-  authors: Couvreur, Valentin ; Heymans, Adrien ; Lobet, Guillaume ; Draye, Xavier
-  title: Evidence for a multicellular symplasmic water pumping mechanism across vascular
-    plant roots
-  doi: 10.1101/2021.04.19.439789
-- type: journal
-  year: 2021
-  authors: Vanderborght, Jan ; Couvreur, Valentin ; Meunier, Felicien ; Schnepf, Andrea
-    ; Vereecken, Harry ; Bouda, Martin ; Javaux, Mathieu
-  title: From hydraulic root architecture models to  macroscopic representations of
-    root hydraulics  in soil water flow and land surface models
-  doi: 10.5194/hess-25-4835-2021
-- type: journal
-  year: 2021
-  authors: Barczi, Jean-François ; Beroueg, Amira ; Buck-Sorlin, Gerhard ; Couvreur,
-    Valentin ; Danjon, Frédéric ; Delory, Benjamin M. ; Doussan, Claude ; De Swaef,
-    Tom ; Draye, Xavier ; Drouet, Jean-Louis ; Dupuy, Lionel ; Garre, Sarah ; Gérard,
-    Frédéric ; Heymans, Adrien ; Hinsinger, Philippe ; Javaux, Mathieu ; Koch, Axelle
-    ; Landl, Magdalena ; Lecompte, François ; Leitner, Daniel ; Lobet, Guillaume ;
-    Lynch, Jonathan ; Martre, Pierre ; Meredieu, Céline ; Meunier, Felicien ; Mollier,
-    Alain ; Muller, Bertrand ; Nguyen, Christophe ; Picon-Cochard, Catherine ; Postma,
-    Johannes A. ; Pradal, Christophe ; Rees, Frédéric ; Richard-Molard, Céline ; Roose,
-    Tiina ; Saint Cast, Clément ; Schnepf, Andrea ; Thaler, Philippe ; Vanderborght,
-    Jan ; Wu, Lianhai ; Zhou, Xiaoran
-  title: Loïc Pagès, founding scientist in root ecology and modelling
-  doi: 10.1093/insilicoplants/diab035
-- type: journal
-  year: 2021
-  authors: Pascut, Flavius C. ; Couvreur, Valentin ; Dietrich, Daniela ; Leftley,
-    Nicky ; Reyt, Guilhem ; Boursiac, Yann ; Calvo-Polanco, Monica ; Casimiro, Ilda
-    ; Maurel, Christophe ; Salt, David E. ; Draye, Xavier ; Wells, Darren M. ; Bennett,
-    Malcolm J. ; Webb, Kevin F.
-  title: Non-invasive hydrodynamic imaging in plant roots at cellular resolution
-  doi: 10.1038/s41467-021-24913-z
-- type: journal
-  year: 2021
-  authors: Agee, Elizabeth ; He, Lingli ; Bisht, Gautam ; Couvreur, Valentin ; Shahbaz,
-    Parisa ; Meunier, Félicien ; Gough, Christopher M. ; Matheny, Ashley M. ; Bohrer,
-    Gil ; Ivanov, Valeriy
-  title: Root lateral interactions drive water uptake patterns under water limitation
-  doi: 10.1016/j.advwatres.2021.103896
-- type: journal
-  year: 2020
-  authors: Schnepf, Andrea ; Black, Christopher K. ; Couvreur, Valentin ; Delory,
-    Benjamin M. ; Doussan, Claude ; Koch, Axelle ; Koch, Timo ; Javaux, Mathieu ;
-    Landl, Magdalena ; Leitner, Daniel ; Lobet, Guillaume ; Mai, Trung Hieu ; Meunier,
-    Félicien ; Petrich, Lukas ; Postma, Johannes A. ; Priesack, Eckart ; Schmidt,
-    Volker ; Vanderborght, Jan ; Vereecken, Harry ; Weber, Matthias
-  title: Call for Participation  Collaborative Benchmarking of Functional-Structural
-    Root Architecture Models. The Case of Root Water Uptake
-  doi: 10.3389/fpls.2020.00316
-- type: journal
-  year: 2020
-  authors: Couvreur, Valentin ; Rothfuss, Youri ; Meunier, Félicien ; Bariac, Thierry
-    ; Biron, Philippe ; Durand, Jean-Louis ; Richard, Patricia ; Javaux, Mathieu
-  title: Disentangling temporal and population variability in plant root water uptake
-    from stable isotopic analysis  when rooting depth matters in labeling studies
-  doi: 10.5194/hess-24-3057-2020
-- type: journal
-  year: 2020
-  authors: Ding, Lei ; Milhiet, Thomas ; Couvreur, Valentin ; Nelissen, Hilde ; Meziane,
-    Adel ; Parent, Boris ; Aesaert, Stijn ; Van Lijsebettens, Mieke ; Inzé, Dirk ;
-    Tardieu, François ; Draye, Xavier ; Chaumont, François
-  title: Modification of the expression of the aquaporin ZmPIP2;5 affects water relations
-    and plant growth
-  doi: 10.1104/pp.19.01183
-- type: journal
-  year: 2020
-  authors: van Dusschoten, Dagmar ; Kochs, Johannes ; Kuppe, Christian W. ; Sydoruk,
-    Viktor A. ; Couvreur, Valentin ; Pflugfelder, Daniel ; Postma, Johannes A.
-  title: Spatially Resolved Root Water Uptake Determination Using a Precise Soil Water
-    Sensor
-  doi: 10.1104/pp.20.00488
-- type: journal
-  year: 2019
-  authors: Heymans, Adrien ; Couvreur, Valentin ; LaRue, Therese ; Paez-Garcia, Ana
-    ; Lobet, Guillaume
-  title: GRANAR, a computational tool to better understand the functional importance
-    of monocotyledon root anatomy
-  doi: 10.1104/pp.19.00617
-- type: journal
-  year: 2019
-  authors: Sulis, Mauro ; Couvreur, Valentin ; Keune, Jessica ; Cai, Gaochao ; Trebs,
-    Ivonne ; Junk, Juergen ; Shrestha, Prabhakar ; Simmer, Clemens ; Kollet, Stefan
-    J. ; Vereecken, Harry ; Vanderborght, Jan
-  title: Incorporating a root water uptake model based on the hydraulic architecture
-    approach in terrestrial systems simulations
-  doi: 10.1016/j.agrformet.2019.01.034
-- type: journal
-  year: 2019
-  authors: Meunier, Félicien ; Heymans, Adrien ; Draye, Xavier ; Couvreur, Valentin
-    ; Javaux, Mathieu ; Lobet, Guillaume
-  title: MARSHAL, a novel tool for virtual phenotyping of maize root system hydraulic
-    architectures
-  doi: 10.1093/insilicoplants/diz012
-- type: journal
-  year: 2018
-  authors: Passot, Sixtine ; Couvreur, Valentin ; Meunier, Félicien ; Draye, Xavier
-    ; Javaux, Mathieu ; Leitner, Danier ; Pagès, Loïc ; Schnepf, Andrea ; Vanderborgth,
-    Jan ; Lobet, Guillaume
-  title: Connecting the dots between computational tools to analyse soil-root water
-    relations
-  doi: 10.1101/312918
-- type: journal
-  year: 2018
-  authors: Passot, Sixtine ; Couvreur, Valentin ; Meunier, Félicien ; Draye, Xavier
-    ; Javaux, Mathieu ; Leitner, Daniel ; Pagès, Loïc ; Schnepf, Andrea ; Vanderborght,
-    Jan ; Lobet, Guillaume
-  title: Connecting the dots between computational tools to analyse soil-root water
-    relations
-  doi: 10.1093/jxb/ery361
-- type: journal
-  year: 2018
-  authors: Couvreur, Valentin ; Faget, Marc ; Lobet, Guillaume ; Javaux, Mathieu ;
-    Chaumont, François ; Draye, Xavier
-  title: Going with the Flow  Multiscale Insights into the Composite Nature of Water
-    Transport in Roots
-  doi: 10.1104/pp.18.01006
-- type: journal
-  year: 2018
-  authors: Meunier, Félicien ; Zarebanadkouki, Mohsen ; Ahmed, Mutez A ; Carminati,
-    Andrea ; Couvreur, Valentin ; Javaux, Mathieu
-  title: Hydraulic conductivity of soil-grown lupine and maize unbranched roots and
-    maize root-shoot junctions
-  doi: 10.1016/j.jplph.2017.12.019
-- type: journal
-  year: 2018
-  authors: Jerszurki, Daniela ; Souza, Jorge Luiz Moretti ; Couvreur, Valentin
-  title: Water balance output components are distinctly regulated by precipitation
-    and evapotranspiration in Pinus taeda L. plantations in Southern Brazil
-  doi: 10.18671/scifor.v46n119.11
-- type: journal
-  year: 2018
-  authors: Couvreur, Valentin ; Ledder, G. ; Manzoni, S. ; Way, D.A. ; Muller, E.B
-    ; Russo, S.E
-  title: Water transport through tall trees  A vertically-explicit, analytical model
-    of xylem hydraulic conductance in stems
-  doi: 10.1111/pce.13322
-- type: journal
   year: 2017
   authors: Meunier, Félicien ; Draye, Xavier ; Vanderborght, Jan ; Javaux, Mathieu
     ; Couvreur, Valentin
@@ -603,13 +811,6 @@
   doi: 10.2136/vzj2016.12.0134
 - type: journal
   year: 2017
-  authors: Couvreur, Valentin ; Faget, Marc ; Lobet, Guillaume ; Chaumont, François
-    ; Javaux, Mathieu ; Draye, Xavier
-  title: Novel multiscale insights into the composite nature of water transport in
-    roots
-  doi: 10.1101/147314
-- type: journal
-  year: 2017
   authors: Cai, G. ; Vandenborght, J. ; Couvreur, Valentin ; Mboh, C. ; Vereecken,
     H.
   title: Parameterization of root water uptake models considering dynamic root distributions
@@ -630,306 +831,6 @@
   title: Water movement through plant roots – exact solutions of the water flow equation
     in roots with linear or exponential piecewise hydraulic properties
   doi: 10.5194/hess-21-6519-2017
-- type: journal
-  year: 2016
-  authors: Couvreur, Valentin ; Harter, T. ; Read, M. ; Brown, P.H. ; Hopmans, J.W.
-    ; Smart, D.R. ; Baram, S.
-  title: Assessment of orchard N losses to groundwater with a vadose zone monitoring
-    network
-  doi: 10.1016/j.agwat.2016.04.012
-- type: journal
-  year: 2016
-  authors: Couvreur, Valentin ; Kandelous, M.M ; Sanden, B.L. ; Lampinen, B.D. ; Hopmans,
-    J.W.
-  title: Downscaling transpiration rate from field to tree scale
-  doi: 10.1016/j.agrformet.2016.02.008
-- type: journal
-  year: 2016
-  authors: Baram, S. ; Couvreur, Valentin ; Read, M. ; Harter, T. ; Brown, P.H. ;
-    Kandelous, M. ; Smart, D.R. ; Hopmans, J.W.
-  title: Estimating nitrate leaching to groundwater from orchards  Comparing crop
-    Nitrogen excess, deep vadose zone data-driven estimates, and HYDRUS modeling
-  doi: 10.2136/vzj2016.07.0061
-- type: journal
-  year: 2016
-  authors: Zarebanadkouki, Mohsen ; Meunier, Félicien ; Couvreur, Valentin ; Cesar,
-    Jimenez ; Javaux, Mathieu ; Carminati, Andrea
-  title: Estimation of the hydraulic conductivities of lupine roots by inverse modelling
-    of high-resolution measurements of root water uptake
-  doi: 10.1093/aob/mcw154
-- type: journal
-  year: 2024
-  authors: Bouda, Martin ; Jan Vanderborght ; Couvreur, Valentin ; Václav Šípek ;
-    Javaux, Mathieu
-  title: Quantifying cross-scale hydrodynamic effects of root ecophysiology
-  doi: 10.5194/egusphere-egu24-9401
-- type: journal
-  year: 2024
-  authors: Jan Vanderborght ; Juan Baca Cabrera1 ; Lobet, Guillaume ; Daniel Leitner
-    ; Javaux, Mathieu ; Couvreur, Valentin ; Andrea Schnepf
-  title: Upscaling of 3D root hydraulic architectures of trees to 1D root hydraulic
-    models
-  doi: 10.5194/egusphere-egu24-7397
-- type: journal
-  year: 2023
-  authors: Jan Vanderborght ; Andrea Schnepf ; Daniel Leitner ; Couvreur, Valentin
-    ; Javaux, Mathieu
-  title: A mechanistic derivation of 'alpha-omega' root water uptake models.
-  doi: 10.5194/egusphere-egu23-3484
-- type: journal
-  year: 2023
-  authors: Andrea Schnepf ; Christopher K. Black ; Couvreur, Valentin ; Benjamin M.
-    Delory ; Claude Doussan ; Adrien Heymans ; Javaux, Mathieu ; Deepanshu Khare ;
-    Axelle Koch ; Timo Koch ; Christian W. Kuppe ; Magdalena Land ; Daniel Leitner
-    ; Lobet, Guillaume ; Meunier, Félicien ; Johannes Postma ; Ernst Schäfer ; Tobias
-    Selzner ; Jan Vanderborght ; Harry Vereecken
-  title: Benchmarking of Functional-Structural Root Architecture Models
-  doi: 10.5194/egusphere-egu23-4425
-- type: journal
-  year: 2023
-  authors: Couvreur, Valentin ; Mehra, Poonam ; Pandey, Bipin ; Draye, Xavier ;  Bennett,
-    Malcom
-  title: How air gaps in soils alter the distribution of root water and hormones fluxes,
-    thereby blocking root lateral branching
-  doi: 10.5194/egusphere-egu23-9384
-- type: journal
-  year: 2022
-  authors: Bouda, Martin ; Jan Vandergborght ; Couvreur, Valentin ; Javaux, Mathieu
-  title: Predicting plant water limitation in heterogeneously drying soils  the upscaling
-    approach to improving soil-plant hydrodynamics in ESMs
-  doi: 10.5194/egusphere-egu22-12601
-- type: journal
-  year: 2022
-  authors: Andrea Schnepf ; Couvreur, Valentin ; Benjamin Delory ; Claude Doussan
-    ; Javaux, Mathieu ; Deepanshu Khare1 ; Koch, Axelle ; Timo Koch ; Christian Kuppe
-    ; Daniel Leitner ; Lobet, Guillaume ; Félicien Meunier ; Johannes Postma ; Ernst
-    Schäfer ; Jan Vanderborght ; Harry Vereecken
-  title: Quantitative comparison of root water uptake simulated by functional-structural
-    root architecture models
-  doi: 10.5194/egusphere-egu22-8524
-- type: journal
-  year: 2021
-  authors: Vanderborght, Jan ; Couvreur, Valentin ; Meunier, Félicien ; Schnepf, Andrea
-    ; Vereecken, Harry ; Bouda, Martin ; Javaux, Mathieu
-  title: Towards the consideration of soil-root resistances in root water uptake models
-    for macroscopic representations of hydraulic root architecture
-  doi: 10.5194/egusphere-egu21-8151
-- type: journal
-  year: 2020
-  authors: Couvreur, Valentin ; Rothfuss, Youri ; Meunier, Félicien ; Bariac, Thierry
-    ; Biron, Philippe ; Durand, Jean-Louis ; Javaux, Mathieu
-  title: Disentangling temporal and population variability in plant root water uptake
-    from stable isotopic analysis  a labeling study
-  doi: 10.5194/hess-2019-543
-- type: journal
-  year: 2020
-  authors: Bouda, Martin ; Vanderborght, Jan ; Couvreur, Valentin ; Meunier, Félicien
-    ; Javaux, Mathieu
-  title: How to scale root water uptake from root scale to stands and beyond – a theoretical
-    framework, practical lessons, and next steps
-  doi: 10.5194/egusphere-egu2020-21673
-- type: journal
-  year: 2020
-  authors: Rothfuss, Youri ; Couvreur, Valentin ; Meunier, Félicien ; De Deurwaerder,
-    Hannes ; Visser, Marco D. ; Javaux, Mathieu
-  title: Reconstructing Root Water Uptake from isotopic data and physically-based
-    models  looking at recent effort and proposing a path forward
-  doi: 10.5194/egusphere-egu2020-21157
-- type: journal
-  year: 2016
-  authors: Meunier, Félicien ; Javaux, Mathieu ; Couvreur, Valentin ; Draye, Xavier
-    ; Vanderborght, Jan
-  title: A new model for optimizing the water acquisition of root hydraulic architectures
-    over full crop cycles
-  doi: 10.1109/FSPMA.2016.7818300
-- type: journal
-  year: 2023
-  authors: Carminati, Andrea ; Marin, Maria ; Couvreur, Valentin ; Zarebanadkouki,
-    Mohsen ; Declerck, Stephan ; Javaux, Mathieu
-  title: Root water uptake and myco-rhizosphere hydraulic properties
-  doi: 10.1016/b978-0-12-822974-3.00222-6
-- type: journal
-  year: 2022
-  authors: Meunier, Félicien ; Couvreur, Valentin ; Vanderborght, Jan ; Javaux, Mathieu
-  title: How to Define the Appropriate Spatial Resolution of Root Segments When Solving
-    in Root System Hydraulic
-  doi: 10.1007/978-1-0716-1816-5_14
-- type: journal
-  year: 2022
-  authors: Meunier, Félicien ; Couvreur, Valentin ; Draye, Xavier ; Lobet, Guillaume
-    ; Huber, Katrin ; Schroeder, Nathalie ; Jorda, Helena ; Koch, Axelle ; Landl,
-    Magdalena ; Schnepf, Andrea ; Vanderborght, Jan ; Vereecken, Harry ; Javaux, Mathieu
-  title: Investigating Soil–Root Interactions with the Numerical Model R-SWMS
-  doi: 10.1007/978-1-0716-1816-5_13
-- type: journal
-  year: 2025
-  authors: Michelot‐Antalik, Alice ; Langlois, Alban ; de Bello, Francesco ; Desaegher,
-    James ; Genty, Léa ; Goulnik, Jérémie ; Grosjean, Jérémy ; Jacquemart, Anne-Laure
-    ; Kergunteuil, Alan ; Junker, Robert R. ; Jeannerod, Léna ; Odoux, Jean‐François
-    ; Proffit, Magali ; Schatz, Bertrand ; Vanderplanck, Maryse ; E‐Vojtkó, Anna ;
-    Baude, Mathilde
-  title: Handbook of protocols for standardized measurements of floral traits for
-    pollinators in temperate communities
-  doi: 10.1111/2041-210x.70031
-- type: journal
-  year: 2024
-  authors: Yang, Nana ; Rongione, Charles ; Jacquemart, Anne-Laure ; Draye, Xavier
-    ; De Vleeschouwer, Christophe
-  title: On the Importance of Diversity When Training Deep Learning Segmentation Models
-    with Error-Prone Pseudo-Labels
-  doi: 10.3390/app14125156
-- type: journal
-  year: 2023
-  authors: Reverté, Sara ; Gérard, Maxence ; Bodson, Maxime ; Descamps, Charlotte
-    ; Gosselin, Matthias ; Jacquemart, Anne-Laure ; Louvieaux, Julien ; Smagghe, Guy
-    ; Vandamme, Peter ; Vereecken, Nicolas J. ; Michez, Denis
-  title: Intraspecific size shifts in generalist bumblebees and flowers lead to low
-    functional consequences
-  doi: 10.1002/ecs2.4640
-- type: journal
-  year: 2023
-  authors: Sinébou, Viviane ; Togbé, Euloge Codjo ; Ezin A., Vincent ; Ahohouendo,
-    Alain Fanou ; Ahohuendo, Bonaventure Cohovi ; Jacquemart, Anne-Laure
-  title: Toward the Reshaping of an Endogenous Leafy Vegetable Value Chain  the Case
-    Study of Vitex doniana in the Republic of Benin
-  doi: 10.1007/s12231-023-09591-w
-- type: journal
-  year: 2022
-  authors: Quinet, Muriel ; Buyens, Christel ; Jacquemart, Anne-Laure
-  title: Does gibberellin treatment inducing parthenocarpy affect development of fruits
-    from fertilization in pear (Pyrus communis ‘Conférence’) ?
-  doi: 10.17660/actahortic.2022.1342.27
-- type: journal
-  year: 2022
-  authors: Medina Torres, Byron Daniel ; Jonard, Mathieu ; Rendon, Melina ; Jacquemart,
-    Anne-Laure
-  title: Effects of Pine Plantation on Native Ecuadorian Páramo Vegetation
-  doi: 10.3390/f13091499
-- type: journal
-  year: 2022
-  authors: Jeannerod, Léna ; Carlier, Archibald ; Schatz, Bertrand ; Daise, Clothilde
-    ; Richel, Aurore ; Agnan, Yannick ; Baude, Mathilde ; Jacquemart, Anne-Laure ;
-    Del-Claro, Kleber
-  title: Some bee-pollinated plants provide nutritionally incomplete pollen amino
-    acid resources to their pollinators
-  doi: 10.1371/journal.pone.0269992
-- type: journal
-  year: 2021
-  authors: Descamps, Charlotte ; Gaspard, François ; Delmelle, Pierre ; Jacquemart,
-    Anne-Laure ; Lecoq, Julie
-  title: Accompagner les étudiants bacheliers bioingénieurs dans le développement
-    de leurs compétences transversales
-  doi: 10.14428/qpes.v1i3.62103
-- type: journal
-  year: 2021
-  authors: Descamps, Charlotte ; Quinet, Muriel ; Jacquemart, Anne-Laure
-  title: Climate Change–Induced Stress Reduce Quantity and Alter Composition of Nectar
-    and Pollen From a Bee-Pollinated Species (Borago officinalis, Boraginaceae)
-  doi: 10.3389/fpls.2021.755843
-- type: journal
-  year: 2021
-  authors: Moquet, Laura ; Jacquemart, Anne-Laure ; Dufay, Mathilde ; De Cauwer, Isabelle
-  title: Effects of sexual dimorphism on pollinator behaviour in a dioecious species
-  doi: 10.1111/oik.08662
-- type: journal
-  year: 2021
-  authors: Descamps, Charlotte ; Boubnan, Najet ; Jacquemart, Anne-Laure ; Quinet,
-    Muriel
-  title: Growing and Flowering in a Changing Climate  Effects of Higher Temperatures
-    and Drought Stress on the Bee-Pollinated Species Impatiens glandulifera Royle
-  doi: 10.3390/plants10050988
-- type: journal
-  year: 2021
-  authors: Descamps, Charlotte ; Quinet, Muriel ; Jacquemart, Anne-Laure
-  title: The effects of drought on plant–pollinator interactions  What to expect?
-  doi: 10.1016/j.envexpbot.2020.104297
-- type: journal
-  year: 2021
-  authors: Descamps, Charlotte ; Jambrek, Anne ; Quinet, Muriel ; Jacquemart, Anne-Laure
-  title: Warm Temperatures Reduce Flower Attractiveness and Bumblebee Foraging
-  doi: 10.3390/insects12060493
-- type: journal
-  year: 2020
-  authors: Langlois, Alban ; Jacquemart, Anne-Laure ; Piqueray, Julien
-  title: Contribution of Extensive Farming Practices to the Supply of Floral Resources
-    for Pollinators
-  doi: 10.3390/insects11110818
-- type: journal
-  year: 2020
-  authors: Descamps, Charlotte ; Marée, Sophie ; Hugon, Sophie ; Quinet, Muriel ;
-    Jacquemart, Anne-Laure
-  title: "Species‐specific responses to combined water stress and increasing temperatures
-    in two bee‐pollinated congeners (\r\n            Echium\r\n            , Boraginaceae)"
-  doi: 10.1002/ece3.6389
-- type: journal
-  year: 2020
-  authors: Moquet, Laura ; Lateur, L. ; Jacquemart, Anne-Laure ; De Cauwer, I ; Dufay,
-    M.
-  title: Temporal dynamics of sexual dimorphism in a dioecious species
-  doi: 10.1093/aob/mcaa088
-- type: journal
-  year: 2020
-  authors: Quinet, Muriel ; Jacquemart, Anne-Laure
-  title: Troubles in pear pollination  Effects of collection and storage method on
-    pollen viability and fruit production
-  doi: 10.1016/j.actao.2020.103558
-- type: journal
-  year: 2020
-  authors: Jacquemart, Anne-Laure ; Buyens, Christel ; Delescaille, L.‐M. ; Van Rossum,
-    F.
-  title: Using genetic evaluation to guide conservation of remnant Juniperus communis
-    (Cupressaceae) populations
-  doi: 10.1111/plb.13188
-- type: journal
-  year: 2019
-  authors: Quinet, Muriel ; Buyens, Christel ; Dobrev, Petre I. ; Motyka, Václav ;
-    Jacquemart, Anne-Laure
-  title: Hormonal Regulation of Early Fruit Development in European Pear (Pyrus communis
-    cv. ‘Conference’)
-  doi: 10.3390/horticulturae5010009
-- type: journal
-  year: 2019
-  authors: Quinet, Muriel ; Buyens, Christel ; Jacquemart, Anne-Laure
-  title: How to choose the best pollinizer cultivars for ‘Conférence’ pear (Pyrus
-    communis) in Belgium?
-  doi: 10.17660/actahortic.2019.1231.6
-- type: journal
-  year: 2019
-  authors: Jacquemart, Anne-Laure ; Buyens, Christel ; Herent, Marie-France ; Quetin-Leclercq,
-    Joëlle ; Lognay, Georges ; Hance, Thierry ; Quinet, Muriel
-  title: Male flowers of Aconitum compensate for toxic pollen with increased floral
-    signals and rewards for pollinators
-  doi: 10.1038/s41598-019-53355-3
-- type: journal
-  year: 2019
-  authors: Ouvrard, Pierre ; Jacquemart, Anne-Laure
-  title: Review of methods to investigate pollinator dependency in oilseed rape (Brassica
-    napus)
-  doi: 10.1016/j.fcr.2018.11.006
-- type: journal
-  year: 2018
-  authors: Ouvrard, Pierre ; Jacquemart, Anne-Laure
-  title: Agri‐environment schemes targeting farmland bird populations also provide
-    food for pollinating insects
-  doi: 10.1111/afe.12289
-- type: journal
-  year: 2018
-  authors: Ouvrard, Pierre ; Transon, Julie ; Jacquemart, Anne-Laure
-  title: Flower-strip agri-environment schemes provide diverse and valuable summer
-    flower resources for pollinating insects
-  doi: 10.1007/s10531-018-1531-0
-- type: journal
-  year: 2018
-  authors: Descamps, Charlotte ; Quinet, Muriel ; Baijot, Aurélie ; Jacquemart, Anne-Laure
-  title: Temperature and water stress affect plant–pollinator interactions in Borago
-    officinalis (Boraginaceae)
-  doi: 10.1002/ece3.3914
-- type: journal
-  year: 2018
-  authors: Jacquemart, Anne-Laure ; Moquet, Laura ; Ouvrard, Pierre ; Quetin-Leclercq,
-    Joëlle ; Herent, Marie-France ; Quinet, Muriel
-  title: Tilia trees  toxic or valuable resources for pollinators?
-  doi: 10.1007/s13592-018-0581-3
 - type: journal
   year: 2017
   authors: Ouvrard, Pierre ; Quinet, Muriel ; Jacquemart, Anne-Laure
@@ -994,100 +895,6 @@
     to inform policy
   doi: 10.3897/rio.3.e13414
 - type: journal
-  year: 2016
-  authors: Jacquemart, Anne-Laure ; Lhoir, Pierre ; Binard, Fabian ; Descamps, Charlotte
-  title: An Interactive Multimedia Dichotomous Key for Teaching Plant Identification
-  doi: 10.1080/00219266.2016.1150870
-- type: journal
-  year: 2016
-  authors: Quinet, Muriel ; Warzée, Martin ; Vanderplanck, Maryse ; Michez, Denis
-    ; Lognay, Georges ; Jacquemart, Anne-Laure
-  title: Do floral resources influence pollination rates and subsequent fruitset in
-    pear (Pyrus communis L.) and apple (Malus x domestica Borkh) cultivars?
-  doi: 10.1016/j.eja.2016.04.001
-- type: journal
-  year: 2016
-  authors: Somme, Laurent ; Moquet, Laura ; Quinet, Muriel ; Vanderplanck, Maryse
-    ; Michez, Denis ; Lognay, Georges ; Jacquemart, Anne-Laure
-  title: Food in a row  urban trees offer valuable floral resources to pollinating
-    insects
-  doi: 10.1007/s11252-016-0555-z
-- type: journal
-  year: 2016
-  authors: Quinet, Muriel ; Mabeluanga, Tracy ; Moquet, Laura ; Jacquemart, Anne-Laure
-  title: Introduction of new tools to improve pollination in European pear orchards
-  doi: 10.1016/j.scienta.2016.10.014
-- type: journal
-  year: 2016
-  authors: Sinébou, Viviane ; Quinet, Muriel ; Ahohuendo, Bonaventure C. ; Jacquemart,
-    Anne-Laure
-  title: Reproductive traits affect the rescue of valuable and endangered multipurpose
-    tropical trees.
-  doi: 10.1093/aobpla/plw051
-- type: journal
-  year: 2022
-  authors: Yang, Nana ; Joos de ter Beerst, Victor ; Jacquemart, Anne-Laure ; Buyens,
-    Christel ; De Vleeschouwer, Christophe
-  title: Using Pure Pollen Species When Training a CNN to Segment Pollen Mixtures
-  doi: 10.1109/CVPRW56347.2022.00176
-- type: journal
-  year: 2024
-  authors: Phan, Nhung Thi Hong ; Heymans, Adrien ; Bonnave, Mathieu ; Tang, Hanh
-    Thi ; Pham, Cuong Van ; Bertin, Pierre
-  title: Nitrogen use efficiency and yield components of rice as influenced by reducing
-    nitrogen application under salinity conditions in a pot experiment
-  doi: 10.1080/01904167.2024.2308201
-- type: journal
-  year: 2023
-  authors: Rasoamanalina, Rivo Onisoa Léa ; Mirzaei, Khaled ; El Jaziri, Mondher ;
-    Ramirez Ramirez, Angel Rafael ; Bertin, Pierre
-  title: Diversity and structure assessment of the genetic resources in a germplasm
-    collection from a vanilla breeding programme in Madagascar
-  doi: 10.1017/s1479262123000631
-- type: journal
-  year: 2023
-  authors: Phan, Nhung Thi Hong ; Draye, Xavier ; Pham, Cuong Van ; Bertin, Pierre
-  title: Identification of quantitative trait loci controlling nitrogen use efficiency-related
-    traits in rice at the seedling stage under salt condition by genome-wide association
-    study
-  doi: 10.3389/fpls.2023.1197271
-- type: journal
-  year: 2023
-  authors: Phan, Nhung Thi Hong ; Van Pham, Cuong ; Tang, Hanh Thi ; Van Nguyen, Loc
-    ; Nguyen, Long Viet ; Bertin, Pierre
-  title: Integration of genome-wide association studies reveal loci associated with
-    salt tolerance score of rice at the seedling stage
-  doi: 10.1007/s13353-023-00775-7
-- type: journal
-  year: 2023
-  authors: Phan, Nhung Thi Hong ; Heymans, Adrien ; Bonnave, Mathieu ; Lutts, Stanley
-    ; Pham, Cuong Van ; Bertin, Pierre
-  title: Nitrogen Use Efficiency of Rice Cultivars (Oryza sativa L.) Under Salt Stress
-    and Low Nitrogen Conditions
-  doi: 10.1007/s00344-022-10660-y
-- type: journal
-  year: 2019
-  authors: Miguelez Sierra, Yulien ; Acebo-Guerrero, Yanelis ; El Jaziri, Mondher
-    ; Bertin, Pierre ; Hernández-Rodríguez, Annia
-  title: Pseudomonas chlororaphis CP07 strain reduces disease severity caused by Phytophthora
-    palmivora in genotypes of Theobroma cacao
-  doi: 10.1007/s10658-019-01842-8
-- type: journal
-  year: 2018
-  authors: Dubois, Benjamin ; Bertin, Pierre ; Hautier, Louis ; Muhovski, Yordan ;
-    Escarnot, Emmanuelle ; Mingeot, Dominique
-  title: Genetic and environmental factors affecting the expression of α-gliadin canonical
-    epitopes involved in celiac disease in a wide collection of spelt (Triticum aestivum
-    ssp. spelta) cultivars and landraces
-  doi: 10.1186/s12870-018-1487-y
-- type: journal
-  year: 2018
-  authors: Escarnot, Emmanuelle ; Gofflot, Sébastien ; Sinnaeve, Georges ; Dubois,
-    Benjamin ; Bertin, Pierre ; Mingeot, Dominique
-  title: Reactivity of gluten proteins from spelt and bread wheat accessions towards
-    A1 and G12 antibodies in the framework of celiac disease
-  doi: 10.1016/j.foodchem.2018.06.094
-- type: journal
   year: 2017
   authors: Dubois, Benjamin ; Bertin, Pierre ; Muhovski, Yordan ; Escarnot, Emmanuelle
     ; Mingeot, Dominique
@@ -1124,6 +931,118 @@
     plants in Cuba
   doi: 10.1007/s10722-015-0333-4
 - type: journal
+  year: 2017
+  authors: Wang, Baohua ; Zhuang,Zhimin ; Zhang, Zhengsheng ; Draye, Xavier ; Shuang,
+    Lan-Shuan
+  title: Advanced Backcross QTL Analysis of Fiber Strength and Fineness in a Cross
+    between Gossypium hirsutum and G. mustelinum
+  doi: 10.3389/fpls.2017.01848
+- type: journal
+  year: 2017
+  authors: Wang, Baohua ; Draye, Xavier ; Zhuang, Zhimin ; Zhang, Zhengsheng ; Liu,
+    Min ; Lubbers, Edward L. ; Jones, Don ; May, O. Lloyd ; Paterson, Andrew H. ;
+    Chee, Peng W.
+  title: QTL analysis of cotton fiber length in advanced backcross populations derived
+    from a cross between Gossypium hirsutum and G. mustelinum
+  doi: 10.1007/s00122-017-2889-1
+- type: journal
+  year: 2017
+  authors: Tardieu, Francois ; Draye, Xavier ; Javaux, Mathieu
+  title: Root Water Uptake and Ideotypes of the Root System  Whole-Plant Controls
+    Matter
+  doi: 10.2136/vzj2017.05.0107
+- type: journal
+  year: 2017
+  authors: Chandnani, Rahul ; Wang, Baohua ; Draye, Xavier ; Rainville, Lisa K. ;
+    Auckland, Susan ; Zhuang, Zhimin ; Lubbers, Edward L. ; May, O. Lloyd ; Chee,
+    Peng W. ; Paterson, Andrew H.
+  title: Segregation distortion and genome-wide digenic interactions affect transmission
+    of introgressed chromatin from wild cotton species
+  doi: 10.1007/s00122-017-2952-y
+- type: journal
+  year: 2016
+  authors: Rellán-Álvarez, Ruben ; Lobet, Guillaume ; Dinneny, José R.
+  title: Environmental Control of Root System Biology
+  doi: 10.1146/annurev-arplant-043015-111848
+- type: journal
+  year: 2016
+  authors: Bouché, Frédéric ; Lobet, Guillaume ; Tocquin, Pierre ; Périlleux, Claire
+  title: FLOR-ID  An interactive database of flowering-time gene networks in Arabidopsis
+    thaliana
+  doi: 10.1093/nar/gkv1054
+- type: journal
+  year: 2016
+  authors: Bouché, F. ; D'Aloia, M. ; Tocquin, P. ; Lobet, Guillaume ; Detry, N. ;
+    Périlleux, C.
+  title: Integrating roots into a whole plant network of flowering time genes in Arabidopsis
+    thaliana
+  doi: 10.1038/srep29042
+- type: journal
+  year: 2016
+  authors: Couvreur, Valentin ; Harter, T. ; Read, M. ; Brown, P.H. ; Hopmans, J.W.
+    ; Smart, D.R. ; Baram, S.
+  title: Assessment of orchard N losses to groundwater with a vadose zone monitoring
+    network
+  doi: 10.1016/j.agwat.2016.04.012
+- type: journal
+  year: 2016
+  authors: Couvreur, Valentin ; Kandelous, M.M ; Sanden, B.L. ; Lampinen, B.D. ; Hopmans,
+    J.W.
+  title: Downscaling transpiration rate from field to tree scale
+  doi: 10.1016/j.agrformet.2016.02.008
+- type: journal
+  year: 2016
+  authors: Baram, S. ; Couvreur, Valentin ; Read, M. ; Harter, T. ; Brown, P.H. ;
+    Kandelous, M. ; Smart, D.R. ; Hopmans, J.W.
+  title: Estimating nitrate leaching to groundwater from orchards  Comparing crop
+    Nitrogen excess, deep vadose zone data-driven estimates, and HYDRUS modeling
+  doi: 10.2136/vzj2016.07.0061
+- type: journal
+  year: 2016
+  authors: Zarebanadkouki, Mohsen ; Meunier, Félicien ; Couvreur, Valentin ; Cesar,
+    Jimenez ; Javaux, Mathieu ; Carminati, Andrea
+  title: Estimation of the hydraulic conductivities of lupine roots by inverse modelling
+    of high-resolution measurements of root water uptake
+  doi: 10.1093/aob/mcw154
+- type: journal
+  year: 2016
+  authors: Meunier, Félicien ; Javaux, Mathieu ; Couvreur, Valentin ; Draye, Xavier
+    ; Vanderborght, Jan
+  title: A new model for optimizing the water acquisition of root hydraulic architectures
+    over full crop cycles
+  doi: 10.1109/FSPMA.2016.7818300
+- type: journal
+  year: 2016
+  authors: Jacquemart, Anne-Laure ; Lhoir, Pierre ; Binard, Fabian ; Descamps, Charlotte
+  title: An Interactive Multimedia Dichotomous Key for Teaching Plant Identification
+  doi: 10.1080/00219266.2016.1150870
+- type: journal
+  year: 2016
+  authors: Quinet, Muriel ; Warzée, Martin ; Vanderplanck, Maryse ; Michez, Denis
+    ; Lognay, Georges ; Jacquemart, Anne-Laure
+  title: Do floral resources influence pollination rates and subsequent fruitset in
+    pear (Pyrus communis L.) and apple (Malus x domestica Borkh) cultivars?
+  doi: 10.1016/j.eja.2016.04.001
+- type: journal
+  year: 2016
+  authors: Somme, Laurent ; Moquet, Laura ; Quinet, Muriel ; Vanderplanck, Maryse
+    ; Michez, Denis ; Lognay, Georges ; Jacquemart, Anne-Laure
+  title: Food in a row  urban trees offer valuable floral resources to pollinating
+    insects
+  doi: 10.1007/s11252-016-0555-z
+- type: journal
+  year: 2016
+  authors: Quinet, Muriel ; Mabeluanga, Tracy ; Moquet, Laura ; Jacquemart, Anne-Laure
+  title: Introduction of new tools to improve pollination in European pear orchards
+  doi: 10.1016/j.scienta.2016.10.014
+- type: journal
+  year: 2016
+  authors: Sinébou, Viviane ; Quinet, Muriel ; Ahohuendo, Bonaventure C. ; Jacquemart,
+    Anne-Laure
+  title: Reproductive traits affect the rescue of valuable and endangered multipurpose
+    tropical trees.
+  doi: 10.1093/aobpla/plw051
+- type: journal
   year: 2016
   authors: Raulier, Pierre ; Maudoux, O. ; Notté, C. ; Draye, Xavier ; Bertin, Pierre
   title: Exploration of genetic diversity within Cichorium endivia and Cichorium intybus
@@ -1157,37 +1076,11 @@
     traits during the vegetative phase in rice under hydroponics
   doi: 10.1007/s10681-016-1778-z
 - type: journal
-  year: 2019
-  authors: Leveau, Lola ; Falys, Hugues ; Bertin, Pierre
-  title: How to value the ecosystem services provided by a field? Parallel between
-    the indicators used by scientists and the empirical observations of belgian farmers
-  doi: 10.3390/proceedings2019030082
-- type: journal
   year: 2016
   authors: Dubois, Benjamin ; Bertin, Pierre ; Mingeot, Dominique
   title: Development of molecular markers in order to assess the α-gliadin immunogenic
     content of an international spelt collection
   doi: 10.4172/2329-8863.C1.003
-- type: journal
-  year: 2024
-  authors: Cugnon, Thibaut ; Mahillon, Jacques ; Lambert, Richard
-  title: In vitro anaerobic incubation  a reliable method to predict the potential
-    of nitrogen mineralization after grassland ploughing
-  doi: 10.25518/1780-4507.20613
-- type: journal
-  year: 2023
-  authors: Kokah, Essomandan Urbain ; Knoden, David ; Lambert, Richard ; Himdi, Hamza
-    ; Dumont, Benjamin ; Bindelle, Jérôme
-  title: Modeling the daily dynamics of grass growth of several species according
-    to their functional type, based on soil water and nitrogen dynamics  Gras-Sim
-    model definition, parametrization and evaluation
-  doi: 10.1016/j.jafr.2023.100875
-- type: journal
-  year: 2020
-  authors: Mathot, Mikaël ; Lambert, Richard ; Stilmant, Didier ; Decruyenaere, V.
-  title: Carbon, nitrogen, phosphorus and potassium flows and losses from solid and
-    semi-solid manures produced by beef cattle in deep litter barns and tied stalls
-  doi: 10.1016/j.agsy.2019.102735
 - type: journal
   year: 2016
   authors: Hardy, Brieuc ; Cornelis, Jean-Thomas ; Houben, David ; Leifeld, J ; Lambert,
@@ -1210,184 +1103,6 @@
     soil of Wallonia, Belgium
   doi: 10.1111/EJSS.12324
 - type: journal
-  year: 2024
-  authors: Yang, Nana ; Rongione, Charles ; Jacquemart, Anne-Laure ; Draye, Xavier
-    ; De Vleeschouwer, Christophe
-  title: On the Importance of Diversity When Training Deep Learning Segmentation Models
-    with Error-Prone Pseudo-Labels
-  doi: 10.3390/app14125156
-- type: journal
-  year: 2023
-  authors: Phan, Nhung Thi Hong ; Draye, Xavier ; Pham, Cuong Van ; Bertin, Pierre
-  title: Identification of quantitative trait loci controlling nitrogen use efficiency-related
-    traits in rice at the seedling stage under salt condition by genome-wide association
-    study
-  doi: 10.3389/fpls.2023.1197271
-- type: journal
-  year: 2022
-  authors: Saint Cast, Clément ; Lobet, Guillaume ; Cabrera-Bosquet, Llorenç ; Couvreur,
-    Valentin ; Pradal, Christophe ; Tardieu, François ; Draye, Xavier
-  title: Connecting plant phenotyping and modelling communities  lessons from science
-    mapping and operational perspectives
-  doi: 10.1093/insilicoplants/diac005
-- type: journal
-  year: 2022
-  authors: Mehra, Poonam ; Pandey, Bipin K. ; Melebari, Dalia ; Banda, Jason ; Leftley,
-    Nicola ; Couvreur, Valentin ; Rowe, James ; Anfang, Moran ; De Gernier, Hugues
-    ; Morris, Emily ; Sturrock, Craig J. ; Mooney, Sacha J. ; Swarup, Ranjan ; Faulkner,
-    Christine ; Beeckman, Tom ; Bhalerao, Rishikesh P. ; Shani, Eilon ; Jones, Alexander
-    M. ; Dodd, Ian C. ; Sharp, Robert E. ; Sadanandom, Ari ; Draye, Xavier ; Bennett,
-    Malcolm J.
-  title: Hydraulic flux–responsive hormone redistribution determines root branching
-  doi: 10.1126/science.add3771
-- type: journal
-  year: 2022
-  authors: Welcker, Claude ; Spencer, Nadir Abusamra ; Turc, Olivier ; Granato, Italo
-    ; Chapuis, Romain ; Madur, Delphine ; Beauchene, Katia ; Gouesnard, Brigitte ;
-    Draye, Xavier ; Palaffre, Carine ; Lorgeou, Josiane ; Melkior, Stephane ; Guillaume,
-    Colin ; Tardieu, François
-  title: Physiological adaptive traits are a potential allele reservoir for maize
-    genetic progress under challenging conditions
-  doi: 10.1038/s41467-022-30872-w
-- type: journal
-  year: 2021
-  authors: Couvreur, Valentin ; Heymans, Adrien ; Lobet, Guillaume ; Draye, Xavier
-  title: Evidence for a multicellular symplasmic water pumping mechanism across vascular
-    plant roots
-  doi: 10.1101/2021.04.19.439789
-- type: journal
-  year: 2021
-  authors: Barczi, Jean-François ; Beroueg, Amira ; Buck-Sorlin, Gerhard ; Couvreur,
-    Valentin ; Danjon, Frédéric ; Delory, Benjamin M. ; Doussan, Claude ; De Swaef,
-    Tom ; Draye, Xavier ; Drouet, Jean-Louis ; Dupuy, Lionel ; Garre, Sarah ; Gérard,
-    Frédéric ; Heymans, Adrien ; Hinsinger, Philippe ; Javaux, Mathieu ; Koch, Axelle
-    ; Landl, Magdalena ; Lecompte, François ; Leitner, Daniel ; Lobet, Guillaume ;
-    Lynch, Jonathan ; Martre, Pierre ; Meredieu, Céline ; Meunier, Felicien ; Mollier,
-    Alain ; Muller, Bertrand ; Nguyen, Christophe ; Picon-Cochard, Catherine ; Postma,
-    Johannes A. ; Pradal, Christophe ; Rees, Frédéric ; Richard-Molard, Céline ; Roose,
-    Tiina ; Saint Cast, Clément ; Schnepf, Andrea ; Thaler, Philippe ; Vanderborght,
-    Jan ; Wu, Lianhai ; Zhou, Xiaoran
-  title: Loïc Pagès, founding scientist in root ecology and modelling
-  doi: 10.1093/insilicoplants/diab035
-- type: journal
-  year: 2021
-  authors: Pascut, Flavius C. ; Couvreur, Valentin ; Dietrich, Daniela ; Leftley,
-    Nicky ; Reyt, Guilhem ; Boursiac, Yann ; Calvo-Polanco, Monica ; Casimiro, Ilda
-    ; Maurel, Christophe ; Salt, David E. ; Draye, Xavier ; Wells, Darren M. ; Bennett,
-    Malcolm J. ; Webb, Kevin F.
-  title: Non-invasive hydrodynamic imaging in plant roots at cellular resolution
-  doi: 10.1038/s41467-021-24913-z
-- type: journal
-  year: 2020
-  authors: Ding, Lei ; Milhiet, Thomas ; Couvreur, Valentin ; Nelissen, Hilde ; Meziane,
-    Adel ; Parent, Boris ; Aesaert, Stijn ; Van Lijsebettens, Mieke ; Inzé, Dirk ;
-    Tardieu, François ; Draye, Xavier ; Chaumont, François
-  title: Modification of the expression of the aquaporin ZmPIP2;5 affects water relations
-    and plant growth
-  doi: 10.1104/pp.19.01183
-- type: journal
-  year: 2019
-  authors: Muller, Bertrand ; Guédon, Yann ; Passot, Sixtine ; Lobet, Guillaume ;
-    Nacry, Philippe ; Pagès, Loïc ; Wissuwa, Matthias ; Draye, Xavier
-  title: Lateral Roots  Random Diversity in Adversity
-  doi: 10.1016/j.tplants.2019.05.011
-- type: journal
-  year: 2019
-  authors: Meunier, Félicien ; Heymans, Adrien ; Draye, Xavier ; Couvreur, Valentin
-    ; Javaux, Mathieu ; Lobet, Guillaume
-  title: MARSHAL, a novel tool for virtual phenotyping of maize root system hydraulic
-    architectures
-  doi: 10.1093/insilicoplants/diz012
-- type: journal
-  year: 2018
-  authors: Passot, Sixtine ; Couvreur, Valentin ; Meunier, Félicien ; Draye, Xavier
-    ; Javaux, Mathieu ; Leitner, Danier ; Pagès, Loïc ; Schnepf, Andrea ; Vanderborgth,
-    Jan ; Lobet, Guillaume
-  title: Connecting the dots between computational tools to analyse soil-root water
-    relations
-  doi: 10.1101/312918
-- type: journal
-  year: 2018
-  authors: Passot, Sixtine ; Couvreur, Valentin ; Meunier, Félicien ; Draye, Xavier
-    ; Javaux, Mathieu ; Leitner, Daniel ; Pagès, Loïc ; Schnepf, Andrea ; Vanderborght,
-    Jan ; Lobet, Guillaume
-  title: Connecting the dots between computational tools to analyse soil-root water
-    relations
-  doi: 10.1093/jxb/ery361
-- type: journal
-  year: 2018
-  authors: Couvreur, Valentin ; Faget, Marc ; Lobet, Guillaume ; Javaux, Mathieu ;
-    Chaumont, François ; Draye, Xavier
-  title: Going with the Flow  Multiscale Insights into the Composite Nature of Water
-    Transport in Roots
-  doi: 10.1104/pp.18.01006
-- type: journal
-  year: 2018
-  authors: Orman-Ligeza, Beata ; Morris, Emily C. ; Parizot, Boris ; Lavigne,Tristan
-    ; Babé, Aurélie ; Ligeza, Alexsander ; Chaumont, François ; Batoko, Henri ; Draye,
-    Xavier
-  title: The Xerobranching Response Represses Lateral Root Formation When Roots Are
-    Not in Contact with Water
-  doi: 10.1016/j.cub.2018.07.074
-- type: journal
-  year: 2017
-  authors: Meunier, Félicien ; Draye, Xavier ; Vanderborght, Jan ; Javaux, Mathieu
-    ; Couvreur, Valentin
-  title: A hybrid analytical-numerical method for solving water flow equations in
-    root hydraulic architectures
-  doi: 10.1016/j.apm.2017.08.011
-- type: journal
-  year: 2017
-  authors: Wang, Baohua ; Zhuang,Zhimin ; Zhang, Zhengsheng ; Draye, Xavier ; Shuang,
-    Lan-Shuan
-  title: Advanced Backcross QTL Analysis of Fiber Strength and Fineness in a Cross
-    between Gossypium hirsutum and G. mustelinum
-  doi: 10.3389/fpls.2017.01848
-- type: journal
-  year: 2017
-  authors: Couvreur, Valentin ; Faget, Marc ; Lobet, Guillaume ; Chaumont, François
-    ; Javaux, Mathieu ; Draye, Xavier
-  title: Novel multiscale insights into the composite nature of water transport in
-    roots
-  doi: 10.1101/147314
-- type: journal
-  year: 2017
-  authors: Wang, Baohua ; Draye, Xavier ; Zhuang, Zhimin ; Zhang, Zhengsheng ; Liu,
-    Min ; Lubbers, Edward L. ; Jones, Don ; May, O. Lloyd ; Paterson, Andrew H. ;
-    Chee, Peng W.
-  title: QTL analysis of cotton fiber length in advanced backcross populations derived
-    from a cross between Gossypium hirsutum and G. mustelinum
-  doi: 10.1007/s00122-017-2889-1
-- type: journal
-  year: 2017
-  authors: Tardieu, Francois ; Draye, Xavier ; Javaux, Mathieu
-  title: Root Water Uptake and Ideotypes of the Root System  Whole-Plant Controls
-    Matter
-  doi: 10.2136/vzj2017.05.0107
-- type: journal
-  year: 2017
-  authors: Chandnani, Rahul ; Wang, Baohua ; Draye, Xavier ; Rainville, Lisa K. ;
-    Auckland, Susan ; Zhuang, Zhimin ; Lubbers, Edward L. ; May, O. Lloyd ; Chee,
-    Peng W. ; Paterson, Andrew H.
-  title: Segregation distortion and genome-wide digenic interactions affect transmission
-    of introgressed chromatin from wild cotton species
-  doi: 10.1007/s00122-017-2952-y
-- type: journal
-  year: 2017
-  authors: Meunier, Félicien ; Couvreur, Valentin ; Draye, Xavier ; Vanderborght,
-    J. ; Javaux, Mathieu
-  title: Towards quantitative root hydraulic phenotyping  novel mathematical functions
-    to calculate plant-scale hydraulic parameters from root system functional and
-    structural traits
-  doi: 10.1007/s00285-017-1111-z
-- type: journal
-  year: 2017
-  authors: Meunier, Félicien ; Couvreur, Valentin ; Draye, Xavier ; Zarebanadkouki,
-    Mohsen ; Vanderborght, Jan ; Javaux, Mathieu
-  title: Water movement through plant roots – exact solutions of the water flow equation
-    in roots with linear or exponential piecewise hydraulic properties
-  doi: 10.5194/hess-21-6519-2017
-- type: journal
   year: 2016
   authors: Wang, B. ; Draye, Xavier ; Zhang, Z. ; Zhuang, Z. ; Lloyd May, O. ; Paterson,
     A.H. ; Chee, P.W.
@@ -1409,12 +1124,6 @@
   doi: 10.1038/srep33183
 - type: journal
   year: 2016
-  authors: Raulier, Pierre ; Maudoux, O. ; Notté, C. ; Draye, Xavier ; Bertin, Pierre
-  title: Exploration of genetic diversity within Cichorium endivia and Cichorium intybus
-    with focus on the gene pool of industrial chicory
-  doi: 10.1007/s10722-015-0244-4
-- type: journal
-  year: 2016
   authors: Millet, E.J. ; Welcker, C. ; Kruijer, W. ; Negro, S. ; Coupel-Ledru, A.
     ; Nicolas, S.D. ; Laborde, J. ; Bauland, C. ; Praud, S. ; Ranc, N. ; Presterl,
     T. ; Tuberosa, R. ; Bedo, Z. ; Draye, Xavier ; Usadel, B. ; Charcosset, A. ; Van
@@ -1431,37 +1140,9 @@
   doi: 10.1016/j.plantsci.2016.05.018
 - type: journal
   year: 2016
-  authors: Faux, Anne-Michelle ; Draye, Xavier ; Flamand, Marie-Christine ; Occre,
-    Adrien ; Bertin, Pierre
-  title: Identification of QTLs for sex expression in dioecious and monoecious hemp
-    (Cannabis sativa L.)
-  doi: 10.1007/s10681-016-1641-2
-- type: journal
-  year: 2016
   authors: Orman-Ligeza, Beata ; Parizot, Boris ; De rijcke, Riet ; Fernandez, Ana
     ; Himschoot, Ellie ; Van Breusegem, Franck ; Beeckman, Tom ; Bennett, Malcom J.
     ; Perilleux, Claire ; Draye, Xavier
   title: RBOH-mediated ROS production facilitates lateral root emergence in Arabidopsis
   doi: 10.1242/dev.136465
-- type: journal
-  year: 2023
-  authors: Couvreur, Valentin ; Mehra, Poonam ; Pandey, Bipin ; Draye, Xavier ;  Bennett,
-    Malcom
-  title: How air gaps in soils alter the distribution of root water and hormones fluxes,
-    thereby blocking root lateral branching
-  doi: 10.5194/egusphere-egu23-9384
-- type: journal
-  year: 2016
-  authors: Meunier, Félicien ; Javaux, Mathieu ; Couvreur, Valentin ; Draye, Xavier
-    ; Vanderborght, Jan
-  title: A new model for optimizing the water acquisition of root hydraulic architectures
-    over full crop cycles
-  doi: 10.1109/FSPMA.2016.7818300
-- type: journal
-  year: 2022
-  authors: Meunier, Félicien ; Couvreur, Valentin ; Draye, Xavier ; Lobet, Guillaume
-    ; Huber, Katrin ; Schroeder, Nathalie ; Jorda, Helena ; Koch, Axelle ; Landl,
-    Magdalena ; Schnepf, Andrea ; Vanderborght, Jan ; Vereecken, Harry ; Javaux, Mathieu
-  title: Investigating Soil–Root Interactions with the Numerical Model R-SWMS
-  doi: 10.1007/978-1-0716-1816-5_13
 
