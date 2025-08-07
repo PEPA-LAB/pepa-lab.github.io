@@ -187,7 +187,54 @@ form: fa-solidse
       {% endfor %}
 <hr>
 
+{% assign counterAlum = 0 %}
+{% for people in site.data.alumni %}
+        {% assign counterAlum = counterAlum | plus: 1 %}              
+{% endfor %}
 
+<h3> Our {{counterAlum}} Alumni's (since 2025) </h3>
+
+      {% for people in site.data.alumni %}
+          <div class="clearfix mb-3">
+            <!-- Add the image tag here with float-left class -->
+            {% if people.image %}
+              <img src="/img/{{ people.image }}" alt="{{ people.name }}" class="float-left mr-3" style="max-width: 150px; border-radius: 5px;">
+            {% endif %}
+
+            <div class="overflow-hidden">
+              <h5 class="mb-1">{{ people.name }}</h5>
+              <blockquote class="mb-1">{{ people.quote | markdownify }}</blockquote>
+
+              <div class="float-left">
+                  {% if people.tags %}
+                        {% for tag in people.tags %}
+                        <button type="button" class="btn btn-outline-secondary btn-sm mt-1">
+                          <i class="fa-solid fa-tag mr-1"></i>{{tag}}
+                        </button>
+                        {% endfor %}
+                  {% endif %} 
+
+                {% if people.alumni %}
+                  <button type="button" class="btn btn-outline-success btn-sm mt-1"><i class="fa-solid fa-user mr-1"></i>emeritus</button>
+                {% endif %} 
+
+
+                {% if people.url %}
+                  <a href="{{ people.url }}" class="btn btn-outline-primary btn-sm mb-1" target="_blank">
+                    <i class="fa-solid fa-external-link"></i> Website
+                  </a>
+                {% endif %}
+                {% if people.url2 %}
+                  <a href="{{ people.url2 }}" class="btn btn-outline-primary btn-sm mb-1" target="_blank">
+                    <i class="fa-solid fa-external-link"></i> More info
+                  </a>
+                {% endif %}                
+              </div>
+            </div>
+          </div>
+          <hr>          
+      {% endfor %}
+<hr>
 
 
 

@@ -1,0 +1,25 @@
+-
+  name: Brice Sinhouenon
+  description: >
+    tes
+  researcher: yes
+  phd: yes
+  current: yes
+  image: peep-sinhouenon.png
+  tags:
+    - genetic diversity
+    - cocoa
+
+
+-
+  name: Lisa Delfosse
+  description: >
+    tes
+  researcher: yes
+  current: yes
+  teaching: yes 
+  image: peep-delfosse.jpeg
+  tags:
+    - teaching
+    - evaluation
+    - botany
