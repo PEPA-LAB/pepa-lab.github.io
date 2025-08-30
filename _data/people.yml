@@ -447,10 +447,20 @@
   name: Cloé Christiaens
   researcher: yes
   current: yes
-  image: peep-default.png
+  image: peep-christiaens.jpg
   tags:
     - agricultural systems
     - taxonomy
+
+-
+  name: Zacharie Cortvrint
+  researcher: yes
+  current: yes
+  image: peep-cortvrint.jpg
+  tags:
+    - nitrogen
+    - water
+    - crops  
 
 
 
