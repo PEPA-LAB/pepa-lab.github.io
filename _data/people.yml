@@ -328,6 +328,7 @@
   researcher: yes
   current: yes
   phd: yes
+  copromotion: CRA-w
   image: peep-defalque.jpeg
   tags:
     - root
@@ -349,19 +350,6 @@
     - nitrogen
     - maize
     - climbing
-
--
-  name: Lena Jeannerod
-  description: >
-    tes
-  researcher: yes
-  current: yes
-  phd: yes
-  image: peep-Jeannerod.jpeg
-  tags:
-    - bee
-    - pollinators
-    - pollen
 
 
 -
@@ -413,6 +401,7 @@
   teaching: yes
   current: yes
   image: peep-paris.jpg
+  copromotion: ELIE, UCLouvain
   tags:
     - market gardenning
     - soil health
