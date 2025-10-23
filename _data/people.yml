@@ -243,6 +243,19 @@
     - LA ICP MS
     - spectometry
 
+-
+  name: Maxime Thomas
+  description: >
+    tes
+  researcher: yes
+  postdoc: yes
+  current: yes
+  url: https://www.researchgate.net/profile/Maxime-Thomas-3
+  image: peep-thomas.png
+  tags:
+    - remove sensing
+       
+
 
 
 
