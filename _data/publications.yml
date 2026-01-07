@@ -1,9 +1,3 @@
--  type: journal
-   title: In silico analysis of carbon stabilisation by plant and soil microbes for different weather scenarios
-   authors: Giraud M, Sırcan AK, Streck T, Leitner D, Lobet G, Pagel H, Schnepf A
-   year: 2025
-   preprint: yes
-   doi: 10.5194/egusphere-2025-572
 - type: journal
   year: 2025
   authors: Leveau, Lola ; Biot, Nicolas ; Lobet, Guillaume ; Bertin, Pierre
@@ -12,11 +6,55 @@
   doi: 10.3897/oneeco.10.e151491
 - type: journal
   year: 2025
+  authors: Julkowska, Magdalena ; Lobet, Guillaume ; Chandrasekhar, Arjun
+  title: Beyond efficiency  The multi-scale architecture of robust water transport
+    in plants
+  doi: 10.1017/qpb.2025.10035
+- type: journal
+  year: 2025
   authors: Baca Cabrera, Juan C ; Vanderborght, Jan ; Boursiac, Yann ; Behrend, Dominik
     ; Gaiser, Thomas ; Nguyen, Thuy Huu ; Lobet, Guillaume
   title: Decreased root hydraulic traits in German winter wheat cultivars over 100
     years of breeding
   doi: 10.1093/plphys/kiaf166
+- type: journal
+  year: 2025
+  authors: Barry, Luke ; Baca Cabrera, Juan Carlos ; Lucas, Mikael ; Lobet, Guillaume
+    ; Boursiac, Yann ; Grondin, Alexandre
+  title: Role of xylem in root hydraulics  functionality and implications for drought
+    adaptation
+  doi: 10.1017/qpb.2025.10026
+- type: journal
+  year: 2025
+  authors: Dylan H.,Jones ; Juan C. Baca Cabrera ; Dominik Behrend ; Darren M. Wells
+    ; Joel Swift ; Jonathan A. Atkinson ; Lobet, Guillaume ; Meredith T. Hanlon ;
+    Hannah M. Schneider
+  title: The Rapid Anatomics Tool (RAT)  A low-cost root anatomical phenotyping pipeline
+    reveals changes in root anatomy along the root axis
+  doi: 10.1101/2025.09.05.674482
+- type: journal
+  year: 2025
+  authors: Jones, Dylan H. ; Baca Cabrera, Juan C. ; Behrend, Dominik ; Wells, Darren
+    M. ; Swift, Joel F. ; Atkinson, Jonathan A. ; Schön, Maria ; Lobet, Guillaume
+    ; Hanlon, Meredith T. ; Schneider, Hannah M.
+  title: The Rapid Anatomics Tool (RAT)  A low-cost root anatomical phenotyping platform
+    reveals changes in root anatomy along the root axis
+  doi: 10.1016/j.plaphe.2025.100150
+- type: journal
+  year: 2025
+  authors: Abitbol-Spangaro, Jeanne ; Cloarec, Gladys ; Muller, Arthur ; Hallet, Stéphanie
+    ; Boulogne, Claire ; Gillet, Cynthia ; Schmidt, Vojtěch ; Dobrev, Petre I. ; Skokan,
+    Roman ; Couvreur, Valentin ; de Keijzer, Jeroen ; Godin, Christophe ; Coudert,
+    Yoan
+  title: Robust branch patterning in moss shoots via symplasmic auxin diffusion
+  doi: 10.1016/j.cub.2025.09.031
+- type: journal
+  year: 2025
+  authors: Gancedo Tarano, Inès ; Boumal, Thomas ; De Toffoli, Marc ; Buron, Maxime
+    ; Kiljanek, Tomasz ; Martel, Anne-Claire ; Jacquemart, Anne-Laure ; Agnan, Yannick
+  title: Are cover crops a potential threat for pollinators due to clothianidin residues
+    in floral resources?
+  doi: 10.1007/s10661-025-14741-9
 - type: journal
   year: 2025
   authors: Michelot‐Antalik, Alice ; Langlois, Alban ; de Bello, Francesco ; Desaegher,
@@ -27,6 +65,13 @@
   title: Handbook of protocols for standardized measurements of floral traits for
     pollinators in temperate communities
   doi: 10.1111/2041-210x.70031
+- type: journal
+  year: 2025
+  authors: Pommier, Cyril ; Alic, Isabelle ; Cabrera-Bosquet, Llorenç ; Draye, Xavier
+    ; Neveu, Pascal ; Reif, Jochen C. ; Robbins, Kelly R. ; Krajewski, Pawel ; Tardieu,
+    François
+  title: Reassessing data management in increasingly complex phenotypic datasets
+  doi: 10.1016/j.tplants.2025.09.001
 - type: journal
   year: 2025
   authors: Heine, Benjamin ; Gaspart, Frédéric ; Biot, Nicolas
