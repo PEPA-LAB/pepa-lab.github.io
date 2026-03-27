@@ -1,4 +1,22 @@
 - type: journal
+  year: 2026
+  authors: Le Gall, Samuel ; van Dusschoten, Dagmar ; Lattacher, Adrian ; Giraud,
+    Mona ; Harings, Moritz ; Diaz, Paulina Deseano ; Pflugfelder, Daniel ; Alahmad,
+    Samir ; Hickey, Lee ; Sircan, Ahmet ; Kandeler, Ellen ; Lobet, Guillaume ; Schnepf,
+    Andrea ; Pagel, Holger ; Poll, Christian ; Vereecken, Harry ; Javaux, Mathieu
+    ; Rothfuss, Youri
+  title: Combining spring wheat genotypes with contrasting root traits for a better
+    use of water resources in soil? Evidence from column-scale water stable isotopic
+    experiments
+  doi: 10.1007/s11104-026-08386-x
+- type: journal
+  year: 2026
+  authors: Ding, Lei ; Laurent, Maxime ; Legay, Sylvain ; Aesaer, Stijn ; Georgery,
+    Julien ; Couvreur, Valentin
+  title: Cell-specific transcriptomics and knockout reveal aquaporin function in grass
+    stomatal movements
+  doi: 10.1111/nph.71004
+- type: journal
   year: 2025
   authors: Leveau, Lola ; Biot, Nicolas ; Lobet, Guillaume ; Bertin, Pierre
   title: A collection of field-based indicators for assessing ecosystem services in
@@ -17,6 +35,13 @@
   title: Decreased root hydraulic traits in German winter wheat cultivars over 100
     years of breeding
   doi: 10.1093/plphys/kiaf166
+- type: journal
+  year: 2025
+  authors: Dendoncker, Morgane ; Maheu, Audrey ; Weemstra, Monique ; Villemaire-Côté,
+    Olivier ; Darquié, Léa ; Lobet, Guillaume
+  title: Intraspecific variability rivals interspecific differences in root traits
+    of temperate tree seedlings
+  doi: 10.64898/2025.12.15.694302
 - type: journal
   year: 2025
   authors: Barry, Luke ; Baca Cabrera, Juan Carlos ; Lucas, Mikael ; Lobet, Guillaume
@@ -42,6 +67,21 @@
   doi: 10.1016/j.plaphe.2025.100150
 - type: journal
   year: 2025
+  authors: Biot, Nicolas ; Hecquet, Corentin ; Maréchal, Kevin ; Lobet, Guillaume
+    ; Dendoncker, Nicolas
+  title: The importance of market gardeners’ characteristics, distribution channels
+    and food supply chain challenges for the viability of their farms  insights from
+    a territorial study in Belgium
+  doi: 10.1080/21683565.2025.2597006
+- type: journal
+  year: 2025
+  authors: Ding, Lei ; D'Agostino, Marco ; Degand, Théo ; Rothwell, Monica ; Dagbert,
+    Thomas ; Couvreur, Valentin
+  title: Protocols for in situ continuous monitoring of water relations/potential
+    in soil and leaf
+  doi: 10.12688/openreseurope.21382.1
+- type: journal
+  year: 2025
   authors: Abitbol-Spangaro, Jeanne ; Cloarec, Gladys ; Muller, Arthur ; Hallet, Stéphanie
     ; Boulogne, Claire ; Gillet, Cynthia ; Schmidt, Vojtěch ; Dobrev, Petre I. ; Skokan,
     Roman ; Couvreur, Valentin ; de Keijzer, Jeroen ; Godin, Christophe ; Coudert,
@@ -65,6 +105,20 @@
   title: Handbook of protocols for standardized measurements of floral traits for
     pollinators in temperate communities
   doi: 10.1111/2041-210x.70031
+- type: journal
+  year: 2025
+  authors: de Oliveira, Ana Caroline ; Vertommen, Didier ; Pyr Dit Ruys, Sébastien
+    ; Rogez, Herve ; Debode, Frédéric ; Mingeot, Dominique ; Bertin, Pierre ; Muhovski,
+    Yordan
+  title: Comparative proteomic analysis of unfermented cocoa beans reveals key metabolic
+    differences between fine-flavor and bulk genotypes.
+  doi: 10.3389/fpls.2025.1674701
+- type: journal
+  year: 2025
+  authors: Cugnon, Thibaut ; De Toffoli, Marc ; Mahillon, Jacques ; Lambert, Richard
+  title: Improving Nitrogen Fertilization Recommendations in Temperate Agricultural
+    Systems  A Study on Walloon Soils Using Anaerobic Incubation and POxC
+  doi: 10.3390/nitrogen6040091
 - type: journal
   year: 2025
   authors: Pommier, Cyril ; Alic, Isabelle ; Cabrera-Bosquet, Llorenç ; Draye, Xavier
@@ -117,8 +171,8 @@
   year: 2024
   authors: Vanderborght, Jan ; Couvreur, Valentin ; Javaux, Mathieu ; Leitner, Daniel
     ; Schnepf, Andrea ; Vereecken, Harry
-  title: Mechanistically derived macroscopic root water uptake functions  The &lt;i&gt;α&lt;/i&gt;
-    and &lt;i&gt;ω&lt;/i&gt; of root water uptake functions
+  title: Mechanistically derived macroscopic root water uptake functions  The α and
+    ω of root water uptake functions
   doi: 10.1002/vzj2.20333
 - type: journal
   year: 2024
