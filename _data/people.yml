@@ -1,5 +1,22 @@
 
 -
+  name: John Doe
+  description: >
+    tes
+  pi: yes
+  current: yes
+  url: https://scholar.google.com/citations?user=zPzIN4QAAAAJ&hl=fr
+  image: peep-couvreur.jpg
+  tags:
+    - root
+    - anatomy
+    - modelling
+    - hydraulics
+    - maize
+    - trees
+    - transition
+
+-
   name: Valentin Couvreur
   description: >
     tes
