@@ -536,6 +536,21 @@
     - birds
     
 
-
+-
+  name: Victor Mullens
+  description: >
+    Victor is a PhD student in the field of agricultural engineering, focusing on the integration of remote sensing and IoT sensors for precision agriculture. His research aims to improve crop management and yield prediction through advanced data analysis.
+  researcher: yes
+  current: yes
+  phd: yes
+  image: peep-mullens.jpg
+  copromotion: ELI-E, UCLouvain
+  tags:
+    - Remote sensing
+    - IOT sensors
+    - Wheat 
+    - Yield
+    - Water
+    - Nitrogen
 
 
