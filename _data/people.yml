@@ -553,4 +553,18 @@
     - Water
     - Nitrogen
 
+  name: Gaëlle Hanssens
+  description: >
+    Gaëlle is a PhD student in the field of agroecology, focusing on the impact of agricultural practices on soil health and crop nutrition. Her research aims to develop sustainable farming methods that enhance soil fertility and nutritionnal quality.
+  researcher: yes
+  current: yes
+  phd: yes
+  image: peep-hanssens.jpg
+  copromotion: CETRAL, UCLouvain
+  tags:
+    - Agroecological practices
+    - Soil Health
+    - Wheat 
+    - Nutrition 
+  
 
